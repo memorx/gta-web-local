@@ -1,0 +1,157 @@
+{
+ "site": "vc-degenatron",
+ "rows": [
+  {
+   "ts": "20021201100922",
+   "url": "http://www.degenatron.com:80/",
+   "mime": "text/html",
+   "len": 2913,
+   "cap": "20030319205758",
+   "sha1": "7b7188cfa51399c8631ea17cda3fcd0aa7e83812"
+  },
+  {
+   "ts": "20030708025307",
+   "url": "http://www.degenatron.com:80/defenderOfTheFaith.html",
+   "mime": "text/html",
+   "len": 645,
+   "cap": "20030708025307",
+   "sha1": "5e82cae95962b71cc7e75d1b64d6c07b6274fb19"
+  },
+  {
+   "ts": "20040226214722",
+   "url": "http://www.degenatron.com:80/defenderOfTheFaith.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 69790,
+   "cap": "20040226214722",
+   "sha1": "f50cf62f5bc52f2a8999b40d36611db18383f55f"
+  },
+  {
+   "ts": "20021021201211",
+   "url": "http://www.degenatron.com:80/degenatron.css",
+   "mime": "text/css",
+   "len": 425,
+   "cap": "20030409202550",
+   "sha1": "ac050857c138216783c36a3e6a451274264e266f"
+  },
+  {
+   "ts": "20030403160206",
+   "url": "http://www.degenatron.com:80/degenatron.mp3",
+   "mime": "audio/mpeg",
+   "len": 14258,
+   "cap": "20030403160206",
+   "sha1": "e09f0d6d818c9f3b7b105c1c90ab960f9a6bf50d"
+  },
+  {
+   "ts": "20031224223126",
+   "url": "http://www.degenatron.com:80/graphics/defenderOfTheFaith.gif",
+   "mime": "image/gif",
+   "len": 2772,
+   "cap": "20031224223126",
+   "sha1": "656dbe024448dd095a1b0461f30beb33c999eac2"
+  },
+  {
+   "ts": "20040225032415",
+   "url": "http://www.degenatron.com:80/graphics/degenatron.jpg",
+   "mime": "image/jpeg",
+   "len": 82349,
+   "cap": "20040225032415",
+   "sha1": "b0b580d7567518441cbc3238384bfa4fc9ab25e8"
+  },
+  {
+   "ts": "20030401171815",
+   "url": "http://www.degenatron.com:80/graphics/degenatronLogo.gif",
+   "mime": "image/gif",
+   "len": 7772,
+   "cap": "20030401171815",
+   "sha1": "60053282430509fd6cda17d44f315f6a8627ae38"
+  },
+  {
+   "ts": "20031224234815",
+   "url": "http://www.degenatron.com:80/graphics/emulator.gif",
+   "mime": "image/gif",
+   "len": 1132,
+   "cap": "20031224234815",
+   "sha1": "a66b6c5043fbb6ea8983bddf476de090b1bc3e41"
+  },
+  {
+   "ts": "20030529161939",
+   "url": "http://www.degenatron.com:80/graphics/IE.gif",
+   "mime": "image/gif",
+   "len": 8609,
+   "cap": "20030529161939",
+   "sha1": "304ab411ea7234643856531c3fae4ebef53b26c6"
+  },
+  {
+   "ts": "20030529140754",
+   "url": "http://www.degenatron.com:80/graphics/lnchange.gif",
+   "mime": "image/gif",
+   "len": 1132,
+   "cap": "20030529140754",
+   "sha1": "7f3dcb50591e4b79d3e1310fee709892acd37af2"
+  },
+  {
+   "ts": "20030529143807",
+   "url": "http://www.degenatron.com:80/graphics/monkeysparadise.gif",
+   "mime": "image/gif",
+   "len": 1769,
+   "cap": "20030529143807",
+   "sha1": "9204591c98d4df017b070287eafd0062b050d629"
+  },
+  {
+   "ts": "20030401163006",
+   "url": "http://www.degenatron.com:80/graphics/NS.gif",
+   "mime": "image/gif",
+   "len": 5393,
+   "cap": "20030401163006",
+   "sha1": "6f9f08685242d347d37989d76be7d81d41424ce3"
+  },
+  {
+   "ts": "20030529144423",
+   "url": "http://www.degenatron.com:80/graphics/penetrator.gif",
+   "mime": "image/gif",
+   "len": 3331,
+   "cap": "20030529144423",
+   "sha1": "33a45225a1b075c7d9b4bd4f11c307eab207aff1"
+  },
+  {
+   "ts": "20030529150236",
+   "url": "http://www.degenatron.com:80/graphics/scans.gif",
+   "mime": "image/gif",
+   "len": 829,
+   "cap": "20030529150236",
+   "sha1": "c298e22e70245b1f6d581d5b953585c36aedaefe"
+  },
+  {
+   "ts": "20070326224223",
+   "url": "http://www.degenatron.com/graphics/starryBackground.jpg",
+   "mime": "image/jpeg",
+   "len": 1744,
+   "cap": "20070326224223",
+   "sha1": "6248d011c3a9e338b0581c84ac1c8d48646116c7"
+  },
+  {
+   "ts": "20030708025601",
+   "url": "http://www.degenatron.com:80/monkeysParadise.html",
+   "mime": "text/html",
+   "len": 646,
+   "cap": "20030708025601",
+   "sha1": "2e5725d5e4a5a4fe267f53f73bf3f65aa4967157"
+  },
+  {
+   "ts": "20030708030637",
+   "url": "http://www.degenatron.com:80/penetrator.html",
+   "mime": "text/html",
+   "len": 628,
+   "cap": "20030708030637",
+   "sha1": "30bec6928d4b89795808c8dbf974a1edc4c42eb9"
+  },
+  {
+   "ts": "20030824042028",
+   "url": "http://www.degenatron.com:80/penetrator.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 53918,
+   "cap": "20030824042028",
+   "sha1": "4ea40124acc9b9276855c7bc2cbb948513650467"
+  }
+ ]
+}

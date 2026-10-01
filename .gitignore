@@ -1,0 +1,29 @@
+# Generated from the user's own game files: never commit
+/out/
+/work/
+config.toml
+
+# Anything extracted or converted from the games
+*.whm
+*.wtd
+*.wtd.png
+*.ytd
+*.gfx
+*.swf
+*.rpf
+*.gxt
+*.gxt2
+*.dds
+*.ysc
+
+# Tooling
+__pycache__/
+node_modules/
+*.exe
+bin/
+obj/
+.vs/
+
+
+# Probe reports and screenshots (tests/probe.mjs)
+/probe/

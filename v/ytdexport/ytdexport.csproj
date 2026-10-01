@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Built by v/thirdparty.py: dotnet build -p:CodeWalkerDir=<CodeWalker source checkout> -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <CodeWalkerDir Condition="'$(CodeWalkerDir)' == ''">..\CodeWalker</CodeWalkerDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="$(CodeWalkerDir)\CodeWalker.Core\CodeWalker.Core.csproj" />
+  </ItemGroup>
+</Project>

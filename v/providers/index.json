@@ -1,0 +1,13 @@
+{
+  "_comment": "Proveedores de datos de las webs dinamicas (docs/gta-v.md, Host and providers). Clave = dominio; se carga providers/<dominio>.js despues de sus deps. Una web que no este aqui no carga archivo.",
+  "providers": {
+    "www.bawsaq.com": { "deps": ["_player.js", "_stock_market.js"] },
+    "www.lcn-exchange.com": { "deps": ["_player.js", "_stock_market.js"] },
+    "www.lifeinvader.com": {},
+    "www.maze-bank.com": { "deps": ["_player.js", "_bank.js"] },
+    "www.fleeca.com": { "deps": ["_player.js", "_bank.js"] },
+    "www.thebankofliberty.com": { "deps": ["_player.js", "_bank.js"] },
+    "www.epsilonprogram.com": {},
+    "www.thechildrenofthemountain.com": { "deps": ["_player.js"] }
+  }
+}

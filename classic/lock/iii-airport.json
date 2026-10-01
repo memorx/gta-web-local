@@ -1,0 +1,93 @@
+{
+ "site": "iii-airport",
+ "rows": [
+  {
+   "ts": "20030208125522",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/francisAirport/",
+   "mime": "text/html",
+   "len": 2056,
+   "cap": "20030208125522",
+   "sha1": "dc5818524bd01e6a144443c5c48e22b6034db856"
+  },
+  {
+   "ts": "20021121162549",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/francisAirport/graphics/1.gif",
+   "mime": "image/gif",
+   "len": 326,
+   "cap": "20021121162549",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20061119235542",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/francisAirport/graphics/background.gif",
+   "mime": "image/gif",
+   "len": 631,
+   "cap": "20061119235542",
+   "sha1": "4510c2ddebff8a6da00c03cb69ecf0075def1977"
+  },
+  {
+   "ts": "20011026215738",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/francisAirport/graphics/flightInfo.gif",
+   "mime": "image/gif",
+   "len": 985,
+   "cap": "20011026215738",
+   "sha1": "6f947ae660b8995de740ec1c6c975c08fdf79283"
+  },
+  {
+   "ts": "20011026220129",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/francisAirport/graphics/francisNews.gif",
+   "mime": "image/gif",
+   "len": 891,
+   "cap": "20011026220129",
+   "sha1": "dd44ef71ea02adb9bd3f5c6386c617955bc02f76"
+  },
+  {
+   "ts": "20011229174233",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/francisAirport/graphics/francisTitle.gif",
+   "mime": "image/gif",
+   "len": 11509,
+   "cap": "20011229174233",
+   "sha1": "cd44a46c7f72e9c9d73c0e87715668379718240b"
+  },
+  {
+   "ts": "20011026221037",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/francisAirport/graphics/miamiAd.gif",
+   "mime": "image/gif",
+   "len": 3755,
+   "cap": "20011026221037",
+   "sha1": "f32443d698380a0e797678c1a6714e910bced590"
+  },
+  {
+   "ts": "20021121164727",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/francisAirport/graphics/transportation.gif",
+   "mime": "image/gif",
+   "len": 931,
+   "cap": "20021121164727",
+   "sha1": "93eae95b5e38f9cd49dc8f083184a1526ab84d20"
+  },
+  {
+   "ts": "20011026222229",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/francisAirport/graphics/weather.gif",
+   "mime": "image/gif",
+   "len": 742,
+   "cap": "20011026222229",
+   "sha1": "09daf02791d80797b6c76b9cda114459baf7c882"
+  },
+  {
+   "ts": "20011026164257",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/francisAirport/graphics/weatherMap.jpg",
+   "mime": "image/jpeg",
+   "len": 6589,
+   "cap": "20011026164257",
+   "sha1": "3fc0080daf20783d303b990f487e25673e8f2fa2"
+  },
+  {
+   "ts": "20011026094925",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/francisAirport/index.html",
+   "mime": "text/html",
+   "len": 2043,
+   "cap": "20030208125522",
+   "sha1": "dc5818524bd01e6a144443c5c48e22b6034db856"
+  }
+ ]
+}

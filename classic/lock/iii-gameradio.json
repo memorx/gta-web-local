@@ -1,0 +1,45 @@
+{
+ "site": "iii-gameradio",
+ "rows": [
+  {
+   "ts": "20020702122405",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/gameRadio/",
+   "mime": "text/html",
+   "len": 793,
+   "cap": "20020702122405",
+   "sha1": "bff253017748c6c8e83ea0156d015c2737bad6c8"
+  },
+  {
+   "ts": "20011229120954",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/gameRadio/graphics/1.gif",
+   "mime": "image/gif",
+   "len": 318,
+   "cap": "20011229120954",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20070414231911",
+   "url": "http://rockstargames.com/grandtheftauto3/flash/gameRadio/graphics/background.gif",
+   "mime": "image/gif",
+   "len": 13264,
+   "cap": "20070414231911",
+   "sha1": "f3042cebb8d9b3cfd477d68ed8491a2939ef4c30"
+  },
+  {
+   "ts": "20011129042412",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/gameRadio/graphics/gameradio.jpg",
+   "mime": "image/jpeg",
+   "len": 22311,
+   "cap": "20011129042412",
+   "sha1": "8d0c222990a9136363ca129661f26e7142a6ecf9"
+  },
+  {
+   "ts": "20011208000815",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/gameRadio/index.html",
+   "mime": "text/html",
+   "len": 778,
+   "cap": "20020702122405",
+   "sha1": "bff253017748c6c8e83ea0156d015c2737bad6c8"
+  }
+ ]
+}

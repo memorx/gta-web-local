@@ -1,0 +1,69 @@
+{
+ "site": "iii-makeyoufamous",
+ "rows": [
+  {
+   "ts": "20020201234133",
+   "url": "http://www.rockstargames.com:80/makeyoufamous/",
+   "mime": "text/html",
+   "len": 537,
+   "cap": "20020606202250",
+   "sha1": "a2d68b595f474cece7cbe81986b1ded192216da0"
+  },
+  {
+   "ts": "20020405211725",
+   "url": "http://www.rockstargames.com:80/makeyoufamous/body.html",
+   "mime": "text/html",
+   "len": 1734,
+   "cap": "20020405211725",
+   "sha1": "2c4c38798c29f17fbbfd283f02a833b9e6d6e007"
+  },
+  {
+   "ts": "20020819122923",
+   "url": "http://rockstargames.com:80/makeyoufamous/closed.jpg",
+   "mime": "image/jpeg",
+   "len": 16625,
+   "cap": "20020819122923",
+   "sha1": "92645ab2c657d9041bb6dc8b73c966bdd5eb5954"
+  },
+  {
+   "ts": "20061020030637",
+   "url": "http://www.rockstargames.com/makeyoufamous/index.html",
+   "mime": "text/html",
+   "len": 523,
+   "cap": "20020606202250",
+   "sha1": "a2d68b595f474cece7cbe81986b1ded192216da0"
+  },
+  {
+   "ts": "20020609101606",
+   "url": "http://rockstargames.com:80/makeyoufamous/logo_gta3.gif",
+   "mime": "image/gif",
+   "len": 3201,
+   "cap": "20020609101606",
+   "sha1": "b3533775c396790aabb81bab64e6147916c8d053"
+  },
+  {
+   "ts": "20020219150729",
+   "url": "http://www.rockstargames.com:80/makeyoufamous/top.html",
+   "mime": "text/html",
+   "len": 629,
+   "cap": "20020609005728",
+   "sha1": "59f1686005d91619f81bb0043b1d9e3f5d6bb213"
+  },
+  {
+   "ts": "20101229171634",
+   "url": "http://www.rockstargames.com/makeyoufamous/top_bg.jpg",
+   "mime": "image/jpeg",
+   "len": 1256,
+   "cap": "20101229171634",
+   "sha1": "cc217365ae75845ea058e3c8bafe51000dabbaa9"
+  },
+  {
+   "ts": "20020316095435",
+   "url": "http://rockstargames.com:80/makeyoufamous/top_logo1.gif",
+   "mime": "image/gif",
+   "len": 9746,
+   "cap": "20020316095435",
+   "sha1": "cc5ba9ccb74fa1060af0c5352d3f675d200eea59"
+  }
+ ]
+}

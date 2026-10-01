@@ -1,0 +1,442 @@
+{
+ "site": "iii-adcouncil",
+ "rows": [
+  {
+   "ts": "20110721191815",
+   "url": "http://www.rockstargames.com/advertisingcouncil/",
+   "mime": "text/html",
+   "len": 2710,
+   "cap": "20110721191815",
+   "sha1": "eb6219dd2edaff9a1ac73f3ff52bf0ea5ed4ec41"
+  },
+  {
+   "ts": "20110721191841",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/css/screen.css",
+   "mime": "text/css",
+   "len": 930,
+   "cap": "20110721191841",
+   "sha1": "2cf23865bb8beb973c794d4b237b473705189e93"
+  },
+  {
+   "ts": "20110721191832",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/1984.gif",
+   "mime": "image/gif",
+   "len": 1174,
+   "cap": "20110721191832",
+   "sha1": "8242cf55947f7b3926c2235c8959e9134e846ee2"
+  },
+  {
+   "ts": "20110721191824",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/1986.gif",
+   "mime": "image/gif",
+   "len": 1219,
+   "cap": "20110721191824",
+   "sha1": "fc0f7e9db1455910641931b220f7dd66bbb2e4fd"
+  },
+  {
+   "ts": "20110721191837",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/1992.gif",
+   "mime": "image/gif",
+   "len": 1169,
+   "cap": "20110721191837",
+   "sha1": "5d064571e0592a0ebe53f476c7dd95b07736f298"
+  },
+  {
+   "ts": "20110721191828",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/1998.gif",
+   "mime": "image/gif",
+   "len": 1223,
+   "cap": "20110721191828",
+   "sha1": "19019af00bb817c3ed816e17396e715dc241ced9"
+  },
+  {
+   "ts": "20110721191905",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/2001.gif",
+   "mime": "image/gif",
+   "len": 1134,
+   "cap": "20110721191905",
+   "sha1": "f067eb5e94558a726c6f7a8a9c1d96d04fcfcc01"
+  },
+  {
+   "ts": "20110721191820",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/2008.gif",
+   "mime": "image/gif",
+   "len": 1257,
+   "cap": "20110721191820",
+   "sha1": "e97e929e2e9e8cbd8d6f6641eb5d5ec1687ba233"
+  },
+  {
+   "ts": "20110721231151",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/bg.gif",
+   "mime": "image/gif",
+   "len": 2226,
+   "cap": "20110721231151",
+   "sha1": "c43688e270bf0c52efa15696dbc05916f87c572d"
+  },
+  {
+   "ts": "20110721191846",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/header.jpg",
+   "mime": "image/jpeg",
+   "len": 54246,
+   "cap": "20110721191846",
+   "sha1": "09f8e77c6e175c434cabe0ba7feed040106bb9e9"
+  },
+  {
+   "ts": "20110721191850",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/libertycity.gif",
+   "mime": "image/gif",
+   "len": 1781,
+   "cap": "20110721191850",
+   "sha1": "b9101bd0006744ca100454b32b93bd90b3653efb"
+  },
+  {
+   "ts": "20110721191855",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/sanandreas.gif",
+   "mime": "image/gif",
+   "len": 2133,
+   "cap": "20110721191855",
+   "sha1": "817390c2f4b1647658e4399ac259f1e90db13435"
+  },
+  {
+   "ts": "20110721191910",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/img/vicecity.gif",
+   "mime": "image/gif",
+   "len": 1543,
+   "cap": "20110721191910",
+   "sha1": "5c7840a0a146b1dafc026f415445e1c4663d5fae"
+  },
+  {
+   "ts": "20110721191859",
+   "url": "http://www.rockstargames.com/advertisingcouncil/1/js/jquery.adcouncil.js",
+   "mime": "application/x-javascript",
+   "len": 1648,
+   "cap": "20110721191859",
+   "sha1": "7d28c38f89091d7628758c4daf2898fdb0c64d0e"
+  },
+  {
+   "ts": "20130120060735",
+   "url": "http://www.rockstargames.com/advertisingcouncil/ads/getAdsByYear/",
+   "mime": "text/html",
+   "len": 487,
+   "cap": "20130120060735",
+   "sha1": "b858cb282617fb0956d960215c8e84d1ccf909c6"
+  },
+  {
+   "ts": "20130831034820",
+   "url": "http://www.rockstargames.com/advertisingcouncil/css/screen.css",
+   "mime": "text/css",
+   "len": 1048,
+   "cap": "20130831034820",
+   "sha1": "bdb41f4489c51011675103688645a353ac87803c"
+  },
+  {
+   "ts": "20130831055447",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/1984.gif",
+   "mime": "image/gif",
+   "len": 1225,
+   "cap": "20130831055447",
+   "sha1": "8242cf55947f7b3926c2235c8959e9134e846ee2"
+  },
+  {
+   "ts": "20130831014028",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/1986.gif",
+   "mime": "image/gif",
+   "len": 1272,
+   "cap": "20130831014028",
+   "sha1": "fc0f7e9db1455910641931b220f7dd66bbb2e4fd"
+  },
+  {
+   "ts": "20130831045632",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/1992.gif",
+   "mime": "image/gif",
+   "len": 1219,
+   "cap": "20130831045632",
+   "sha1": "5d064571e0592a0ebe53f476c7dd95b07736f298"
+  },
+  {
+   "ts": "20130831034824",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/1998.gif",
+   "mime": "image/gif",
+   "len": 1275,
+   "cap": "20130831034824",
+   "sha1": "19019af00bb817c3ed816e17396e715dc241ced9"
+  },
+  {
+   "ts": "20130831034827",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/2001.gif",
+   "mime": "image/gif",
+   "len": 1184,
+   "cap": "20130831034827",
+   "sha1": "f067eb5e94558a726c6f7a8a9c1d96d04fcfcc01"
+  },
+  {
+   "ts": "20130831033932",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/2008.gif",
+   "mime": "image/gif",
+   "len": 1304,
+   "cap": "20130831033932",
+   "sha1": "e97e929e2e9e8cbd8d6f6641eb5d5ec1687ba233"
+  },
+  {
+   "ts": "20140113225142",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/bg.gif",
+   "mime": "image/gif",
+   "len": 2249,
+   "cap": "20140113225142",
+   "sha1": "c43688e270bf0c52efa15696dbc05916f87c572d"
+  },
+  {
+   "ts": "20130831004815",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/header.jpg",
+   "mime": "image/jpeg",
+   "len": 54302,
+   "cap": "20130831004815",
+   "sha1": "09f8e77c6e175c434cabe0ba7feed040106bb9e9"
+  },
+  {
+   "ts": "20130831034817",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/libertycity.gif",
+   "mime": "image/gif",
+   "len": 1829,
+   "cap": "20130831034817",
+   "sha1": "b9101bd0006744ca100454b32b93bd90b3653efb"
+  },
+  {
+   "ts": "20130831045205",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/sanandreas.gif",
+   "mime": "image/gif",
+   "len": 2183,
+   "cap": "20130831045205",
+   "sha1": "817390c2f4b1647658e4399ac259f1e90db13435"
+  },
+  {
+   "ts": "20130831013626",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/vicecity.gif",
+   "mime": "image/gif",
+   "len": 1597,
+   "cap": "20130831013626",
+   "sha1": "5c7840a0a146b1dafc026f415445e1c4663d5fae"
+  },
+  {
+   "ts": "20130831053709",
+   "url": "http://www.rockstargames.com/advertisingcouncil/js/site.js",
+   "mime": "text/javascript",
+   "len": 1860,
+   "cap": "20130831053709",
+   "sha1": "f94b2e92747d1450740236d89e97cfded2cf7d9e"
+  },
+  {
+   "ts": "20120920163215",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/css/screen.css",
+   "mime": "text/css",
+   "len": 1035,
+   "cap": "20120920163215",
+   "sha1": "bdb41f4489c51011675103688645a353ac87803c"
+  },
+  {
+   "ts": "20120920163124",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/1984.gif",
+   "mime": "image/gif",
+   "len": 1223,
+   "cap": "20120920163124",
+   "sha1": "8242cf55947f7b3926c2235c8959e9134e846ee2"
+  },
+  {
+   "ts": "20120920163201",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/1986.gif",
+   "mime": "image/gif",
+   "len": 1270,
+   "cap": "20120920163201",
+   "sha1": "fc0f7e9db1455910641931b220f7dd66bbb2e4fd"
+  },
+  {
+   "ts": "20120920163140",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/1992.gif",
+   "mime": "image/gif",
+   "len": 1219,
+   "cap": "20120920163140",
+   "sha1": "5d064571e0592a0ebe53f476c7dd95b07736f298"
+  },
+  {
+   "ts": "20120920162847",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/1998.gif",
+   "mime": "image/gif",
+   "len": 1278,
+   "cap": "20120920162847",
+   "sha1": "19019af00bb817c3ed816e17396e715dc241ced9"
+  },
+  {
+   "ts": "20120920163151",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/2001.gif",
+   "mime": "image/gif",
+   "len": 1179,
+   "cap": "20120920163151",
+   "sha1": "f067eb5e94558a726c6f7a8a9c1d96d04fcfcc01"
+  },
+  {
+   "ts": "20120920163211",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/2008.gif",
+   "mime": "image/gif",
+   "len": 1308,
+   "cap": "20120920163211",
+   "sha1": "e97e929e2e9e8cbd8d6f6641eb5d5ec1687ba233"
+  },
+  {
+   "ts": "20121208133052",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/bg.gif",
+   "mime": "image/gif",
+   "len": 2282,
+   "cap": "20121208133052",
+   "sha1": "c43688e270bf0c52efa15696dbc05916f87c572d"
+  },
+  {
+   "ts": "20120920163133",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/header.jpg",
+   "mime": "image/jpeg",
+   "len": 54301,
+   "cap": "20120920163133",
+   "sha1": "09f8e77c6e175c434cabe0ba7feed040106bb9e9"
+  },
+  {
+   "ts": "20120920162657",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/libertycity.gif",
+   "mime": "image/gif",
+   "len": 1832,
+   "cap": "20120920162657",
+   "sha1": "b9101bd0006744ca100454b32b93bd90b3653efb"
+  },
+  {
+   "ts": "20120920163156",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/sanandreas.gif",
+   "mime": "image/gif",
+   "len": 2183,
+   "cap": "20120920163156",
+   "sha1": "817390c2f4b1647658e4399ac259f1e90db13435"
+  },
+  {
+   "ts": "20120920163146",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/img/vicecity.gif",
+   "mime": "image/gif",
+   "len": 1594,
+   "cap": "20120920163146",
+   "sha1": "5c7840a0a146b1dafc026f415445e1c4663d5fae"
+  },
+  {
+   "ts": "20120920163206",
+   "url": "http://www.rockstargames.com/advertisingcouncil/webroot/js/site.js",
+   "mime": "application/x-javascript",
+   "len": 1862,
+   "cap": "20120920163206",
+   "sha1": "f94b2e92747d1450740236d89e97cfded2cf7d9e"
+  },
+  {
+   "ts": "20190228165342",
+   "url": "http://www.rockstargames.com/advertisingcouncil/img/playing.gif",
+   "mime": "image/gif",
+   "len": 985,
+   "cap": "20190228165342",
+   "sha1": "133076d159e3fa139e6045bd09204bc94a7374a8"
+  },
+  {
+   "ts": "20180124110908",
+   "url": "http://www.rockstargames.com/advertisingcouncil/rockstar_games/meta/img/icons/rockstar/apple-touch-icon.png",
+   "mime": "image/png",
+   "len": 6713,
+   "cap": "20180124110908",
+   "sha1": "d21b4176be2b0337dc9152741eb2dd65761e0a41"
+  },
+  {
+   "ts": "20190905194450",
+   "url": "https://www.rockstargames.com/advertisingcouncil/rockstar_games/meta/img/icons/rockstar/browserconfig.xml",
+   "mime": "application/xml",
+   "len": 778,
+   "cap": "20190905194450",
+   "sha1": "99d38ba1a5ac525aaf3a140c283befe1772d3113"
+  },
+  {
+   "ts": "20180124111943",
+   "url": "http://www.rockstargames.com/advertisingcouncil/rockstar_games/meta/img/icons/rockstar/favicon-16x16.png",
+   "mime": "image/png",
+   "len": 1352,
+   "cap": "20180124111943",
+   "sha1": "f3ae9dc88370159a7835bdae2968ceb779efc0f4"
+  },
+  {
+   "ts": "20180124111527",
+   "url": "http://www.rockstargames.com/advertisingcouncil/rockstar_games/meta/img/icons/rockstar/favicon-32x32.png",
+   "mime": "image/png",
+   "len": 1867,
+   "cap": "20180124111527",
+   "sha1": "fca299660834a2fa09d6a972d64f4206e80517ed"
+  },
+  {
+   "ts": "20180124113312",
+   "url": "http://www.rockstargames.com/advertisingcouncil/rockstar_games/meta/img/icons/rockstar/manifest.json",
+   "mime": "application/json",
+   "len": 719,
+   "cap": "20180124113312",
+   "sha1": "0bf7e105f081ebd91de2669c2f139cf16d0de833"
+  },
+  {
+   "ts": "20190905194446",
+   "url": "https://www.rockstargames.com/advertisingcouncil/rockstar_games/meta/img/icons/rockstar/mstile-144x144.png",
+   "mime": "image/png",
+   "len": 8044,
+   "cap": "20190905194446",
+   "sha1": "fe026daeb1c849b16a36e31642fbb64b76c670ad"
+  },
+  {
+   "ts": "20180124110840",
+   "url": "http://www.rockstargames.com/advertisingcouncil/rockstar_games/meta/img/icons/rockstar/safari-pinned-tab.svg",
+   "mime": "image/svg+xml",
+   "len": 1606,
+   "cap": "20180124110840",
+   "sha1": "e16b00986978e5b28a2a030aebf45a520f51e850"
+  },
+  {
+   "ts": "20110721191815",
+   "url": "http://media.rockstargames.com/js/jquery/jquery-1.4.js",
+   "mime": "application/javascript",
+   "len": 0,
+   "ext": true,
+   "cap": "20110822054754",
+   "sha1": "f02e1f7f1bb966d5fcf16b03daa79ee077a993f8"
+  },
+  {
+   "ts": "20110721191815",
+   "url": "http://media.rockstargames.com/js/jquery/jquery.form.js",
+   "mime": "application/javascript",
+   "len": 0,
+   "ext": true,
+   "cap": "20110822061841",
+   "sha1": "a7d795ba5c90a81ce7bf704b9e957c5553198a30"
+  },
+  {
+   "ts": "20110721191815",
+   "url": "http://media.rockstargames.com/js/jquery/jquery.color.js",
+   "mime": "application/javascript",
+   "len": 0,
+   "ext": true,
+   "cap": "20110203003136",
+   "sha1": "02c360a957f21b7bda7aafe90e8481cb0621b2ad"
+  },
+  {
+   "ts": "20110721191815",
+   "url": "http://media.rockstargames.com/js/jquery/jquery.address-1.1.js",
+   "mime": "application/javascript",
+   "len": 0,
+   "ext": true,
+   "cap": "20110822054746",
+   "sha1": "42cbd7f8f45feb9657d678119831a173ee4d91e6"
+  },
+  {
+   "ts": "20110721191815",
+   "url": "http://media.rockstargames.com/js/swfobject.js",
+   "mime": "application/javascript",
+   "len": 0,
+   "ext": true,
+   "cap": "20110714160640",
+   "sha1": "28780fdb8fc54bf7d80b1f223abca4f77cd89e85"
+  }
+ ]
+}

@@ -1,0 +1,397 @@
+[
+ {
+  "game": "III",
+  "id": "iii-libertytree",
+  "title": "Liberty Tree",
+  "kind": "fictional",
+  "prefixes": [
+   "www.rockstargames.com/libertytree/"
+  ],
+  "ts": "20011201223705",
+  "from": "2001",
+  "to": "2012",
+  "entry": "http://www.rockstargames.com/libertytree/"
+ },
+ {
+  "game": "III",
+  "id": "iii-ammunation",
+  "title": "Ammu-Nation",
+  "kind": "fictional",
+  "prefixes": [
+   "www.rockstargames.com/grandtheftauto3/flash/ammunation/",
+   "www.rockstargames.com/grandtheftauto3/ammunation/"
+  ],
+  "ts": "20011025213352",
+  "from": "2001",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/flash/ammunation/index.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-capitalautos",
+  "title": "Capital Auto Sale$",
+  "kind": "fictional",
+  "prefixes": [
+   "www.rockstargames.com/grandtheftauto3/flash/capitalAutos/",
+   "www.rockstargames.com/grandtheftauto3/capitalAutos/"
+  ],
+  "ts": "20011027120743",
+  "from": "2001",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/index.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-casino",
+  "title": "Kenji's Casino (Oicho-Kabu)",
+  "kind": "fictional",
+  "prefixes": [
+   "www.rockstargames.com/grandtheftauto3/flash/casino/"
+  ],
+  "ts": "20011211024313",
+  "from": "2001",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/flash/casino/index.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-lovemedia",
+  "title": "Love Media",
+  "kind": "fictional",
+  "prefixes": [
+   "www.lovemedia.tv/",
+   "www.rockstargames.com/grandtheftauto3/loveMedia/",
+   "www.rockstargames.com/grandtheftauto3/flash/loveMedia/"
+  ],
+  "ts": "20011028085532",
+  "from": "2001",
+  "to": "2008",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/loveMedia/index.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-college",
+  "title": "Liberty City College",
+  "kind": "fictional",
+  "prefixes": [
+   "www.rockstargames.com/grandtheftauto3/flash/libertyCityCollege/"
+  ],
+  "ts": "20011018141647",
+  "from": "2001",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/flash/libertyCityCollege/index.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-airport",
+  "title": "Francis International Airport",
+  "kind": "fictional",
+  "prefixes": [
+   "www.rockstargames.com/grandtheftauto3/flash/francisAirport/"
+  ],
+  "ts": "20011026094925",
+  "from": "2001",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/flash/francisAirport/index.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-petsovernight",
+  "title": "PetsOvernight.com",
+  "kind": "fictional",
+  "prefixes": [
+   "www.petsovernight.com/",
+   "www.rockstargames.com/grandtheftauto3/petsOvernight/",
+   "www.rockstargames.com/grandtheftauto3/flash/petsOvernight/"
+  ],
+  "ts": "20011018163721",
+  "from": "2001",
+  "to": "2008",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/petsOvernight/index.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-dormatron",
+  "title": "Dormatron (sleepofflard.com)",
+  "kind": "fictional",
+  "prefixes": [
+   "www.sleepofflard.com/",
+   "www.rockstargames.com/grandtheftauto3/dormatron/",
+   "www.rockstargames.com/grandtheftauto3/flash/dormatron/"
+  ],
+  "ts": "20011018170309",
+  "from": "2001",
+  "to": "2009",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/dormatron/base.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-pogo",
+  "title": "Pogo the Monkey",
+  "kind": "fictional",
+  "prefixes": [
+   "www.pogothemonkey.com/",
+   "www.rockstargames.com/grandtheftauto3/pogo/",
+   "www.rockstargames.com/grandtheftauto3/flash/pogo/"
+  ],
+  "ts": "20011103223537",
+  "from": "2001",
+  "to": "2009",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/pogo/base.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-msxfm",
+  "title": "MSX FM",
+  "kind": "fictional",
+  "prefixes": [
+   "www.rockstargames.com/grandtheftauto3/flash/msxfm/"
+  ],
+  "ts": "20021123193220",
+  "from": "2001",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/flash/msxfm/index.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-gameradio",
+  "title": "Game Radio FM",
+  "kind": "fictional",
+  "prefixes": [
+   "www.rockstargames.com/grandtheftauto3/flash/gameRadio/"
+  ],
+  "ts": "20011208000815",
+  "from": "2001",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/flash/gameRadio/index.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-adcouncil",
+  "title": "The Advertising Council (radio ads from III, VC and SA)",
+  "kind": "fictional",
+  "prefixes": [
+   "www.rockstargames.com/advertisingcouncil/"
+  ],
+  "ts": "20110721191815",
+  "from": "2010",
+  "to": "2014",
+  "entry": "http://www.rockstargames.com/advertisingcouncil/"
+ },
+ {
+  "game": "III",
+  "id": "iii-official",
+  "title": "GTA III official site",
+  "kind": "official",
+  "prefixes": [
+   "www.rockstargames.com/grandtheftauto3/"
+  ],
+  "ts": "20011204201135",
+  "from": "2001",
+  "to": "2013",
+  "entry": "http://www.rockstargames.com/grandtheftauto3/"
+ },
+ {
+  "game": "III",
+  "id": "iii-xbox",
+  "title": "GTA Double Pack (Xbox)",
+  "kind": "official",
+  "prefixes": [
+   "www.rockstargames.com/grandtheftauto/"
+  ],
+  "ts": "20030906070434",
+  "from": "2003",
+  "to": "2008",
+  "entry": "http://www.rockstargames.com/grandtheftauto/xbox-module.html"
+ },
+ {
+  "game": "III",
+  "id": "iii-makeyoufamous",
+  "title": "Make You Famous",
+  "kind": "official",
+  "prefixes": [
+   "www.rockstargames.com/makeyoufamous/"
+  ],
+  "ts": "20020606202250",
+  "from": "2002",
+  "to": "2012",
+  "entry": "http://www.rockstargames.com/makeyoufamous/"
+ },
+ {
+  "game": "VC",
+  "id": "vc-kentpaul",
+  "title": "Kent Paul's 80s Nostalgia Zone",
+  "kind": "fictional",
+  "prefixes": [
+   "www.kentpaul.com/",
+   "www.rockstargames.com/kentpaul/"
+  ],
+  "ts": "20030212194647",
+  "from": "2002",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/kentpaul/"
+ },
+ {
+  "game": "VC",
+  "id": "vc-degenatron",
+  "title": "The Degenatron Page",
+  "kind": "fictional",
+  "prefixes": [
+   "www.degenatron.com/"
+  ],
+  "ts": "20030319205758",
+  "from": "2002",
+  "to": "2021",
+  "entry": "http://www.degenatron.com/"
+ },
+ {
+  "game": "VC",
+  "id": "vc-darrenwebb",
+  "title": "DarrenWebb.com",
+  "kind": "fictional",
+  "prefixes": [
+   "www.darrenwebb.com/",
+   "www.rockstargames.com/darrenwebb/"
+  ],
+  "ts": "20021130124145",
+  "from": "2002",
+  "to": "2021",
+  "entry": "http://www.darrenwebb.com/"
+ },
+ {
+  "game": "VC",
+  "id": "vc-official",
+  "title": "Vice City official site",
+  "kind": "official",
+  "prefixes": [
+   "www.rockstargames.com/vicecity/"
+  ],
+  "ts": "20030601000000",
+  "from": "2002",
+  "to": "2014",
+  "entry": "http://www.rockstargames.com/vicecity/"
+ },
+ {
+  "game": "VC",
+  "id": "vc-radio",
+  "title": "Vice City Radio (The Soundtracks)",
+  "kind": "official",
+  "prefixes": [
+   "www.vicecityradio.com/"
+  ],
+  "ts": "20040225151352",
+  "from": "2002",
+  "to": "20120614",
+  "entry": "http://www.vicecityradio.com/"
+ },
+ {
+  "game": "SA",
+  "id": "sa-epsilon",
+  "title": "The Epsilon Program",
+  "kind": "fictional",
+  "prefixes": [
+   "www.epsilonprogram.com/",
+   "www.rockstargames.com/epsilonprogram/"
+  ],
+  "ts": "20040830191432",
+  "from": "2004",
+  "to": "20130428",
+  "entry": "http://www.rockstargames.com/epsilonprogram/"
+ },
+ {
+  "game": "SA",
+  "id": "sa-maccer",
+  "title": "Maccer",
+  "kind": "fictional",
+  "prefixes": [
+   "www.maccer.net/",
+   "www.rockstargames.com/maccer/"
+  ],
+  "ts": "20040830191535",
+  "from": "2004",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/maccer/"
+ },
+ {
+  "game": "SA",
+  "id": "sa-cluckinbell",
+  "title": "Cluckin' Bell",
+  "kind": "fictional",
+  "prefixes": [
+   "www.cluckinbellhappychicken.com/",
+   "www.rockstargames.com/cluckinbell/"
+  ],
+  "ts": "20040911184100",
+  "from": "2004",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/cluckinbell/"
+ },
+ {
+  "game": "SA",
+  "id": "sa-fearitdoit",
+  "title": "Fear It? Do It!",
+  "kind": "fictional",
+  "prefixes": [
+   "www.fearitdoit.com/",
+   "www.rockstargames.com/fearitdoit/"
+  ],
+  "ts": "20040911092051",
+  "from": "2004",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/fearitdoit/"
+ },
+ {
+  "game": "SA",
+  "id": "sa-exsorbeo",
+  "title": "eXsorbeo",
+  "kind": "fictional",
+  "prefixes": [
+   "www.exsorbeo.com/",
+   "www.rockstargames.com/exsorbeo/"
+  ],
+  "ts": "20041019084954",
+  "from": "20041015",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/exsorbeo/"
+ },
+ {
+  "game": "SA",
+  "id": "sa-westcoast",
+  "title": "Forgotten Legends of West Coast Rap",
+  "kind": "fictional",
+  "prefixes": [
+   "www.westcoastraplegends.com/",
+   "www.rockstargames.com/westcoast/"
+  ],
+  "ts": "20050205082431",
+  "from": "2004",
+  "to": "2021",
+  "entry": "http://www.rockstargames.com/westcoast/"
+ },
+ {
+  "game": "SA",
+  "id": "sa-official",
+  "title": "San Andreas official site",
+  "kind": "official",
+  "prefixes": [
+   "www.rockstargames.com/sanandreas/"
+  ],
+  "ts": "20050203184437",
+  "from": "2004",
+  "to": "2013",
+  "entry": "http://www.rockstargames.com/sanandreas/"
+ },
+ {
+  "game": "SA",
+  "id": "sa-retail",
+  "title": "Retail minisites",
+  "kind": "official",
+  "prefixes": [
+   "www.rockstargames.com/retail/"
+  ],
+  "ts": "20041109214042",
+  "from": "2004",
+  "to": "2009",
+  "entry": "http://www.rockstargames.com/retail/circuitcity/"
+ }
+]

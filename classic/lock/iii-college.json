@@ -1,0 +1,213 @@
+{
+ "site": "iii-college",
+ "rows": [
+  {
+   "ts": "20020108164049",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/",
+   "mime": "text/html",
+   "len": 1925,
+   "cap": "20020108164049",
+   "sha1": "6b23c0a04c8a42067784a9b6115b5506b8acef3e"
+  },
+  {
+   "ts": "20020329235119",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/1.gif",
+   "mime": "image/gif",
+   "len": 327,
+   "cap": "20020329235119",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20011229121327",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/administration-over.gif",
+   "mime": "image/gif",
+   "len": 900,
+   "cap": "20011229121327",
+   "sha1": "91bcf6cb3a77acbae5dbc1e5554e9771017f4c93"
+  },
+  {
+   "ts": "20020330000024",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/administration.gif",
+   "mime": "image/gif",
+   "len": 824,
+   "cap": "20020330000024",
+   "sha1": "7547bf0f0c5e4e94ce9e94a4ade1d2e74ed580a4"
+  },
+  {
+   "ts": "20011229122117",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/admissions-over.gif",
+   "mime": "image/gif",
+   "len": 824,
+   "cap": "20011229122117",
+   "sha1": "cea2877c1b38d81a978c84254344f1f3f2b0db74"
+  },
+  {
+   "ts": "20020330000755",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/admissions.gif",
+   "mime": "image/gif",
+   "len": 753,
+   "cap": "20020330000755",
+   "sha1": "b9253d87c376ba114fcd14112e7f753c42d16985"
+  },
+  {
+   "ts": "20011229122448",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/alumni-over.gif",
+   "mime": "image/gif",
+   "len": 665,
+   "cap": "20011229122448",
+   "sha1": "b0f6a650616e6933aa4fcc93cba45d81d0fc5230"
+  },
+  {
+   "ts": "20011229123144",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/alumni.gif",
+   "mime": "image/gif",
+   "len": 611,
+   "cap": "20011229123144",
+   "sha1": "4b633f27c1eb9a853333d9c13540e63c305b50b2"
+  },
+  {
+   "ts": "20071021104846",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/libertyCityCollege/graphics/background.gif",
+   "mime": "image/gif",
+   "len": 458,
+   "cap": "20071021104846",
+   "sha1": "8508fbcb4ceac1b0c590a10ecbf3d44f07b9df5e"
+  },
+  {
+   "ts": "20011229123059",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/contact-over.gif",
+   "mime": "image/gif",
+   "len": 817,
+   "cap": "20011229123059",
+   "sha1": "335341a070305899ed31bf6c2e274e8cafd72782"
+  },
+  {
+   "ts": "20020614083832",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/contact.gif",
+   "mime": "image/gif",
+   "len": 733,
+   "cap": "20020614083832",
+   "sha1": "9070c03fef1992efd17f9f08f8ee32d4677adca0"
+  },
+  {
+   "ts": "20030619200332",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/departments-over.gif",
+   "mime": "image/gif",
+   "len": 873,
+   "cap": "20030619200332",
+   "sha1": "172086b0b7e0a56e5329b0ed00acae7fa1ba8cb7"
+  },
+  {
+   "ts": "20020330003509",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/departments.gif",
+   "mime": "image/gif",
+   "len": 871,
+   "cap": "20020330003509",
+   "sha1": "a5cfc8753c6a7efd6b972b0b99cb2ab8ce63fdbe"
+  },
+  {
+   "ts": "20020330003746",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/faculty-over.gif",
+   "mime": "image/gif",
+   "len": 715,
+   "cap": "20020330003746",
+   "sha1": "ee20e2c07aa77322df21cbbb3dbf52d9f4de47fc"
+  },
+  {
+   "ts": "20020330004121",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/faculty.gif",
+   "mime": "image/gif",
+   "len": 662,
+   "cap": "20020330004121",
+   "sha1": "a075ca0297f0deda2632998617d409046d0d0c9a"
+  },
+  {
+   "ts": "20020330004709",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/idiot.jpg",
+   "mime": "image/jpeg",
+   "len": 24936,
+   "cap": "20020330004709",
+   "sha1": "81821c0e3c78369e62f22440b372dbb2274ead28"
+  },
+  {
+   "ts": "20011229125325",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/lccLogo.gif",
+   "mime": "image/gif",
+   "len": 1232,
+   "cap": "20011229125325",
+   "sha1": "bb70516bae1370603c6afffcc695770e09301f09"
+  },
+  {
+   "ts": "20011229125003",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/libertyCityTitle.gif",
+   "mime": "image/gif",
+   "len": 1866,
+   "cap": "20011229125003",
+   "sha1": "865c23378fe6d604f378a1eba792133a8c603ec2"
+  },
+  {
+   "ts": "20011229125855",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/site-over.gif",
+   "mime": "image/gif",
+   "len": 781,
+   "cap": "20011229125855",
+   "sha1": "be05c46880b27a2e4cc359ffa1189e5fb8daa230"
+  },
+  {
+   "ts": "20011229125646",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/site.gif",
+   "mime": "image/gif",
+   "len": 709,
+   "cap": "20011229125646",
+   "sha1": "530cf543d3f0e95e06d556175cf006c185469557"
+  },
+  {
+   "ts": "20020330010942",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/staff-over.gif",
+   "mime": "image/gif",
+   "len": 667,
+   "cap": "20020330010942",
+   "sha1": "999216b7d98ee6cc89828973525e2f672f3a14ba"
+  },
+  {
+   "ts": "20011229130219",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/staff.gif",
+   "mime": "image/gif",
+   "len": 612,
+   "cap": "20011229130219",
+   "sha1": "63a2ad626c2542c7a7cba4f7cb907522fbd79190"
+  },
+  {
+   "ts": "20011229131309",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/students-over.gif",
+   "mime": "image/gif",
+   "len": 781,
+   "cap": "20011229131309",
+   "sha1": "005340bbc0f29242459053134eb14d3c05389482"
+  },
+  {
+   "ts": "20020330232604",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/students.gif",
+   "mime": "image/gif",
+   "len": 706,
+   "cap": "20020330232604",
+   "sha1": "5c3ef06358db086dc2297993c3bfe682c6a14a17"
+  },
+  {
+   "ts": "20011229132044",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/graphics/whoCares.gif",
+   "mime": "image/gif",
+   "len": 2703,
+   "cap": "20011229132044",
+   "sha1": "3c74a1e486a9c53f60762b0a1b70c494385bf3d4"
+  },
+  {
+   "ts": "20011018141647",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/libertyCityCollege/index.html",
+   "mime": "text/html",
+   "len": 1914,
+   "cap": "20020108164049",
+   "sha1": "6b23c0a04c8a42067784a9b6115b5506b8acef3e"
+  }
+ ]
+}

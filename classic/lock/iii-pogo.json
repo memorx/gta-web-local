@@ -1,0 +1,141 @@
+{
+ "site": "iii-pogo",
+ "rows": [
+  {
+   "ts": "20011031060817",
+   "url": "http://www.pogothemonkey.com:80/",
+   "mime": "text/html",
+   "len": 327,
+   "cap": "20011031060817",
+   "sha1": "29338bd977dd74602981d0ea797aaa0fed51d633"
+  },
+  {
+   "ts": "20030919020447",
+   "url": "http://www.pogothemonkey.com:80/base.html",
+   "mime": "text/html",
+   "len": 451,
+   "cap": "20030919020447",
+   "sha1": "dee82791a34f5d6f7f77a6d2b4adb2a697914fda"
+  },
+  {
+   "ts": "20031011234550",
+   "url": "http://www.pogothemonkey.com:80/base0.html",
+   "mime": "text/html",
+   "len": 653,
+   "cap": "20031011234550",
+   "sha1": "6ec898261556acf55fb6e4250cbc721f47e7aa8a"
+  },
+  {
+   "ts": "20030919010038",
+   "url": "http://www.pogothemonkey.com:80/empty.html",
+   "mime": "text/html",
+   "len": 297,
+   "cap": "20030919010038",
+   "sha1": "d0a67c61391b8e939f08ac1cd3d72468ffcf9bc6"
+  },
+  {
+   "ts": "20041015135831",
+   "url": "http://pogothemonkey.com:80/pogo.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 129858,
+   "cap": "20041015135831",
+   "sha1": "d1f423eeac56297789475b4267df5f98ba20b939"
+  },
+  {
+   "ts": "20030211062811",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/pogo/",
+   "mime": "text/html",
+   "len": 479,
+   "cap": "20030211062811",
+   "sha1": "0ab55456bdf1c82825cad77018274f9f6ca503a5"
+  },
+  {
+   "ts": "20011102002044",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/pogo/base.html",
+   "mime": "text/html",
+   "len": 466,
+   "cap": "20011219033020",
+   "sha1": "dee82791a34f5d6f7f77a6d2b4adb2a697914fda"
+  },
+  {
+   "ts": "20011026095343",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/pogo/base0.html",
+   "mime": "text/html",
+   "len": 666,
+   "cap": "20011026095343",
+   "sha1": "6ec898261556acf55fb6e4250cbc721f47e7aa8a"
+  },
+  {
+   "ts": "20011209105903",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/pogo/empty.html",
+   "mime": "text/html",
+   "len": 311,
+   "cap": "20011209105903",
+   "sha1": "d0a67c61391b8e939f08ac1cd3d72468ffcf9bc6"
+  },
+  {
+   "ts": "20011103223537",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/pogo/index.html",
+   "mime": "text/html",
+   "len": 464,
+   "cap": "20030211062811",
+   "sha1": "0ab55456bdf1c82825cad77018274f9f6ca503a5"
+  },
+  {
+   "ts": "20030719041129",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/pogo/pogo.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 129881,
+   "cap": "20030719041129",
+   "sha1": "d1f423eeac56297789475b4267df5f98ba20b939"
+  },
+  {
+   "ts": "20020628093923",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/pogo/base.html",
+   "mime": "text/html",
+   "len": 469,
+   "cap": "20020628093923",
+   "sha1": "dee82791a34f5d6f7f77a6d2b4adb2a697914fda"
+  },
+  {
+   "ts": "20011212115549",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/pogo/base0.html",
+   "mime": "text/html",
+   "len": 667,
+   "cap": "20011212115549",
+   "sha1": "6ec898261556acf55fb6e4250cbc721f47e7aa8a"
+  },
+  {
+   "ts": "20011212120330",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/pogo/empty.html",
+   "mime": "text/html",
+   "len": 315,
+   "cap": "20011212120330",
+   "sha1": "d0a67c61391b8e939f08ac1cd3d72468ffcf9bc6"
+  },
+  {
+   "ts": "20011212120919",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/pogo/index.html",
+   "mime": "text/html",
+   "len": 466,
+   "cap": "20011212120919",
+   "sha1": "0ab55456bdf1c82825cad77018274f9f6ca503a5"
+  },
+  {
+   "ts": "20030530064528",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/pogo/pogo.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 129883,
+   "cap": "20030530064528",
+   "sha1": "d1f423eeac56297789475b4267df5f98ba20b939"
+  },
+  {
+   "ts": "20220911090418",
+   "url": "https://www.pogothemonkey.com/favicon.ico",
+   "mime": "image/vnd.microsoft.icon",
+   "len": 3491,
+   "cap": "20220911090418",
+   "sha1": "471ad7f248e81aa4da5e71c140ab20ab24fe8518"
+  }
+ ]
+}

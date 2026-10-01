@@ -1,0 +1,4 @@
+# GTA IV, the classic sites and the server need only the Python 3.11+ standard library.
+# GTA V (v/build_v_sites.py) decodes the game's DDS textures with Pillow;
+# tests/sheets.py also uses it.
+Pillow>=10

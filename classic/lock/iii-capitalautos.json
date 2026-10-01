@@ -1,0 +1,493 @@
+{
+ "site": "iii-capitalautos",
+ "rows": [
+  {
+   "ts": "20020406074336",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/",
+   "mime": "text/html",
+   "len": 416,
+   "cap": "20020406074336",
+   "sha1": "705480d6518cb114e1987e545c82c5a46b2dffc1"
+  },
+  {
+   "ts": "20011027215835",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/autos1.html",
+   "mime": "text/html",
+   "len": 827,
+   "cap": "20011027215835",
+   "sha1": "3b2f18e803320ecd4df8eaa01972967db93db858"
+  },
+  {
+   "ts": "20011027220609",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/autos2.html",
+   "mime": "text/html",
+   "len": 820,
+   "cap": "20011027220609",
+   "sha1": "05a4b0f6eb73dffcdd691ebcacf2386fc2e0284f"
+  },
+  {
+   "ts": "20011027221653",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/capitalAutos.html",
+   "mime": "text/html",
+   "len": 881,
+   "cap": "20011027221653",
+   "sha1": "37ed7cdf6301306c3de6ac76bb0a8cbd512824c5"
+  },
+  {
+   "ts": "20020517165110",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/capitalAutosLogo.jpg",
+   "mime": "image/jpeg",
+   "len": 6151,
+   "cap": "20020517165110",
+   "sha1": "e12ee8834759b565e09c8c2967e2b412fa3ef2ad"
+  },
+  {
+   "ts": "20071109145624",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/capitalBack.jpg",
+   "mime": "image/jpeg",
+   "len": 607,
+   "cap": "20071109145624",
+   "sha1": "e2789df4eb675302bb0597ee75d84a3505549841"
+  },
+  {
+   "ts": "20020517165717",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/flag.gif",
+   "mime": "image/gif",
+   "len": 31265,
+   "cap": "20020517165717",
+   "sha1": "817b90ff9a74dfba5114b39bd6553c8171665f9b"
+  },
+  {
+   "ts": "20011027120743",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/index.html",
+   "mime": "text/html",
+   "len": 397,
+   "cap": "20020406074336",
+   "sha1": "705480d6518cb114e1987e545c82c5a46b2dffc1"
+  },
+  {
+   "ts": "20040222024506",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/large/ariant.jpg",
+   "mime": "image/jpeg",
+   "len": 13125,
+   "cap": "20040222024506",
+   "sha1": "3db03d7f940468fc357935c324dd8f56487a39fd"
+  },
+  {
+   "ts": "20071109145644",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/aster.jpg",
+   "mime": "image/jpeg",
+   "len": 16803,
+   "cap": "20071109145644",
+   "sha1": "9751e0bd62c8cfd9184fcabedd5c341c63ae0ed2"
+  },
+  {
+   "ts": "20020508041621",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/large/beamer.jpg",
+   "mime": "image/jpeg",
+   "len": 12673,
+   "cap": "20020508041621",
+   "sha1": "4f7c130242f6e1e103b8c4c20585b1f8c429b251"
+  },
+  {
+   "ts": "20071109150009",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/dyablo.jpg",
+   "mime": "image/jpeg",
+   "len": 12309,
+   "cap": "20071109150009",
+   "sha1": "716fb37bcc3613c7ab7a2b36e626c99c992b164a"
+  },
+  {
+   "ts": "20071109145801",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/esparanto.jpg",
+   "mime": "image/jpeg",
+   "len": 12858,
+   "cap": "20071109145801",
+   "sha1": "9b00cd5e4147da78069a902ed7521b5a336e6931"
+  },
+  {
+   "ts": "20071109145827",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/hachura.jpg",
+   "mime": "image/jpeg",
+   "len": 14667,
+   "cap": "20071109145827",
+   "sha1": "7544a0cbd53d6049afbee4c15a65c2e24405cefc"
+  },
+  {
+   "ts": "20070329154341",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/large/humVee.jpg",
+   "mime": "image/jpeg",
+   "len": 13385,
+   "cap": "20070329154341",
+   "sha1": "58b56290ec50a126038eefb496e9397dcbccf07e"
+  },
+  {
+   "ts": "20150508193130",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/iceCreamTruck.jpg",
+   "mime": "image/jpeg",
+   "len": 10248,
+   "cap": "20150508193130",
+   "sha1": "c2f1b501f0585fbf37c41e586e8c0b81afa5edf6"
+  },
+  {
+   "ts": "20020508075836",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/large/luton.jpg",
+   "mime": "image/jpeg",
+   "len": 9693,
+   "cap": "20020508075836",
+   "sha1": "f28fa790378cf2ae21bf8bcd8f8837dfdca78822"
+  },
+  {
+   "ts": "20030124130009",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/large/maurice.jpg",
+   "mime": "image/jpeg",
+   "len": 13230,
+   "cap": "20030124130009",
+   "sha1": "2c936906afafda5201692f7bc64cd4bcbc0a503b"
+  },
+  {
+   "ts": "20040427213633",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/large/panto.jpg",
+   "mime": "image/jpeg",
+   "len": 15440,
+   "cap": "20040427213633",
+   "sha1": "16df3c343602d2ac314ffc20c1afc6554174d504"
+  },
+  {
+   "ts": "20020508094807",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/large/rocket.jpg",
+   "mime": "image/jpeg",
+   "len": 15754,
+   "cap": "20020508094807",
+   "sha1": "17c5fec429696113a12063e1c28de5af92edc175"
+  },
+  {
+   "ts": "20160414194955",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/semiCab.jpg",
+   "mime": "image/jpeg",
+   "len": 13747,
+   "cap": "20160414194955",
+   "sha1": "6e3f63b92a41b1620a54e30886f226b435520f1c"
+  },
+  {
+   "ts": "20020508103114",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/large/sentinal.jpg",
+   "mime": "image/jpeg",
+   "len": 13289,
+   "cap": "20020508103114",
+   "sha1": "197e0ae5f9b56fc2ad12c47902bb06cc4ebbebf3"
+  },
+  {
+   "ts": "20030124135035",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/large/shark.jpg",
+   "mime": "image/jpeg",
+   "len": 13736,
+   "cap": "20030124135035",
+   "sha1": "ecf859bc69bace5263de5356b997e0248eb09177"
+  },
+  {
+   "ts": "20040428074636",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/large/space.jpg",
+   "mime": "image/jpeg",
+   "len": 14791,
+   "cap": "20040428074636",
+   "sha1": "085b9360cdae3da83ddbcde665e03b77bedf6c1f"
+  },
+  {
+   "ts": "20150508193138",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/stretch.jpg",
+   "mime": "image/jpeg",
+   "len": 11707,
+   "cap": "20150508193138",
+   "sha1": "666f7d2490641352f29731a089c7c04f4ec1f3fa"
+  },
+  {
+   "ts": "20180810104706",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/swatVan.jpg",
+   "mime": "image/jpeg",
+   "len": 20021,
+   "cap": "20180810104706",
+   "sha1": "1786cebac39037315af9994e9d12738d2b90cc2f"
+  },
+  {
+   "ts": "20040428081552",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/ariant.jpg",
+   "mime": "image/jpeg",
+   "len": 2289,
+   "cap": "20040428081552",
+   "sha1": "ea5903c245d3da8b5e7306be16cd375cded3a24d"
+  },
+  {
+   "ts": "20040428083459",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/aster.jpg",
+   "mime": "image/jpeg",
+   "len": 2972,
+   "cap": "20040428083459",
+   "sha1": "10d3241aaaa2a189e602522dea429a67c9af856b"
+  },
+  {
+   "ts": "20020508133745",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/beamer.jpg",
+   "mime": "image/jpeg",
+   "len": 2375,
+   "cap": "20020508133745",
+   "sha1": "1d2db71fc1bce57be0bff2fc6296b033f05cfc65"
+  },
+  {
+   "ts": "20020508141941",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/dyablo.jpg",
+   "mime": "image/jpeg",
+   "len": 2436,
+   "cap": "20020508141941",
+   "sha1": "608e0d01e7d11b4ca57cc446a325662b9f804f83"
+  },
+  {
+   "ts": "20020508151158",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/esparanto.jpg",
+   "mime": "image/jpeg",
+   "len": 2557,
+   "cap": "20020508151158",
+   "sha1": "eed942c97f42b28b06112a58841916a2e7e9f1d8"
+  },
+  {
+   "ts": "20020508155241",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/hachura.jpg",
+   "mime": "image/jpeg",
+   "len": 2625,
+   "cap": "20020508155241",
+   "sha1": "a3a7de386f1bbc07358b1486c432798f9b11edca"
+  },
+  {
+   "ts": "20040428233045",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/humVee.jpg",
+   "mime": "image/jpeg",
+   "len": 2579,
+   "cap": "20040428233045",
+   "sha1": "27e54f500da958695763f9ece13bccf93f75756a"
+  },
+  {
+   "ts": "20020508170902",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/luton.jpg",
+   "mime": "image/jpeg",
+   "len": 2056,
+   "cap": "20020508170902",
+   "sha1": "143c6bc343676ae03bf45ded87dcafc811a137ff"
+  },
+  {
+   "ts": "20020107111026",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/maurice.jpg",
+   "mime": "image/jpeg",
+   "len": 2329,
+   "cap": "20020107111026",
+   "sha1": "7ddaf193e290954cdd258dae00aaae55f9355643"
+  },
+  {
+   "ts": "20030125015845",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/panto.jpg",
+   "mime": "image/jpeg",
+   "len": 2696,
+   "cap": "20030125015845",
+   "sha1": "6e7dff4725352053826a531a512a41cc971cef8b"
+  },
+  {
+   "ts": "20021121162027",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/rocket.jpg",
+   "mime": "image/jpeg",
+   "len": 2903,
+   "cap": "20021121162027",
+   "sha1": "32b344a76ef40cc0e4ec305ea21f434bf29bd98f"
+  },
+  {
+   "ts": "20030125022201",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/sentinal.jpg",
+   "mime": "image/jpeg",
+   "len": 2589,
+   "cap": "20030125022201",
+   "sha1": "919d20f1279cea39b33a9387e37daaa47cd495f3"
+  },
+  {
+   "ts": "20030125023245",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/shark.jpg",
+   "mime": "image/jpeg",
+   "len": 2487,
+   "cap": "20030125023245",
+   "sha1": "08f07be09ea95f6ea0c57e4933ef5070308b7c73"
+  },
+  {
+   "ts": "20020508205723",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/capitalAutos/small/space.jpg",
+   "mime": "image/jpeg",
+   "len": 2811,
+   "cap": "20020508205723",
+   "sha1": "ea38ff2d396bba7f6e9885e66f10a235c3834883"
+  },
+  {
+   "ts": "20010819042324",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/capitalAutos/autos1.html",
+   "mime": "text/html",
+   "len": 820,
+   "cap": "20010819042324",
+   "sha1": "3b2f18e803320ecd4df8eaa01972967db93db858"
+  },
+  {
+   "ts": "20010819042316",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/capitalAutos/capitalAutos.html",
+   "mime": "text/html",
+   "len": 880,
+   "cap": "20010819042316",
+   "sha1": "37ed7cdf6301306c3de6ac76bb0a8cbd512824c5"
+  },
+  {
+   "ts": "20010902175737",
+   "url": "http://rockstargames.com:80/grandtheftauto3/capitalAutos/capitalAutosLogo.jpg",
+   "mime": "image/jpeg",
+   "len": 6148,
+   "cap": "20010902175737",
+   "sha1": "e12ee8834759b565e09c8c2967e2b412fa3ef2ad"
+  },
+  {
+   "ts": "20010902181927",
+   "url": "http://rockstargames.com:80/grandtheftauto3/capitalAutos/flag.gif",
+   "mime": "image/gif",
+   "len": 31260,
+   "cap": "20010902181927",
+   "sha1": "817b90ff9a74dfba5114b39bd6553c8171665f9b"
+  },
+  {
+   "ts": "20010827040021",
+   "url": "http://rockstargames.com:80/grandtheftauto3/capitalAutos/small/ariant.jpg",
+   "mime": "image/jpeg",
+   "len": 2274,
+   "cap": "20010827040021",
+   "sha1": "ea5903c245d3da8b5e7306be16cd375cded3a24d"
+  },
+  {
+   "ts": "20010827043310",
+   "url": "http://rockstargames.com:80/grandtheftauto3/capitalAutos/small/beamer.jpg",
+   "mime": "image/jpeg",
+   "len": 2367,
+   "cap": "20010827043310",
+   "sha1": "1d2db71fc1bce57be0bff2fc6296b033f05cfc65"
+  },
+  {
+   "ts": "20010827044820",
+   "url": "http://rockstargames.com:80/grandtheftauto3/capitalAutos/small/dyablo.jpg",
+   "mime": "image/jpeg",
+   "len": 2425,
+   "cap": "20010827044820",
+   "sha1": "608e0d01e7d11b4ca57cc446a325662b9f804f83"
+  },
+  {
+   "ts": "20010827050743",
+   "url": "http://rockstargames.com:80/grandtheftauto3/capitalAutos/small/esparanto.jpg",
+   "mime": "image/jpeg",
+   "len": 2551,
+   "cap": "20010827050743",
+   "sha1": "eed942c97f42b28b06112a58841916a2e7e9f1d8"
+  },
+  {
+   "ts": "20010827052446",
+   "url": "http://rockstargames.com:80/grandtheftauto3/capitalAutos/small/hachura.jpg",
+   "mime": "image/jpeg",
+   "len": 2613,
+   "cap": "20010827052446",
+   "sha1": "a3a7de386f1bbc07358b1486c432798f9b11edca"
+  },
+  {
+   "ts": "20180810104217",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/armoredTruck.jpg",
+   "mime": "image/jpeg",
+   "len": 12989,
+   "cap": "20180810104217",
+   "sha1": "975404b3e68f5fe9d930d1575a1a10cd4425df94"
+  },
+  {
+   "ts": "20180810104254",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/armyTruck.jpg",
+   "mime": "image/jpeg",
+   "len": 14353,
+   "cap": "20180810104254",
+   "sha1": "a75da13af5ffa75ffbed78fb35e4a9f967197a72"
+  },
+  {
+   "ts": "20180810104921",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/bus.jpg",
+   "mime": "image/jpeg",
+   "len": 20462,
+   "cap": "20180810104921",
+   "sha1": "80054c2c5d53f5031d640a8414c00757906ff632"
+  },
+  {
+   "ts": "20180810105040",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/fireTruck.jpg",
+   "mime": "image/jpeg",
+   "len": 17882,
+   "cap": "20180810105040",
+   "sha1": "35455f9dcb8137f06b97410d967c2435042ed574"
+  },
+  {
+   "ts": "20180810105103",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/fishingBoat.jpg",
+   "mime": "image/jpeg",
+   "len": 12945,
+   "cap": "20180810105103",
+   "sha1": "879ba8dd12e2848c8151a3e5ff719a8ddf5d4221"
+  },
+  {
+   "ts": "20180810105121",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/garbageTruck.jpg",
+   "mime": "image/jpeg",
+   "len": 12991,
+   "cap": "20180810105121",
+   "sha1": "dd40ac8de8eeffc7b8f6bd7b593a4c6b7d9f49c0"
+  },
+  {
+   "ts": "20180810105524",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/policeBoat.jpg",
+   "mime": "image/jpeg",
+   "len": 10290,
+   "cap": "20180810105524",
+   "sha1": "060bc58011d26e52e71d06268d02d9cae719555e"
+  },
+  {
+   "ts": "20180810105601",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/policeCar.jpg",
+   "mime": "image/jpeg",
+   "len": 19416,
+   "cap": "20180810105601",
+   "sha1": "945e064cdaef84795071be4a171b7170aa7565fa"
+  },
+  {
+   "ts": "20180810105938",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/subwayTrain.jpg",
+   "mime": "image/jpeg",
+   "len": 13744,
+   "cap": "20180810105938",
+   "sha1": "60d30f9d5106d0df5b9ea597483f6c3e7b64de20"
+  },
+  {
+   "ts": "20180810110013",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/tank.jpg",
+   "mime": "image/jpeg",
+   "len": 11986,
+   "cap": "20180810110013",
+   "sha1": "d88107506f1802c86a7a7793d226288255a9af18"
+  },
+  {
+   "ts": "20180810110035",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/taxi.jpg",
+   "mime": "image/jpeg",
+   "len": 17774,
+   "cap": "20180810110035",
+   "sha1": "4f6de19f04b9317219e8f7f6a780c605d446a2d6"
+  },
+  {
+   "ts": "20180810110317",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/capitalAutos/large/uJerk.jpg",
+   "mime": "image/jpeg",
+   "len": 13666,
+   "cap": "20180810110317",
+   "sha1": "7ffeffe401de8e2b6eb04ed4efd32033f4c87db1"
+  }
+ ]
+}

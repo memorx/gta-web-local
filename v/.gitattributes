@@ -1,0 +1,6 @@
+# Files that end up in the build output (copied, compiled or used as templates) keep LF line
+# endings on every platform, so a build on Windows gives the same bytes as one on Linux.
+host.js text eol=lf
+shell.html text eol=lf
+providers/* text eol=lf
+host/*.as text eol=lf

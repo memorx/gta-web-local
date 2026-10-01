@@ -1,0 +1,557 @@
+{
+ "site": "iii-lovemedia",
+ "rows": [
+  {
+   "ts": "20011024220908",
+   "url": "http://www.lovemedia.tv:80/",
+   "mime": "text/html",
+   "len": 328,
+   "cap": "20011024220908",
+   "sha1": "3f389bac0d5b20d41524a1cfbc87f5523a33c266"
+  },
+  {
+   "ts": "20030929002222",
+   "url": "http://www.lovemedia.tv:80/bitchin.html",
+   "mime": "text/html",
+   "len": 395,
+   "cap": "20030929002222",
+   "sha1": "75886e5bea22a13a193e8fc99cff5160580f07ca"
+  },
+  {
+   "ts": "20041105191711",
+   "url": "http://lovemedia.tv:80/graphics/1.gif",
+   "mime": "image/gif",
+   "len": 297,
+   "cap": "20041105191711",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20041105195830",
+   "url": "http://lovemedia.tv:80/graphics/dogFood.gif",
+   "mime": "image/gif",
+   "len": 739,
+   "cap": "20041105195830",
+   "sha1": "959d404430847db944f3f2bac18772da2eafb105"
+  },
+  {
+   "ts": "20060321030748",
+   "url": "http://www.lovemedia.tv:80/graphics/dogFoodOver.gif",
+   "mime": "image/gif",
+   "len": 766,
+   "cap": "20060321030748",
+   "sha1": "fe5747488f4cc49b9868642d604920ad41c27dde"
+  },
+  {
+   "ts": "20031227212620",
+   "url": "http://lovemedia.tv:80/graphics/donaldLove.jpg",
+   "mime": "image/jpeg",
+   "len": 22492,
+   "cap": "20031227212620",
+   "sha1": "83fc014aa84b1ffd88b6872e071bdb02510bc2a1"
+  },
+  {
+   "ts": "20041105211700",
+   "url": "http://lovemedia.tv:80/graphics/hello.gif",
+   "mime": "image/gif",
+   "len": 1532,
+   "cap": "20041105211700",
+   "sha1": "461d33c08ab160518225922a97445c1a6f2f55b9"
+  },
+  {
+   "ts": "20041105214239",
+   "url": "http://lovemedia.tv:80/graphics/home.gif",
+   "mime": "image/gif",
+   "len": 667,
+   "cap": "20041105214239",
+   "sha1": "fa3486ab3f8df961dbada96d4c6e119a09373cec"
+  },
+  {
+   "ts": "20031209163905",
+   "url": "http://lovemedia.tv:80/graphics/lmBitchin.gif",
+   "mime": "image/gif",
+   "len": 20943,
+   "cap": "20031209163905",
+   "sha1": "3d205cdeb7e6e9ddbc96336d3c037c8ce6a2e055"
+  },
+  {
+   "ts": "20031227222249",
+   "url": "http://lovemedia.tv:80/graphics/loveMediaLogo.gif",
+   "mime": "image/gif",
+   "len": 3938,
+   "cap": "20031227222249",
+   "sha1": "60a8def93198bf250ac38eb7ae231c50051702fa"
+  },
+  {
+   "ts": "20031227222927",
+   "url": "http://lovemedia.tv:80/graphics/movies.gif",
+   "mime": "image/gif",
+   "len": 691,
+   "cap": "20031227222927",
+   "sha1": "9271fdf16647a328f2d561fe22a43b796545cc65"
+  },
+  {
+   "ts": "20031227224141",
+   "url": "http://lovemedia.tv:80/graphics/moviesOver.gif",
+   "mime": "image/gif",
+   "len": 690,
+   "cap": "20031227224141",
+   "sha1": "b26239ccb669825e6cd86e4a069ff343189b13de"
+  },
+  {
+   "ts": "20031227230544",
+   "url": "http://lovemedia.tv:80/graphics/print.gif",
+   "mime": "image/gif",
+   "len": 634,
+   "cap": "20031227230544",
+   "sha1": "e1caa0b523ffb32015c4e809f9cb50d1b3151e5d"
+  },
+  {
+   "ts": "20031227231930",
+   "url": "http://lovemedia.tv:80/graphics/printOver.gif",
+   "mime": "image/gif",
+   "len": 633,
+   "cap": "20031227231930",
+   "sha1": "5cb0cd5faecddc96d4798f080eb388a1b95cc2e0"
+  },
+  {
+   "ts": "20031227233337",
+   "url": "http://lovemedia.tv:80/graphics/radio.gif",
+   "mime": "image/gif",
+   "len": 651,
+   "cap": "20031227233337",
+   "sha1": "e596d5dffd1d360c7db1bca0fb621dfec936361b"
+  },
+  {
+   "ts": "20031227234407",
+   "url": "http://lovemedia.tv:80/graphics/radioOver.gif",
+   "mime": "image/gif",
+   "len": 658,
+   "cap": "20031227234407",
+   "sha1": "b0120d49a320c6a2fc2b407560a7719cc4611da1"
+  },
+  {
+   "ts": "20031227235203",
+   "url": "http://lovemedia.tv:80/graphics/television.gif",
+   "mime": "image/gif",
+   "len": 773,
+   "cap": "20031227235203",
+   "sha1": "ec83cc820acad1a674b2d249ba041dc50f24c3eb"
+  },
+  {
+   "ts": "20060321030601",
+   "url": "http://www.lovemedia.tv:80/graphics/televisionOver.gif",
+   "mime": "image/gif",
+   "len": 790,
+   "cap": "20060321030601",
+   "sha1": "a2676861203e409bdae8763b9b95e36b5bf68214"
+  },
+  {
+   "ts": "20031228052034",
+   "url": "http://lovemedia.tv:80/graphics/titleLeft.gif",
+   "mime": "image/gif",
+   "len": 3292,
+   "cap": "20031228052034",
+   "sha1": "fe12c524dbd3ee1b97782d50afb12248418f59a5"
+  },
+  {
+   "ts": "20041106013734",
+   "url": "http://lovemedia.tv:80/graphics/titleRight.gif",
+   "mime": "image/gif",
+   "len": 3296,
+   "cap": "20041106013734",
+   "sha1": "b126fb34702e92fe3d7ac5774652656e2a3a8931"
+  },
+  {
+   "ts": "20031004191743",
+   "url": "http://www.lovemedia.tv:80/radio.html",
+   "mime": "text/html",
+   "len": 394,
+   "cap": "20031004191743",
+   "sha1": "07f3259afdc91a073253cff2327f5ff2b03b2d5d"
+  },
+  {
+   "ts": "20020106112908",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/loveMedia/",
+   "mime": "text/html",
+   "len": 2072,
+   "cap": "20020106112908",
+   "sha1": "6fa3e5bf935959e2a242dcfa9ba84ceca0daf590"
+  },
+  {
+   "ts": "20011228224452",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/loveMedia/bitchin.html",
+   "mime": "text/html",
+   "len": 416,
+   "cap": "20011228224452",
+   "sha1": "75886e5bea22a13a193e8fc99cff5160580f07ca"
+  },
+  {
+   "ts": "20011228215904",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/1.gif",
+   "mime": "image/gif",
+   "len": 316,
+   "cap": "20011228215904",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20020220124929",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/background.gif",
+   "mime": "image/gif",
+   "len": 763,
+   "cap": "20020220124929",
+   "sha1": "1058186480334c04d32a7381bc5a7346e2ebe35b"
+  },
+  {
+   "ts": "20011228220550",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/dogFood.gif",
+   "mime": "image/gif",
+   "len": 767,
+   "cap": "20011228220550",
+   "sha1": "959d404430847db944f3f2bac18772da2eafb105"
+  },
+  {
+   "ts": "20011228222055",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/dogFoodOver.gif",
+   "mime": "image/gif",
+   "len": 767,
+   "cap": "20011228222055",
+   "sha1": "fe5747488f4cc49b9868642d604920ad41c27dde"
+  },
+  {
+   "ts": "20011228222002",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/donaldLove.jpg",
+   "mime": "image/jpeg",
+   "len": 22518,
+   "cap": "20011228222002",
+   "sha1": "83fc014aa84b1ffd88b6872e071bdb02510bc2a1"
+  },
+  {
+   "ts": "20021117220114",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/hello.gif",
+   "mime": "image/gif",
+   "len": 1564,
+   "cap": "20021117220114",
+   "sha1": "461d33c08ab160518225922a97445c1a6f2f55b9"
+  },
+  {
+   "ts": "20011228222735",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/home.gif",
+   "mime": "image/gif",
+   "len": 692,
+   "cap": "20011228222735",
+   "sha1": "fa3486ab3f8df961dbada96d4c6e119a09373cec"
+  },
+  {
+   "ts": "20020323060647",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/lmBitchin.gif",
+   "mime": "image/gif",
+   "len": 20974,
+   "cap": "20020323060647",
+   "sha1": "3d205cdeb7e6e9ddbc96336d3c037c8ce6a2e055"
+  },
+  {
+   "ts": "20020103232808",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/lmRadio.gif",
+   "mime": "image/gif",
+   "len": 34244,
+   "cap": "20020103232808",
+   "sha1": "79cb16298d742e38c178eb0138db19b53fa5378a"
+  },
+  {
+   "ts": "20011228190304",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/loveMediaLogo.gif",
+   "mime": "image/gif",
+   "len": 3958,
+   "cap": "20011228190304",
+   "sha1": "60a8def93198bf250ac38eb7ae231c50051702fa"
+  },
+  {
+   "ts": "20011228193951",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/movies.gif",
+   "mime": "image/gif",
+   "len": 712,
+   "cap": "20011228193951",
+   "sha1": "9271fdf16647a328f2d561fe22a43b796545cc65"
+  },
+  {
+   "ts": "20011228215124",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/moviesOver.gif",
+   "mime": "image/gif",
+   "len": 711,
+   "cap": "20011228215124",
+   "sha1": "b26239ccb669825e6cd86e4a069ff343189b13de"
+  },
+  {
+   "ts": "20011228212647",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/print.gif",
+   "mime": "image/gif",
+   "len": 656,
+   "cap": "20011228212647",
+   "sha1": "e1caa0b523ffb32015c4e809f9cb50d1b3151e5d"
+  },
+  {
+   "ts": "20021117224341",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/printOver.gif",
+   "mime": "image/gif",
+   "len": 664,
+   "cap": "20021117224341",
+   "sha1": "5cb0cd5faecddc96d4798f080eb388a1b95cc2e0"
+  },
+  {
+   "ts": "20011228221004",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/radio.gif",
+   "mime": "image/gif",
+   "len": 675,
+   "cap": "20011228221004",
+   "sha1": "e596d5dffd1d360c7db1bca0fb621dfec936361b"
+  },
+  {
+   "ts": "20071010050418",
+   "url": "http://www.rockstargames.com/grandtheftauto3/loveMedia/graphics/radioOver.gif",
+   "mime": "image/gif",
+   "len": 697,
+   "cap": "20071010050418",
+   "sha1": "b0120d49a320c6a2fc2b407560a7719cc4611da1"
+  },
+  {
+   "ts": "20011228221829",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/television.gif",
+   "mime": "image/gif",
+   "len": 795,
+   "cap": "20011228221829",
+   "sha1": "ec83cc820acad1a674b2d249ba041dc50f24c3eb"
+  },
+  {
+   "ts": "20011228223317",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/televisionOver.gif",
+   "mime": "image/gif",
+   "len": 795,
+   "cap": "20011228223317",
+   "sha1": "a2676861203e409bdae8763b9b95e36b5bf68214"
+  },
+  {
+   "ts": "20021117232243",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/titleLeft.gif",
+   "mime": "image/gif",
+   "len": 3320,
+   "cap": "20021117232243",
+   "sha1": "fe12c524dbd3ee1b97782d50afb12248418f59a5"
+  },
+  {
+   "ts": "20011228193330",
+   "url": "http://rockstargames.com:80/grandtheftauto3/loveMedia/graphics/titleRight.gif",
+   "mime": "image/gif",
+   "len": 3319,
+   "cap": "20011228193330",
+   "sha1": "b126fb34702e92fe3d7ac5774652656e2a3a8931"
+  },
+  {
+   "ts": "20011028085532",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/loveMedia/index.html",
+   "mime": "text/html",
+   "len": 2060,
+   "cap": "20020106112908",
+   "sha1": "6fa3e5bf935959e2a242dcfa9ba84ceca0daf590"
+  },
+  {
+   "ts": "20011228224444",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/loveMedia/radio.html",
+   "mime": "text/html",
+   "len": 410,
+   "cap": "20011228224444",
+   "sha1": "07f3259afdc91a073253cff2327f5ff2b03b2d5d"
+  },
+  {
+   "ts": "20011018131020",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/loveMedia/",
+   "mime": "text/html",
+   "len": 2074,
+   "cap": "20011018131020",
+   "sha1": "6fa3e5bf935959e2a242dcfa9ba84ceca0daf590"
+  },
+  {
+   "ts": "20021207202929",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/loveMedia/bitchin.html",
+   "mime": "text/html",
+   "len": 426,
+   "cap": "20021207202929",
+   "sha1": "75886e5bea22a13a193e8fc99cff5160580f07ca"
+  },
+  {
+   "ts": "20020330233934",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/1.gif",
+   "mime": "image/gif",
+   "len": 321,
+   "cap": "20020330233934",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20071020112145",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/loveMedia/graphics/background.gif",
+   "mime": "image/gif",
+   "len": 783,
+   "cap": "20071020112145",
+   "sha1": "1058186480334c04d32a7381bc5a7346e2ebe35b"
+  },
+  {
+   "ts": "20020330234125",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/dogFood.gif",
+   "mime": "image/gif",
+   "len": 778,
+   "cap": "20020330234125",
+   "sha1": "959d404430847db944f3f2bac18772da2eafb105"
+  },
+  {
+   "ts": "20020330234429",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/dogFoodOver.gif",
+   "mime": "image/gif",
+   "len": 784,
+   "cap": "20020330234429",
+   "sha1": "fe5747488f4cc49b9868642d604920ad41c27dde"
+  },
+  {
+   "ts": "20020330235046",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/donaldLove.jpg",
+   "mime": "image/jpeg",
+   "len": 22528,
+   "cap": "20020330235046",
+   "sha1": "83fc014aa84b1ffd88b6872e071bdb02510bc2a1"
+  },
+  {
+   "ts": "20020330235217",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/hello.gif",
+   "mime": "image/gif",
+   "len": 1566,
+   "cap": "20020330235217",
+   "sha1": "461d33c08ab160518225922a97445c1a6f2f55b9"
+  },
+  {
+   "ts": "20020331000546",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/home.gif",
+   "mime": "image/gif",
+   "len": 701,
+   "cap": "20020331000546",
+   "sha1": "fa3486ab3f8df961dbada96d4c6e119a09373cec"
+  },
+  {
+   "ts": "20020822200553",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/lmBitchin.gif",
+   "mime": "image/gif",
+   "len": 20978,
+   "cap": "20020822200553",
+   "sha1": "3d205cdeb7e6e9ddbc96336d3c037c8ce6a2e055"
+  },
+  {
+   "ts": "20020822201301",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/lmRadio.gif",
+   "mime": "image/gif",
+   "len": 34248,
+   "cap": "20020822201301",
+   "sha1": "79cb16298d742e38c178eb0138db19b53fa5378a"
+  },
+  {
+   "ts": "20020331000833",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/loveMediaLogo.gif",
+   "mime": "image/gif",
+   "len": 3971,
+   "cap": "20020331000833",
+   "sha1": "60a8def93198bf250ac38eb7ae231c50051702fa"
+  },
+  {
+   "ts": "20020331001229",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/movies.gif",
+   "mime": "image/gif",
+   "len": 721,
+   "cap": "20020331001229",
+   "sha1": "9271fdf16647a328f2d561fe22a43b796545cc65"
+  },
+  {
+   "ts": "20020331001501",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/moviesOver.gif",
+   "mime": "image/gif",
+   "len": 719,
+   "cap": "20020331001501",
+   "sha1": "b26239ccb669825e6cd86e4a069ff343189b13de"
+  },
+  {
+   "ts": "20020613101254",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/print.gif",
+   "mime": "image/gif",
+   "len": 667,
+   "cap": "20020613101254",
+   "sha1": "e1caa0b523ffb32015c4e809f9cb50d1b3151e5d"
+  },
+  {
+   "ts": "20020331002205",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/printOver.gif",
+   "mime": "image/gif",
+   "len": 666,
+   "cap": "20020331002205",
+   "sha1": "5cb0cd5faecddc96d4798f080eb388a1b95cc2e0"
+  },
+  {
+   "ts": "20020331002736",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/radio.gif",
+   "mime": "image/gif",
+   "len": 683,
+   "cap": "20020331002736",
+   "sha1": "e596d5dffd1d360c7db1bca0fb621dfec936361b"
+  },
+  {
+   "ts": "20020613130314",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/radioOver.gif",
+   "mime": "image/gif",
+   "len": 687,
+   "cap": "20020613130314",
+   "sha1": "b0120d49a320c6a2fc2b407560a7719cc4611da1"
+  },
+  {
+   "ts": "20020331003426",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/television.gif",
+   "mime": "image/gif",
+   "len": 810,
+   "cap": "20020331003426",
+   "sha1": "ec83cc820acad1a674b2d249ba041dc50f24c3eb"
+  },
+  {
+   "ts": "20020331003648",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/televisionOver.gif",
+   "mime": "image/gif",
+   "len": 806,
+   "cap": "20020331003648",
+   "sha1": "a2676861203e409bdae8763b9b95e36b5bf68214"
+  },
+  {
+   "ts": "20020331004426",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/titleLeft.gif",
+   "mime": "image/gif",
+   "len": 3327,
+   "cap": "20020331004426",
+   "sha1": "fe12c524dbd3ee1b97782d50afb12248418f59a5"
+  },
+  {
+   "ts": "20020331004620",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/loveMedia/graphics/titleRight.gif",
+   "mime": "image/gif",
+   "len": 3331,
+   "cap": "20020331004620",
+   "sha1": "b126fb34702e92fe3d7ac5774652656e2a3a8931"
+  },
+  {
+   "ts": "20011120104853",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/loveMedia/index.html",
+   "mime": "text/html",
+   "len": 2059,
+   "cap": "20011018131020",
+   "sha1": "6fa3e5bf935959e2a242dcfa9ba84ceca0daf590"
+  },
+  {
+   "ts": "20021017203213",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/loveMedia/radio.html",
+   "mime": "text/html",
+   "len": 422,
+   "cap": "20021017203213",
+   "sha1": "07f3259afdc91a073253cff2327f5ff2b03b2d5d"
+  }
+ ]
+}

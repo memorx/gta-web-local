@@ -1,0 +1,53 @@
+{
+ "site": "iii-msxfm",
+ "rows": [
+  {
+   "ts": "20011103221104",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/msxfm/",
+   "mime": "text/html",
+   "len": 1078,
+   "cap": "20021216063641",
+   "sha1": "7d33307230849b48b4efea56a5ba34b35928831b"
+  },
+  {
+   "ts": "20011129042535",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/msxfm/graphics/1.gif",
+   "mime": "image/gif",
+   "len": 319,
+   "cap": "20021207182432",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20011129043141",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/msxfm/graphics/bigLogo.gif",
+   "mime": "image/gif",
+   "len": 6695,
+   "cap": "20021207182710",
+   "sha1": "48bee6fe7cbfd9c264db8d983b5cb802effb7f63"
+  },
+  {
+   "ts": "20011129043533",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/msxfm/graphics/little3dman.gif",
+   "mime": "image/gif",
+   "len": 2199,
+   "cap": "20021207193706",
+   "sha1": "b12fd20c2e88d031d41ddba9ee056dacdd16c938"
+  },
+  {
+   "ts": "20021123193220",
+   "url": "http://www.rockstargames.com:80/GRANDTHEFTAUTO3/flash/msxfm/index.html",
+   "mime": "text/html",
+   "len": 1067,
+   "cap": "20021216063641",
+   "sha1": "7d33307230849b48b4efea56a5ba34b35928831b"
+  },
+  {
+   "ts": "20051227192311",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/msxfm/msxfm.mp3",
+   "mime": "audio/mpeg",
+   "len": 320654,
+   "cap": "20051227192311",
+   "sha1": "f5b314c9e69b0aeee095e5e21112404a4c2c4326"
+  }
+ ]
+}

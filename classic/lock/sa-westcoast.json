@@ -1,0 +1,333 @@
+{
+ "site": "sa-westcoast",
+ "rows": [
+  {
+   "ts": "20041010003723",
+   "url": "http://www.westcoastraplegends.com:80/",
+   "mime": "text/html",
+   "len": 494,
+   "cap": "20050208050528",
+   "sha1": "fcf7efb29210b8e97c9051da4fd15677ee1a49c2"
+  },
+  {
+   "ts": "20130120074534",
+   "url": "http://www.westcoastraplegends.com/images/1.gif",
+   "mime": "image/gif",
+   "len": 538,
+   "cap": "20130120074534",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20130120074443",
+   "url": "http://www.westcoastraplegends.com/images/album_gmw1.jpg",
+   "mime": "image/jpeg",
+   "len": 30641,
+   "cap": "20130120074443",
+   "sha1": "67fd2286b908556366a6a7d79a25c2f7d2f14a95"
+  },
+  {
+   "ts": "20130120074541",
+   "url": "http://www.westcoastraplegends.com/images/album_madddogg1.jpg",
+   "mime": "image/jpeg",
+   "len": 28510,
+   "cap": "20130120074541",
+   "sha1": "e5274cd9ea81449a1538524639b1bde488e7e75f"
+  },
+  {
+   "ts": "20130120074544",
+   "url": "http://www.westcoastraplegends.com/images/album_madddogg2.jpg",
+   "mime": "image/jpeg",
+   "len": 14913,
+   "cap": "20130120074544",
+   "sha1": "904fc2b5db3d127986eef09c8ad1e448366ee705"
+  },
+  {
+   "ts": "20130120074503",
+   "url": "http://www.westcoastraplegends.com/images/album_madddogg3.jpg",
+   "mime": "image/jpeg",
+   "len": 19360,
+   "cap": "20130120074503",
+   "sha1": "9130ffb0807216f1534929606b68589a599a32fb"
+  },
+  {
+   "ts": "20130120074509",
+   "url": "http://www.westcoastraplegends.com/images/album_ogloc1.jpg",
+   "mime": "image/jpeg",
+   "len": 14837,
+   "cap": "20130120074509",
+   "sha1": "8ef38aba04ecc95b173ff990c9d04cc19eddcc04"
+  },
+  {
+   "ts": "20130120074453",
+   "url": "http://www.westcoastraplegends.com/images/album_rochell-le1.jpg",
+   "mime": "image/jpeg",
+   "len": 25369,
+   "cap": "20130120074453",
+   "sha1": "0bdec99b029cd5cb51008dcac484ba737fa4acf4"
+  },
+  {
+   "ts": "20130120074459",
+   "url": "http://www.westcoastraplegends.com/images/background.gif",
+   "mime": "image/gif",
+   "len": 1107,
+   "cap": "20130120074459",
+   "sha1": "b58144a1ae6d8187d71e76328891518ff0ab8f73"
+  },
+  {
+   "ts": "20130120074548",
+   "url": "http://www.westcoastraplegends.com/images/forgottenTitle2.gif",
+   "mime": "image/gif",
+   "len": 7922,
+   "cap": "20130120074548",
+   "sha1": "802773b368777784b7c212bf710f66d38dbadfd3"
+  },
+  {
+   "ts": "20130120074513",
+   "url": "http://www.westcoastraplegends.com/images/legend_madddogg.jpg",
+   "mime": "image/jpeg",
+   "len": 3945,
+   "cap": "20130120074513",
+   "sha1": "f144423da525f17213c848313d0e773a0d31f20d"
+  },
+  {
+   "ts": "20130120074538",
+   "url": "http://www.westcoastraplegends.com/images/legend_ogloc.jpg",
+   "mime": "image/jpeg",
+   "len": 5038,
+   "cap": "20130120074538",
+   "sha1": "59dab469819a3a16f2a55615fd0b88b741407aa2"
+  },
+  {
+   "ts": "20130120074556",
+   "url": "http://www.westcoastraplegends.com/images/noPic.gif",
+   "mime": "image/gif",
+   "len": 1610,
+   "cap": "20130120074556",
+   "sha1": "bd4f6218cd7fc09d42328de072df2b4b09f4c2f7"
+  },
+  {
+   "ts": "20130120074447",
+   "url": "http://www.westcoastraplegends.com/images/parentaladvisory.gif",
+   "mime": "image/gif",
+   "len": 5153,
+   "cap": "20130120074447",
+   "sha1": "f8ac9c41a3b97bb28ae6520aee1bc97098a332d3"
+  },
+  {
+   "ts": "20130120074456",
+   "url": "http://www.westcoastraplegends.com/images/title_albums.gif",
+   "mime": "image/gif",
+   "len": 2683,
+   "cap": "20130120074456",
+   "sha1": "25693aafd129e1ca162c00d33f75bf8a06f187e2"
+  },
+  {
+   "ts": "20130120074506",
+   "url": "http://www.westcoastraplegends.com/images/title_intro.gif",
+   "mime": "image/gif",
+   "len": 2615,
+   "cap": "20130120074506",
+   "sha1": "941ef23249e00e598715c535badc3914eb9125e1"
+  },
+  {
+   "ts": "20130120074522",
+   "url": "http://www.westcoastraplegends.com/images/title_legends.gif",
+   "mime": "image/gif",
+   "len": 2789,
+   "cap": "20130120074522",
+   "sha1": "0acbab9b75cf077fa73c6d4d8ac3d8b26cb7f9d0"
+  },
+  {
+   "ts": "20130120074516",
+   "url": "http://www.westcoastraplegends.com/images/title_outro.gif",
+   "mime": "image/gif",
+   "len": 2574,
+   "cap": "20130120074516",
+   "sha1": "277ff7ccb862b0566b878dffe220fd41bad31fdd"
+  },
+  {
+   "ts": "20061118015709",
+   "url": "http://www.westcoastraplegends.com/index.html",
+   "mime": "text/html",
+   "len": 482,
+   "cap": "20050208050528",
+   "sha1": "fcf7efb29210b8e97c9051da4fd15677ee1a49c2"
+  },
+  {
+   "ts": "20130120074519",
+   "url": "http://www.westcoastraplegends.com/legends.css",
+   "mime": "text/css",
+   "len": 596,
+   "cap": "20130120074519",
+   "sha1": "89fef1cac4ddd23b7485849d0ca55538a6b31d91"
+  },
+  {
+   "ts": "20130120074603",
+   "url": "http://www.westcoastraplegends.com/ogloc.mp3",
+   "mime": "audio/mpeg",
+   "len": 1482944,
+   "cap": "20130120074603",
+   "sha1": "4254a615924c6551a81189fb85df5f6e0556b317"
+  },
+  {
+   "ts": "20041012203358",
+   "url": "http://www.rockstargames.com:80/westcoast/",
+   "mime": "text/html",
+   "len": 4971,
+   "cap": "20050205082431",
+   "sha1": "508b69205749bca704213d07601191714979522b"
+  },
+  {
+   "ts": "20050808202829",
+   "url": "http://www.rockstargames.com/westcoast/images/1.gif",
+   "mime": "image/gif",
+   "len": 322,
+   "cap": "20050808202829",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20050808202833",
+   "url": "http://www.rockstargames.com/westcoast/images/album_gmw1.jpg",
+   "mime": "image/jpeg",
+   "len": 30365,
+   "cap": "20050808202833",
+   "sha1": "67fd2286b908556366a6a7d79a25c2f7d2f14a95"
+  },
+  {
+   "ts": "20041028171053",
+   "url": "http://www.rockstargames.com:80/westcoast/images/album_madddogg1.jpg",
+   "mime": "image/jpeg",
+   "len": 28207,
+   "cap": "20041028171053",
+   "sha1": "e5274cd9ea81449a1538524639b1bde488e7e75f"
+  },
+  {
+   "ts": "20061208125842",
+   "url": "http://www.rockstargames.com/westcoast/images/album_madddogg2.jpg",
+   "mime": "image/jpeg",
+   "len": 14686,
+   "cap": "20061208125842",
+   "sha1": "904fc2b5db3d127986eef09c8ad1e448366ee705"
+  },
+  {
+   "ts": "20050808202832",
+   "url": "http://www.rockstargames.com/westcoast/images/album_madddogg3.jpg",
+   "mime": "image/jpeg",
+   "len": 19118,
+   "cap": "20050808202832",
+   "sha1": "9130ffb0807216f1534929606b68589a599a32fb"
+  },
+  {
+   "ts": "20050718222531",
+   "url": "http://rockstargames.com/westcoast/images/album_ogloc1.jpg",
+   "mime": "image/jpeg",
+   "len": 14587,
+   "cap": "20050718222531",
+   "sha1": "8ef38aba04ecc95b173ff990c9d04cc19eddcc04"
+  },
+  {
+   "ts": "20050808202838",
+   "url": "http://www.rockstargames.com/westcoast/images/album_rochell-le1.jpg",
+   "mime": "image/jpeg",
+   "len": 25098,
+   "cap": "20050808202838",
+   "sha1": "0bdec99b029cd5cb51008dcac484ba737fa4acf4"
+  },
+  {
+   "ts": "20061208125844",
+   "url": "http://www.rockstargames.com/westcoast/images/background.gif",
+   "mime": "image/gif",
+   "len": 881,
+   "cap": "20061208125844",
+   "sha1": "b58144a1ae6d8187d71e76328891518ff0ab8f73"
+  },
+  {
+   "ts": "20050808202829",
+   "url": "http://www.rockstargames.com/westcoast/images/forgottenTitle2.gif",
+   "mime": "image/gif",
+   "len": 7650,
+   "cap": "20050808202829",
+   "sha1": "802773b368777784b7c212bf710f66d38dbadfd3"
+  },
+  {
+   "ts": "20050808202829",
+   "url": "http://www.rockstargames.com/westcoast/images/legend_madddogg.jpg",
+   "mime": "image/jpeg",
+   "len": 3689,
+   "cap": "20050808202829",
+   "sha1": "f144423da525f17213c848313d0e773a0d31f20d"
+  },
+  {
+   "ts": "20050808202830",
+   "url": "http://www.rockstargames.com/westcoast/images/legend_ogloc.jpg",
+   "mime": "image/jpeg",
+   "len": 4778,
+   "cap": "20050808202830",
+   "sha1": "59dab469819a3a16f2a55615fd0b88b741407aa2"
+  },
+  {
+   "ts": "20050808202830",
+   "url": "http://www.rockstargames.com/westcoast/images/noPic.gif",
+   "mime": "image/gif",
+   "len": 1384,
+   "cap": "20050808202830",
+   "sha1": "bd4f6218cd7fc09d42328de072df2b4b09f4c2f7"
+  },
+  {
+   "ts": "20050808202846",
+   "url": "http://www.rockstargames.com/westcoast/images/parentaladvisory.gif",
+   "mime": "image/gif",
+   "len": 4909,
+   "cap": "20050808202846",
+   "sha1": "f8ac9c41a3b97bb28ae6520aee1bc97098a332d3"
+  },
+  {
+   "ts": "20061208125841",
+   "url": "http://www.rockstargames.com/westcoast/images/title_albums.gif",
+   "mime": "image/gif",
+   "len": 2467,
+   "cap": "20061208125841",
+   "sha1": "25693aafd129e1ca162c00d33f75bf8a06f187e2"
+  },
+  {
+   "ts": "20050808202829",
+   "url": "http://www.rockstargames.com/westcoast/images/title_intro.gif",
+   "mime": "image/gif",
+   "len": 2360,
+   "cap": "20050808202829",
+   "sha1": "941ef23249e00e598715c535badc3914eb9125e1"
+  },
+  {
+   "ts": "20050808202829",
+   "url": "http://www.rockstargames.com/westcoast/images/title_legends.gif",
+   "mime": "image/gif",
+   "len": 2540,
+   "cap": "20050808202829",
+   "sha1": "0acbab9b75cf077fa73c6d4d8ac3d8b26cb7f9d0"
+  },
+  {
+   "ts": "20050808202835",
+   "url": "http://www.rockstargames.com/westcoast/images/title_outro.gif",
+   "mime": "image/gif",
+   "len": 2321,
+   "cap": "20050808202835",
+   "sha1": "277ff7ccb862b0566b878dffe220fd41bad31fdd"
+  },
+  {
+   "ts": "20041016110751",
+   "url": "http://www.rockstargames.com:80/westcoast/legends.css",
+   "mime": "text/css",
+   "len": 364,
+   "cap": "20050205153718",
+   "sha1": "89fef1cac4ddd23b7485849d0ca55538a6b31d91"
+  },
+  {
+   "ts": "20051030020846",
+   "url": "http://www.rockstargames.com:80/westcoast/ogloc.mp3",
+   "mime": "audio/mpeg",
+   "len": 1482676,
+   "cap": "20051030020846",
+   "sha1": "4254a615924c6551a81189fb85df5f6e0556b317"
+  }
+ ]
+}

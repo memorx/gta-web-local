@@ -1,0 +1,3 @@
+# Files copied as-is into the build output keep LF line endings on every platform,
+# so a build on Windows is byte-identical to one on Linux or macOS.
+iv/fill/* text eol=lf

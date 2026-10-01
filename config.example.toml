@@ -1,0 +1,16 @@
+# Copy this file to config.toml and point it at your own game installs.
+# The game folders are only read, never written.
+# Relative paths are resolved against this file's folder.
+
+[paths]
+# GTA IV: the folder that contains pc\ and GTAIV.exe (tested with the Complete Edition on Steam)
+gta4 = "C:/Program Files (x86)/Steam/steamapps/common/Grand Theft Auto IV/GTAIV"
+
+# GTA V: the folder that contains x64b.rpf (Enhanced is tested, Legacy is not yet; leave empty to skip GTA V)
+gta5 = "C:/Program Files (x86)/Steam/steamapps/common/Grand Theft Auto V"
+
+# What the server shows (generated)
+out = "out"
+
+# Extracted game files, caches and downloaded tools (generated, can be deleted)
+work = "work"

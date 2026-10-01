@@ -1,0 +1,141 @@
+{
+ "site": "iii-dormatron",
+ "rows": [
+  {
+   "ts": "20011018130419",
+   "url": "http://www.sleepofflard.com:80/",
+   "mime": "text/html",
+   "len": 330,
+   "cap": "20011018130419",
+   "sha1": "d4090f7c58846e7fa6676e046a0df74bd070d6bc"
+  },
+  {
+   "ts": "20031002140807",
+   "url": "http://sleepofflard.com:80/base.html",
+   "mime": "text/html",
+   "len": 445,
+   "cap": "20031002140807",
+   "sha1": "d25869376de87ab916574a4076595b78744a95a2"
+  },
+  {
+   "ts": "20031210012256",
+   "url": "http://www.sleepofflard.com:80/base0.html",
+   "mime": "text/html",
+   "len": 652,
+   "cap": "20031210012256",
+   "sha1": "48b89e72f2290d4c38b1ba01eb57848b4054db74"
+  },
+  {
+   "ts": "20040806002928",
+   "url": "http://sleepofflard.com:80/dormatron.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 28483,
+   "cap": "20040806002928",
+   "sha1": "c9f1c24bd8b1e310961d546ed9e2a9cacfeed148"
+  },
+  {
+   "ts": "20031003121536",
+   "url": "http://sleepofflard.com:80/empty.html",
+   "mime": "text/html",
+   "len": 292,
+   "cap": "20031003121536",
+   "sha1": "5f2759e2828bdbbd081513dfc88718adbaaf91a6"
+  },
+  {
+   "ts": "20030208033024",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/dormatron/",
+   "mime": "text/html",
+   "len": 482,
+   "cap": "20030208033024",
+   "sha1": "5d14216c055a4a5444e31562c6b940d5c6d6e5bd"
+  },
+  {
+   "ts": "20020206100723",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/dormatron/base.html",
+   "mime": "text/html",
+   "len": 474,
+   "cap": "20020206100723",
+   "sha1": "d25869376de87ab916574a4076595b78744a95a2"
+  },
+  {
+   "ts": "20011026095132",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/dormatron/base0.html",
+   "mime": "text/html",
+   "len": 670,
+   "cap": "20011026095132",
+   "sha1": "48b89e72f2290d4c38b1ba01eb57848b4054db74"
+  },
+  {
+   "ts": "20040911035618",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/dormatron/dormatron.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 28513,
+   "cap": "20040911035618",
+   "sha1": "c9f1c24bd8b1e310961d546ed9e2a9cacfeed148"
+  },
+  {
+   "ts": "20020206101430",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/dormatron/empty.html",
+   "mime": "text/html",
+   "len": 313,
+   "cap": "20020206101430",
+   "sha1": "5f2759e2828bdbbd081513dfc88718adbaaf91a6"
+  },
+  {
+   "ts": "20011018170309",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/dormatron/index.html",
+   "mime": "text/html",
+   "len": 467,
+   "cap": "20030208033024",
+   "sha1": "5d14216c055a4a5444e31562c6b940d5c6d6e5bd"
+  },
+  {
+   "ts": "20060302053107",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/dormatron/",
+   "mime": "text/html",
+   "len": 499,
+   "cap": "20060302053107",
+   "sha1": "5d14216c055a4a5444e31562c6b940d5c6d6e5bd"
+  },
+  {
+   "ts": "20020207111724",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/dormatron/base.html",
+   "mime": "text/html",
+   "len": 484,
+   "cap": "20020207111724",
+   "sha1": "d25869376de87ab916574a4076595b78744a95a2"
+  },
+  {
+   "ts": "20020208054247",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/dormatron/base0.html",
+   "mime": "text/html",
+   "len": 672,
+   "cap": "20020208054247",
+   "sha1": "48b89e72f2290d4c38b1ba01eb57848b4054db74"
+  },
+  {
+   "ts": "20040115124727",
+   "url": "http://www.rockstargames.com:80/GRANDTHEFTAUTO3/flash/dormatron/dormatron.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 28514,
+   "cap": "20040115124727",
+   "sha1": "c9f1c24bd8b1e310961d546ed9e2a9cacfeed148"
+  },
+  {
+   "ts": "20020208055931",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/dormatron/empty.html",
+   "mime": "text/html",
+   "len": 324,
+   "cap": "20020208055931",
+   "sha1": "5f2759e2828bdbbd081513dfc88718adbaaf91a6"
+  },
+  {
+   "ts": "20020207111550",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/dormatron/index.html",
+   "mime": "text/html",
+   "len": 472,
+   "cap": "20060302053107",
+   "sha1": "5d14216c055a4a5444e31562c6b940d5c6d6e5bd"
+  }
+ ]
+}

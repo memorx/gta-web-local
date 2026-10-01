@@ -1,0 +1,189 @@
+{
+ "site": "iii-ammunation",
+ "rows": [
+  {
+   "ts": "20021126080300",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/ammunation/",
+   "mime": "text/html",
+   "len": 404,
+   "cap": "20021126080300",
+   "sha1": "31c0a1de699ea4d6b25d5c7a54929eca32b27813"
+  },
+  {
+   "ts": "20020221034313",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/ammunation.gif",
+   "mime": "image/gif",
+   "len": 29967,
+   "cap": "20020221034313",
+   "sha1": "d7e6e60036ac02c44b19df24199b92d9f19be72b"
+  },
+  {
+   "ts": "20011025214139",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/ammunation/ammunation.html",
+   "mime": "text/html",
+   "len": 669,
+   "cap": "20011025214139",
+   "sha1": "8c3607fc5da02314c816b58e76553fd6713f33dd"
+  },
+  {
+   "ts": "20020416084947",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/count.gif",
+   "mime": "image/gif",
+   "len": 2126,
+   "cap": "20020416084947",
+   "sha1": "d2a6922a07c8b39f8d23f2b52181558bef022262"
+  },
+  {
+   "ts": "20011025213352",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/ammunation/index.html",
+   "mime": "text/html",
+   "len": 387,
+   "cap": "20021126080300",
+   "sha1": "31c0a1de699ea4d6b25d5c7a54929eca32b27813"
+  },
+  {
+   "ts": "20020416090417",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/lnchange.gif",
+   "mime": "image/gif",
+   "len": 1033,
+   "cap": "20020416090417",
+   "sha1": "7f3dcb50591e4b79d3e1310fee709892acd37af2"
+  },
+  {
+   "ts": "20070820052731",
+   "url": "http://www.rockstargames.com/grandtheftauto3/flash/ammunation/smoke_water.mid",
+   "mime": "audio/midi",
+   "len": 12353,
+   "cap": "20070820052731",
+   "sha1": "d92649af00933407c31ae475924c9eb39411f869"
+  },
+  {
+   "ts": "20020206013832",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons.html",
+   "mime": "text/html",
+   "len": 878,
+   "cap": "20020206013832",
+   "sha1": "99d8dce70fa7e399f1323e53ec36cb201c21e660"
+  },
+  {
+   "ts": "20030112184854",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons/ak47.jpg",
+   "mime": "image/jpeg",
+   "len": 5339,
+   "cap": "20030112184854",
+   "sha1": "27938f5a8cffa62bd9bbf3f5513a373c00aba3b5"
+  },
+  {
+   "ts": "20011026002210",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons/big_ak47.jpg",
+   "mime": "image/jpeg",
+   "len": 14692,
+   "cap": "20011026002210",
+   "sha1": "e2e5715782438adf85390a129a748b6db32322a9"
+  },
+  {
+   "ts": "20020103022534",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons/big_colt45.jpg",
+   "mime": "image/jpeg",
+   "len": 16541,
+   "cap": "20020103022534",
+   "sha1": "9a31f14b2fa138a63ed0f185eb82d1be79ddeff4"
+  },
+  {
+   "ts": "20040412005819",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons/big_rlaunch.jpg",
+   "mime": "image/jpeg",
+   "len": 14438,
+   "cap": "20040412005819",
+   "sha1": "d4227f15d8b5593f173bcca5ef0be8b0c486bf24"
+  },
+  {
+   "ts": "20020103024009",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons/big_shotgun.jpg",
+   "mime": "image/jpeg",
+   "len": 12748,
+   "cap": "20020103024009",
+   "sha1": "17dc1f4a8ae009ea9dc775f0b5ab3f904ad1f01a"
+  },
+  {
+   "ts": "20020103024136",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons/big_uzi.jpg",
+   "mime": "image/jpeg",
+   "len": 14730,
+   "cap": "20020103024136",
+   "sha1": "31a51855c20240e5c7af980975582d1c0a65f17b"
+  },
+  {
+   "ts": "20030112193544",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons/colt45.jpg",
+   "mime": "image/jpeg",
+   "len": 5703,
+   "cap": "20030112193544",
+   "sha1": "dcde58c305842bf91ff099e4d653c39bcf1f1e3e"
+  },
+  {
+   "ts": "20030112194340",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons/rlaunch.jpg",
+   "mime": "image/jpeg",
+   "len": 5383,
+   "cap": "20030112194340",
+   "sha1": "b6bc66e44e0cb04a324e21130d0b3fe1c5a65e65"
+  },
+  {
+   "ts": "20030112195345",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons/shotgun.jpg",
+   "mime": "image/jpeg",
+   "len": 4865,
+   "cap": "20030112195345",
+   "sha1": "16605139e8731f139849db284d305648da457c80"
+  },
+  {
+   "ts": "20030112200505",
+   "url": "http://rockstargames.com:80/grandtheftauto3/flash/ammunation/weapons/uzi.jpg",
+   "mime": "image/jpeg",
+   "len": 5455,
+   "cap": "20030112200505",
+   "sha1": "992ed0335a1b48c51d3a800a7ce7418f49685ea8"
+  },
+  {
+   "ts": "20010827024647",
+   "url": "http://rockstargames.com:80/grandtheftauto3/ammunation/ammunation.gif",
+   "mime": "image/gif",
+   "len": 29958,
+   "cap": "20010827024647",
+   "sha1": "d7e6e60036ac02c44b19df24199b92d9f19be72b"
+  },
+  {
+   "ts": "20010819201534",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/ammunation/ammunation.html",
+   "mime": "text/html",
+   "len": 612,
+   "cap": "20010819201534",
+   "sha1": "c65e248de277b193f083a85fd4c5919fbc54a7dc"
+  },
+  {
+   "ts": "20010819083101",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/ammunation/index.html",
+   "mime": "text/html",
+   "len": 382,
+   "cap": "20010819083101",
+   "sha1": "31c0a1de699ea4d6b25d5c7a54929eca32b27813"
+  },
+  {
+   "ts": "20010827032406",
+   "url": "http://rockstargames.com:80/grandtheftauto3/ammunation/lnchange.gif",
+   "mime": "image/gif",
+   "len": 1024,
+   "cap": "20010827032406",
+   "sha1": "7f3dcb50591e4b79d3e1310fee709892acd37af2"
+  },
+  {
+   "ts": "20010913150808",
+   "url": "http://www.rockstargames.com:80/grandtheftauto3/ammunation/weapons.html",
+   "mime": "text/html",
+   "len": 871,
+   "cap": "20010913150808",
+   "sha1": "99d8dce70fa7e399f1323e53ec36cb201c21e660"
+  }
+ ]
+}

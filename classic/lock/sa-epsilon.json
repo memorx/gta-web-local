@@ -1,0 +1,533 @@
+{
+ "site": "sa-epsilon",
+ "rows": [
+  {
+   "ts": "20040828015027",
+   "url": "http://www.epsilonprogram.com:80/",
+   "mime": "text/html",
+   "len": 485,
+   "cap": "20040830002751",
+   "sha1": "2d349726b5efce68940157525093672dd6c335d8"
+  },
+  {
+   "ts": "20041022210650",
+   "url": "http://www.epsilonprogram.com:80/index.html",
+   "mime": "text/html",
+   "len": 472,
+   "cap": "20040830002751",
+   "sha1": "2d349726b5efce68940157525093672dd6c335d8"
+  },
+  {
+   "ts": "20040830191432",
+   "url": "http://www.rockstargames.com:80/epsilonprogram/",
+   "mime": "text/html",
+   "len": 2132,
+   "cap": "20040830191432",
+   "sha1": "87b7c871bbb19d1285b8c2dbb90efbec8f8d78f2"
+  },
+  {
+   "ts": "20050624001118",
+   "url": "http://www.rockstargames.com/epsilonprogram/12.gif",
+   "mime": "image/gif",
+   "len": 1514,
+   "cap": "20050624001118",
+   "sha1": "74ec2192874465cb138b9710e54308154f7dee88"
+  },
+  {
+   "ts": "20050624001118",
+   "url": "http://www.rockstargames.com/epsilonprogram/bottom.jpg",
+   "mime": "image/jpeg",
+   "len": 3941,
+   "cap": "20050624001118",
+   "sha1": "aaa8646d2b8cac4ab0d0527af8718f76de33fb9e"
+  },
+  {
+   "ts": "20040829012644",
+   "url": "http://www.rockstargames.com:80/epsilonprogram/contact.htm",
+   "mime": "text/html",
+   "len": 1579,
+   "cap": "20040830223215",
+   "sha1": "7138ab2e1ff5e6aa63d5bf0ced511ed103bd557a"
+  },
+  {
+   "ts": "20050801233957",
+   "url": "http://www.rockstargames.com/epsilonprogram/contact_title.gif",
+   "mime": "image/gif",
+   "len": 849,
+   "cap": "20050801233957",
+   "sha1": "3b5ce3e28e3a34d9d27f0b17833a9955f5c80408"
+  },
+  {
+   "ts": "20050624001117",
+   "url": "http://www.rockstargames.com/epsilonprogram/descend2.gif",
+   "mime": "image/gif",
+   "len": 5096,
+   "cap": "20050624001117",
+   "sha1": "b8f4de162d848f008e71e70a52ffc59d0b956e7d"
+  },
+  {
+   "ts": "20050624001117",
+   "url": "http://www.rockstargames.com/epsilonprogram/e.gif",
+   "mime": "image/gif",
+   "len": 612,
+   "cap": "20050624001117",
+   "sha1": "37d2ce57f82e22640fe99bed4e7c8f654fd1bc82"
+  },
+  {
+   "ts": "20050624001115",
+   "url": "http://www.rockstargames.com/epsilonprogram/haveyou.gif",
+   "mime": "image/gif",
+   "len": 2766,
+   "cap": "20050624001115",
+   "sha1": "0a7c9bea73e8abd7a87272b42be81b6d60cf5db7"
+  },
+  {
+   "ts": "20050319075918",
+   "url": "http://www.rockstargames.com:80/epsilonprogram/header.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 202193,
+   "cap": "20050319075918",
+   "sha1": "bc1229c30ee53743544d0ed984732e1287b626dc"
+  },
+  {
+   "ts": "20040829014136",
+   "url": "http://www.rockstargames.com:80/epsilonprogram/index.htm",
+   "mime": "text/html",
+   "len": 2121,
+   "cap": "20040830223850",
+   "sha1": "87b7c871bbb19d1285b8c2dbb90efbec8f8d78f2"
+  },
+  {
+   "ts": "20040830224121",
+   "url": "http://www.rockstargames.com:80/epsilonprogram/join.htm",
+   "mime": "text/html",
+   "len": 1683,
+   "cap": "20040830224121",
+   "sha1": "a733f77ff23aab6601440c5e425aaa90f77b9355"
+  },
+  {
+   "ts": "20050801233858",
+   "url": "http://www.rockstargames.com/epsilonprogram/join_title.gif",
+   "mime": "image/gif",
+   "len": 1296,
+   "cap": "20050801233858",
+   "sha1": "f799d80fa5078f00df0123efa871b44f953bc797"
+  },
+  {
+   "ts": "20050624001115",
+   "url": "http://www.rockstargames.com/epsilonprogram/menu.gif",
+   "mime": "image/gif",
+   "len": 4520,
+   "cap": "20050624001115",
+   "sha1": "f9d03b291b67d620944f90a23602c9e20166761e"
+  },
+  {
+   "ts": "20040829015537",
+   "url": "http://www.rockstargames.com:80/epsilonprogram/money.htm",
+   "mime": "text/html",
+   "len": 1626,
+   "cap": "20040830224408",
+   "sha1": "df675682b39c235b3d7c53bbb4295372f8be1418"
+  },
+  {
+   "ts": "20050801233833",
+   "url": "http://www.rockstargames.com/epsilonprogram/money_title.gif",
+   "mime": "image/gif",
+   "len": 1359,
+   "cap": "20050801233833",
+   "sha1": "9e837955d381ce306616d6dc3fdc2191bd7bc1b8"
+  },
+  {
+   "ts": "20050801233618",
+   "url": "http://www.rockstargames.com/epsilonprogram/price.gif",
+   "mime": "image/gif",
+   "len": 2921,
+   "cap": "20050801233618",
+   "sha1": "fc54dc11498ba07533ad6557113e5086b95a458b"
+  },
+  {
+   "ts": "20050624001117",
+   "url": "http://www.rockstargames.com/epsilonprogram/spacer.gif",
+   "mime": "image/gif",
+   "len": 344,
+   "cap": "20050624001117",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20050801233755",
+   "url": "http://www.rockstargames.com/epsilonprogram/testimonial_title.gif",
+   "mime": "image/gif",
+   "len": 1110,
+   "cap": "20050801233755",
+   "sha1": "0aee4caa36b7478715f2e4f10c6196449c591b38"
+  },
+  {
+   "ts": "20040829020039",
+   "url": "http://www.rockstargames.com:80/epsilonprogram/testimonials.htm",
+   "mime": "text/html",
+   "len": 2060,
+   "cap": "20040830221343",
+   "sha1": "b3c1c92d9878004e5dd2ffe4bdcc4f054f32510d"
+  },
+  {
+   "ts": "20050801233725",
+   "url": "http://www.rockstargames.com/epsilonprogram/tract.gif",
+   "mime": "image/gif",
+   "len": 1107,
+   "cap": "20050801233725",
+   "sha1": "07adacad243c21bdf10d32a01520baa7a19efe18"
+  },
+  {
+   "ts": "20040830222328",
+   "url": "http://www.rockstargames.com:80/epsilonprogram/tract.htm",
+   "mime": "text/html",
+   "len": 1826,
+   "cap": "20040830222328",
+   "sha1": "fbbad1ac3a8d21cd4f424a1b490cd1083cf2a3a7"
+  },
+  {
+   "ts": "20050801233723",
+   "url": "http://www.rockstargames.com/epsilonprogram/tract_title.gif",
+   "mime": "image/gif",
+   "len": 1241,
+   "cap": "20050801233723",
+   "sha1": "65e136a31d6fb1c126ff6553806590d19a9673c4"
+  },
+  {
+   "ts": "20130630084412",
+   "url": "http://www.epsilonprogram.com/12.gif",
+   "mime": "image/gif",
+   "len": 1551,
+   "cap": "20130630084412",
+   "sha1": "74ec2192874465cb138b9710e54308154f7dee88"
+  },
+  {
+   "ts": "20130529111346",
+   "url": "http://www.epsilonprogram.com/bg-scrollbar-thumb-y.png",
+   "mime": "image/png",
+   "len": 3411,
+   "cap": "20130529111346",
+   "sha1": "daab7dab5545837487c4893a803913a993d1844f"
+  },
+  {
+   "ts": "20130529111346",
+   "url": "http://www.epsilonprogram.com/bg-scrollbar-track-y.png",
+   "mime": "image/png",
+   "len": 1101,
+   "cap": "20130529111346",
+   "sha1": "371355a2dd0bce09fc26555250f9f67d5c47cc56"
+  },
+  {
+   "ts": "20130529111346",
+   "url": "http://www.epsilonprogram.com/bg-scrollbar-trackend-y.png",
+   "mime": "image/png",
+   "len": 594,
+   "cap": "20130529111346",
+   "sha1": "830f15cec98dc4b4f6669a080a1a5a4d937a7334"
+  },
+  {
+   "ts": "20130529111346",
+   "url": "http://www.epsilonprogram.com/bottom.jpg",
+   "mime": "image/jpeg",
+   "len": 4006,
+   "cap": "20130529111346",
+   "sha1": "aaa8646d2b8cac4ab0d0527af8718f76de33fb9e"
+  },
+  {
+   "ts": "20130529111345",
+   "url": "http://www.epsilonprogram.com/close-btn.png",
+   "mime": "image/png",
+   "len": 1555,
+   "cap": "20130529111345",
+   "sha1": "bb726510e1259fcb09c1f029cc95ee0f53081a62"
+  },
+  {
+   "ts": "20130601110823",
+   "url": "http://www.epsilonprogram.com/contact_title.gif",
+   "mime": "image/gif",
+   "len": 919,
+   "cap": "20130601110823",
+   "sha1": "3b5ce3e28e3a34d9d27f0b17833a9955f5c80408"
+  },
+  {
+   "ts": "20130529111344",
+   "url": "http://www.epsilonprogram.com/descend2.gif",
+   "mime": "image/gif",
+   "len": 5164,
+   "cap": "20130529111344",
+   "sha1": "b8f4de162d848f008e71e70a52ffc59d0b956e7d"
+  },
+  {
+   "ts": "20130529111344",
+   "url": "http://www.epsilonprogram.com/e.gif",
+   "mime": "image/gif",
+   "len": 651,
+   "cap": "20130529111344",
+   "sha1": "37d2ce57f82e22640fe99bed4e7c8f654fd1bc82"
+  },
+  {
+   "ts": "20130529111345",
+   "url": "http://www.epsilonprogram.com/epsilon-logo.jpg",
+   "mime": "image/jpeg",
+   "len": 7636,
+   "cap": "20130529111345",
+   "sha1": "ccdef51203bd0eb8cc14890545e175e40352a219"
+  },
+  {
+   "ts": "20210812005542",
+   "url": "https://epsilonprogram.com/favicon.ico",
+   "mime": "image/vnd.microsoft.icon",
+   "len": 3354,
+   "cap": "20210812005542",
+   "sha1": "8ea768652ba4927d7465a0276d240030c61f87bd"
+  },
+  {
+   "ts": "20130529111347",
+   "url": "http://www.epsilonprogram.com/haveyou.gif",
+   "mime": "image/gif",
+   "len": 2809,
+   "cap": "20130529111347",
+   "sha1": "0a7c9bea73e8abd7a87272b42be81b6d60cf5db7"
+  },
+  {
+   "ts": "20130529111345",
+   "url": "http://www.epsilonprogram.com/header.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 992320,
+   "cap": "20130529111345",
+   "sha1": "b6e230577f590df8563fb30ae17ac3b1315dbf86"
+  },
+  {
+   "ts": "20130529111346",
+   "url": "http://www.epsilonprogram.com/join-accept.png",
+   "mime": "image/png",
+   "len": 10190,
+   "cap": "20130529111346",
+   "sha1": "2e7b896ab5ca1d20df855954240cbfcd9a25d1c0"
+  },
+  {
+   "ts": "20130529111345",
+   "url": "http://www.epsilonprogram.com/join-apply.png",
+   "mime": "image/png",
+   "len": 24456,
+   "cap": "20130529111345",
+   "sha1": "04324cfef6e0c27f3ba3ccf771aa2d2004865a86"
+  },
+  {
+   "ts": "20130813075634",
+   "url": "http://www.epsilonprogram.com/join-chosen.jpg",
+   "mime": "image/jpeg",
+   "len": 93933,
+   "cap": "20130813075634",
+   "sha1": "a90ee1895dd4760ef3b74137c6bebe5e380df543"
+  },
+  {
+   "ts": "20130707070613",
+   "url": "http://epsilonprogram.com/join-end.jpg",
+   "mime": "image/jpeg",
+   "len": 123043,
+   "cap": "20130707070613",
+   "sha1": "818313bbeb76f2683f51672ee081e9bb75083e30"
+  },
+  {
+   "ts": "20130529111344",
+   "url": "http://www.epsilonprogram.com/join-face.jpg",
+   "mime": "image/jpeg",
+   "len": 3048,
+   "cap": "20130529111344",
+   "sha1": "710672f881054a9cdcde336af832fa8b55c5008e"
+  },
+  {
+   "ts": "20130529111345",
+   "url": "http://www.epsilonprogram.com/join-main.jpg",
+   "mime": "image/jpeg",
+   "len": 117700,
+   "cap": "20130529111345",
+   "sha1": "8575644ac461802c8f41f8a508f578f606f08851"
+  },
+  {
+   "ts": "20130529111344",
+   "url": "http://www.epsilonprogram.com/join_title.gif",
+   "mime": "image/gif",
+   "len": 1337,
+   "cap": "20130529111344",
+   "sha1": "f799d80fa5078f00df0123efa871b44f953bc797"
+  },
+  {
+   "ts": "20131019171608",
+   "url": "http://www.epsilonprogram.com/jquery.tinyscrollbar.min.js",
+   "mime": "text/javascript",
+   "len": 1638,
+   "cap": "20131019171608",
+   "sha1": "344b9c503ffe93f4ef1f6264df7f83b6549339a4"
+  },
+  {
+   "ts": "20130529111347",
+   "url": "http://www.epsilonprogram.com/menu.gif",
+   "mime": "image/gif",
+   "len": 4562,
+   "cap": "20130529111347",
+   "sha1": "f9d03b291b67d620944f90a23602c9e20166761e"
+  },
+  {
+   "ts": "20130630084349",
+   "url": "http://www.epsilonprogram.com/money_title.gif",
+   "mime": "image/gif",
+   "len": 1413,
+   "cap": "20130630084349",
+   "sha1": "9e837955d381ce306616d6dc3fdc2191bd7bc1b8"
+  },
+  {
+   "ts": "20130529111344",
+   "url": "http://www.epsilonprogram.com/price.gif",
+   "mime": "image/gif",
+   "len": 2989,
+   "cap": "20130529111344",
+   "sha1": "fc54dc11498ba07533ad6557113e5086b95a458b"
+  },
+  {
+   "ts": "20130529111344",
+   "url": "http://www.epsilonprogram.com/spacer.gif",
+   "mime": "image/gif",
+   "len": 379,
+   "cap": "20130529111344",
+   "sha1": "2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a"
+  },
+  {
+   "ts": "20130630084426",
+   "url": "http://www.epsilonprogram.com/testimonial_title.gif",
+   "mime": "image/gif",
+   "len": 1149,
+   "cap": "20130630084426",
+   "sha1": "0aee4caa36b7478715f2e4f10c6196449c591b38"
+  },
+  {
+   "ts": "20140815114439",
+   "url": "http://www.epsilonprogram.com/tract",
+   "mime": "image/gif",
+   "len": 1404,
+   "cap": "20140815114439",
+   "sha1": "07adacad243c21bdf10d32a01520baa7a19efe18"
+  },
+  {
+   "ts": "20130601110813",
+   "url": "http://www.epsilonprogram.com/tract.gif",
+   "mime": "image/gif",
+   "len": 1175,
+   "cap": "20130601110813",
+   "sha1": "07adacad243c21bdf10d32a01520baa7a19efe18"
+  },
+  {
+   "ts": "20130601110812",
+   "url": "http://www.epsilonprogram.com/tract_title.gif",
+   "mime": "image/gif",
+   "len": 1287,
+   "cap": "20130601110812",
+   "sha1": "65e136a31d6fb1c126ff6553806590d19a9673c4"
+  },
+  {
+   "ts": "20130509150544",
+   "url": "http://www.rockstargames.com/epsilonprogram/bg-scrollbar-thumb-y.png",
+   "mime": "image/png",
+   "len": 3404,
+   "cap": "20130509150544",
+   "sha1": "daab7dab5545837487c4893a803913a993d1844f"
+  },
+  {
+   "ts": "20130509150544",
+   "url": "http://www.rockstargames.com/epsilonprogram/bg-scrollbar-track-y.png",
+   "mime": "image/png",
+   "len": 1091,
+   "cap": "20130509150544",
+   "sha1": "371355a2dd0bce09fc26555250f9f67d5c47cc56"
+  },
+  {
+   "ts": "20130509150544",
+   "url": "http://www.rockstargames.com/epsilonprogram/bg-scrollbar-trackend-y.png",
+   "mime": "image/png",
+   "len": 584,
+   "cap": "20130509150544",
+   "sha1": "830f15cec98dc4b4f6669a080a1a5a4d937a7334"
+  },
+  {
+   "ts": "20130509150543",
+   "url": "http://www.rockstargames.com/epsilonprogram/close-btn.png",
+   "mime": "image/png",
+   "len": 1549,
+   "cap": "20130509150543",
+   "sha1": "bb726510e1259fcb09c1f029cc95ee0f53081a62"
+  },
+  {
+   "ts": "20130509150543",
+   "url": "http://www.rockstargames.com/epsilonprogram/epsilon-logo.jpg",
+   "mime": "image/jpeg",
+   "len": 7627,
+   "cap": "20130509150543",
+   "sha1": "ccdef51203bd0eb8cc14890545e175e40352a219"
+  },
+  {
+   "ts": "20130509150543",
+   "url": "http://www.rockstargames.com/epsilonprogram/join-accept.png",
+   "mime": "image/png",
+   "len": 10186,
+   "cap": "20130509150543",
+   "sha1": "2e7b896ab5ca1d20df855954240cbfcd9a25d1c0"
+  },
+  {
+   "ts": "20130509150543",
+   "url": "http://www.rockstargames.com/epsilonprogram/join-apply.png",
+   "mime": "image/png",
+   "len": 24444,
+   "cap": "20130509150543",
+   "sha1": "04324cfef6e0c27f3ba3ccf771aa2d2004865a86"
+  },
+  {
+   "ts": "20130706171710",
+   "url": "http://www.rockstargames.com/epsilonprogram/join-chosen.jpg",
+   "mime": "image/jpeg",
+   "len": 93918,
+   "cap": "20130706171710",
+   "sha1": "a90ee1895dd4760ef3b74137c6bebe5e380df543"
+  },
+  {
+   "ts": "20130601110429",
+   "url": "http://www.rockstargames.com/epsilonprogram/join-end.jpg",
+   "mime": "image/jpeg",
+   "len": 122839,
+   "cap": "20130601110429",
+   "sha1": "818313bbeb76f2683f51672ee081e9bb75083e30"
+  },
+  {
+   "ts": "20130509150543",
+   "url": "http://www.rockstargames.com/epsilonprogram/join-face.jpg",
+   "mime": "image/jpeg",
+   "len": 3035,
+   "cap": "20130509150543",
+   "sha1": "710672f881054a9cdcde336af832fa8b55c5008e"
+  },
+  {
+   "ts": "20130509150543",
+   "url": "http://www.rockstargames.com/epsilonprogram/join-main.jpg",
+   "mime": "image/jpeg",
+   "len": 117703,
+   "cap": "20130509150543",
+   "sha1": "8575644ac461802c8f41f8a508f578f606f08851"
+  },
+  {
+   "ts": "20130602182311",
+   "url": "http://www.rockstargames.com/epsilonprogram/join-thanks.jpg",
+   "mime": "image/jpeg",
+   "len": 117506,
+   "cap": "20130602182311",
+   "sha1": "2f2c79a02e1ed306df6eaafb3168037c7121e508"
+  },
+  {
+   "ts": "20131019225001",
+   "url": "http://www.rockstargames.com/epsilonprogram/jquery.tinyscrollbar.min.js",
+   "mime": "text/javascript",
+   "len": 1452,
+   "cap": "20131019225001",
+   "sha1": "344b9c503ffe93f4ef1f6264df7f83b6549339a4"
+  }
+ ]
+}

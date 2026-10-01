@@ -1,0 +1,317 @@
+{
+ "site": "sa-maccer",
+ "rows": [
+  {
+   "ts": "20040828030343",
+   "url": "http://www.maccer.net:80/",
+   "mime": "text/html",
+   "len": 470,
+   "cap": "20040830003008",
+   "sha1": "136070ac5262a24ecd478436aff1486801b471d0"
+  },
+  {
+   "ts": "20191018171352",
+   "url": "http://maccer.net/biography.html",
+   "mime": "text/html",
+   "len": 1501,
+   "cap": "20191018171352",
+   "sha1": "8fd67cdb103eb0da66f214a153c34f0515398def"
+  },
+  {
+   "ts": "20191018171336",
+   "url": "http://maccer.net/comeBackTour.html",
+   "mime": "text/html",
+   "len": 1064,
+   "cap": "20191018171336",
+   "sha1": "1cef9528959d2fc093222a718cc0f55344d9ba0e"
+  },
+  {
+   "ts": "20190623125245",
+   "url": "http://maccer.net/home.html",
+   "mime": "text/html",
+   "len": 1043,
+   "cap": "20190623125245",
+   "sha1": "5796a3f898675893538c95d52d2984c5c495849d"
+  },
+  {
+   "ts": "20190623125240",
+   "url": "http://maccer.net/images/maccerBodyLeft.jpg",
+   "mime": "image/jpeg",
+   "len": 19201,
+   "cap": "20190623125240",
+   "sha1": "bc71c7ede3f0a6f9c8ed3721dc4e0b15c65a0d80"
+  },
+  {
+   "ts": "20190623125250",
+   "url": "http://maccer.net/images/maccerFooter.jpg",
+   "mime": "image/jpeg",
+   "len": 15604,
+   "cap": "20190623125250",
+   "sha1": "c1614db8d38028235f48519d3f15e9fb6362fcbf"
+  },
+  {
+   "ts": "20190623125234",
+   "url": "http://maccer.net/images/maccerHeader.jpg",
+   "mime": "image/jpeg",
+   "len": 36066,
+   "cap": "20190623125234",
+   "sha1": "4b4e1a0e87a99e3b40019e9d012ae200d83d2854"
+  },
+  {
+   "ts": "20191018171423",
+   "url": "http://maccer.net/images/title_biography.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1486,
+   "cap": "20191018171423",
+   "sha1": "e079f702528a4f3ba871f9e087fd0d3b8aacab04"
+  },
+  {
+   "ts": "20191018171407",
+   "url": "http://maccer.net/images/title_comeBackTour.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1658,
+   "cap": "20191018171407",
+   "sha1": "f59feacb4317b9e44d303cc6ef48c7013f2cf047"
+  },
+  {
+   "ts": "20190623125300",
+   "url": "http://maccer.net/images/title_home.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1632,
+   "cap": "20190623125300",
+   "sha1": "4a11fcc6b6a5d20acd63f9fff19224f2cb1d7f19"
+  },
+  {
+   "ts": "20191018171415",
+   "url": "http://maccer.net/images/title_music.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1163,
+   "cap": "20191018171415",
+   "sha1": "ad00e4e3ab4939e42f744470e2cc46bf5ec92731"
+  },
+  {
+   "ts": "20191018171404",
+   "url": "http://maccer.net/images/title_personalMessage.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1664,
+   "cap": "20191018171404",
+   "sha1": "55f35848e88badbe336ca616681aadbd24b8f077"
+  },
+  {
+   "ts": "20191018171412",
+   "url": "http://maccer.net/images/title_personalQuotes.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1997,
+   "cap": "20191018171412",
+   "sha1": "2b7ea6cbf32843cb9d60295bcedb9b5118f83a4a"
+  },
+  {
+   "ts": "20191018171419",
+   "url": "http://maccer.net/images/title_rumours.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1229,
+   "cap": "20191018171419",
+   "sha1": "2df7a17e12b5315778ed683b0a16806f197eb1bd"
+  },
+  {
+   "ts": "20190623125257",
+   "url": "http://maccer.net/maccer.css",
+   "mime": "text/css",
+   "len": 784,
+   "cap": "20190623125257",
+   "sha1": "d58bad5eacd7cba0ce33ad4596dbeee0b2e055e1"
+  },
+  {
+   "ts": "20051031021755",
+   "url": "http://www.maccer.net:80/maccerPressConference.mp3",
+   "mime": "audio/mpeg",
+   "len": 201069,
+   "cap": "20051031021755",
+   "sha1": "1c2968148ed8e87340d80a02ef099f9961f92d10"
+  },
+  {
+   "ts": "20191018171344",
+   "url": "http://maccer.net/music.html",
+   "mime": "text/html",
+   "len": 1089,
+   "cap": "20191018171344",
+   "sha1": "26835f48a7a959badb67deeb81141e91c028dcb6"
+  },
+  {
+   "ts": "20191018171332",
+   "url": "http://maccer.net/personalMessage.html",
+   "mime": "text/html",
+   "len": 1738,
+   "cap": "20191018171332",
+   "sha1": "f016b738fe775b0c53db54881539cfaffa9e0441"
+  },
+  {
+   "ts": "20191018171340",
+   "url": "http://maccer.net/personalQuotes.html",
+   "mime": "text/html",
+   "len": 1490,
+   "cap": "20191018171340",
+   "sha1": "04273a6d7a9fd51250d055a2c1f8a5b4fda64ad2"
+  },
+  {
+   "ts": "20191018171348",
+   "url": "http://maccer.net/rumours.html",
+   "mime": "text/html",
+   "len": 1733,
+   "cap": "20191018171348",
+   "sha1": "853dd24d331dd42e2bef81efb03aae4977f3eada"
+  },
+  {
+   "ts": "20040830191535",
+   "url": "http://www.rockstargames.com:80/maccer/",
+   "mime": "text/html",
+   "len": 939,
+   "cap": "20040830191535",
+   "sha1": "cd0b569eeb9b4603985d9cc80466c162021743fd"
+  },
+  {
+   "ts": "20040829045255",
+   "url": "http://www.rockstargames.com:80/maccer/biography.html",
+   "mime": "text/html",
+   "len": 1206,
+   "cap": "20040829045255",
+   "sha1": "ffa18d67c9b775007d3545bb881ac61b1906eb1f"
+  },
+  {
+   "ts": "20040829050848",
+   "url": "http://www.rockstargames.com:80/maccer/comeBackTour.html",
+   "mime": "text/html",
+   "len": 769,
+   "cap": "20040829050848",
+   "sha1": "94eac5a41cf25bdf8ba2d57ccc98cca5dc223613"
+  },
+  {
+   "ts": "20040831065022",
+   "url": "http://www.rockstargames.com:80/maccer/home.html",
+   "mime": "text/html",
+   "len": 798,
+   "cap": "20040831065022",
+   "sha1": "f139342b12e19402a73daf1607d48b4a46591263"
+  },
+  {
+   "ts": "20040901020316",
+   "url": "http://www.rockstargames.com:80/maccer/images/maccerBodyLeft.jpg",
+   "mime": "image/jpeg",
+   "len": 18894,
+   "cap": "20040901020316",
+   "sha1": "bc71c7ede3f0a6f9c8ed3721dc4e0b15c65a0d80"
+  },
+  {
+   "ts": "20040901024335",
+   "url": "http://www.rockstargames.com:80/maccer/images/maccerFooter.jpg",
+   "mime": "image/jpeg",
+   "len": 15297,
+   "cap": "20040901024335",
+   "sha1": "c1614db8d38028235f48519d3f15e9fb6362fcbf"
+  },
+  {
+   "ts": "20040901030109",
+   "url": "http://www.rockstargames.com:80/maccer/images/maccerHeader.jpg",
+   "mime": "image/jpeg",
+   "len": 35762,
+   "cap": "20040901030109",
+   "sha1": "4b4e1a0e87a99e3b40019e9d012ae200d83d2854"
+  },
+  {
+   "ts": "20141113061403",
+   "url": "http://www.rockstargames.com/maccer/images/title_biography.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1617,
+   "cap": "20141113061403",
+   "sha1": "e079f702528a4f3ba871f9e087fd0d3b8aacab04"
+  },
+  {
+   "ts": "20141113061402",
+   "url": "http://www.rockstargames.com/maccer/images/title_comeBackTour.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1781,
+   "cap": "20141113061402",
+   "sha1": "f59feacb4317b9e44d303cc6ef48c7013f2cf047"
+  },
+  {
+   "ts": "20040831231639",
+   "url": "http://www.rockstargames.com:80/maccer/images/title_home.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1364,
+   "cap": "20040831231639",
+   "sha1": "4a11fcc6b6a5d20acd63f9fff19224f2cb1d7f19"
+  },
+  {
+   "ts": "20141113061402",
+   "url": "http://www.rockstargames.com/maccer/images/title_music.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1288,
+   "cap": "20141113061402",
+   "sha1": "ad00e4e3ab4939e42f744470e2cc46bf5ec92731"
+  },
+  {
+   "ts": "20141113061402",
+   "url": "http://www.rockstargames.com/maccer/images/title_personalMessage.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1788,
+   "cap": "20141113061402",
+   "sha1": "55f35848e88badbe336ca616681aadbd24b8f077"
+  },
+  {
+   "ts": "20141113061401",
+   "url": "http://www.rockstargames.com/maccer/images/title_personalQuotes.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 2125,
+   "cap": "20141113061401",
+   "sha1": "2b7ea6cbf32843cb9d60295bcedb9b5118f83a4a"
+  },
+  {
+   "ts": "20141113061403",
+   "url": "http://www.rockstargames.com/maccer/images/title_rumours.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1361,
+   "cap": "20141113061403",
+   "sha1": "2df7a17e12b5315778ed683b0a16806f197eb1bd"
+  },
+  {
+   "ts": "20040830222600",
+   "url": "http://www.rockstargames.com:80/maccer/maccer.css",
+   "mime": "text/css",
+   "len": 554,
+   "cap": "20040830222600",
+   "sha1": "f6d3e6b481e9225288b539af471e17273ad7ffae"
+  },
+  {
+   "ts": "20040828235542",
+   "url": "http://www.rockstargames.com:80/maccer/music.html",
+   "mime": "text/html",
+   "len": 838,
+   "cap": "20040828235542",
+   "sha1": "fc06faa04e20f1cf1fac3844074fa55e4a3508b8"
+  },
+  {
+   "ts": "20040829000824",
+   "url": "http://www.rockstargames.com:80/maccer/personalMessage.html",
+   "mime": "text/html",
+   "len": 1431,
+   "cap": "20040829000824",
+   "sha1": "e61d6a8d3ed9d3171b566f8791cb0a98f9b5ede0"
+  },
+  {
+   "ts": "20040829001205",
+   "url": "http://www.rockstargames.com:80/maccer/personalQuotes.html",
+   "mime": "text/html",
+   "len": 1194,
+   "cap": "20040830223015",
+   "sha1": "99b3d7491f8cc224b3e8d7e11146e5cd53e0537d"
+  },
+  {
+   "ts": "20040829002913",
+   "url": "http://www.rockstargames.com:80/maccer/rumours.html",
+   "mime": "text/html",
+   "len": 1434,
+   "cap": "20040829002913",
+   "sha1": "ec9f99a7ad3b11d4f7276b4ac9d789d7d8ed546b"
+  }
+ ]
+}

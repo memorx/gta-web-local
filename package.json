@@ -1,0 +1,12 @@
+{
+  "name": "gta-web-local-tests",
+  "private": true,
+  "description": "Browser probe for the pages built by build.py (tests/probe.mjs). Not needed to build or serve.",
+  "type": "module",
+  "scripts": {
+    "probe": "node tests/probe.mjs"
+  },
+  "devDependencies": {
+    "puppeteer-core": "25.12.0"
+  }
+}

@@ -1,0 +1,4 @@
+[submodule "third_party/gtaweb"]
+	path = third_party/gtaweb
+	url = https://github.com/memorx/gtaweb
+	branch = liberty-web

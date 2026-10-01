@@ -1,0 +1,245 @@
+{
+ "site": "sa-fearitdoit",
+ "rows": [
+  {
+   "ts": "20040911030141",
+   "url": "http://www.fearitdoit.com:80/",
+   "mime": "text/html",
+   "len": 496,
+   "cap": "20040911030141",
+   "sha1": "9c7643a36eb80ddd355b493be3c1f2579fdeae6d"
+  },
+  {
+   "ts": "20191018171340",
+   "url": "http://fearitdoit.com/banner2.gif",
+   "mime": "image/gif",
+   "len": 12677,
+   "cap": "20191018171340",
+   "sha1": "72e14dafa15d56efadf55d5c2a299601850cd654"
+  },
+  {
+   "ts": "20191018171332",
+   "url": "http://fearitdoit.com/book.gif",
+   "mime": "image/gif",
+   "len": 11273,
+   "cap": "20191018171332",
+   "sha1": "c5057a6d1f0897d4859c5e489bb44c7d838fcab9"
+  },
+  {
+   "ts": "20191018171336",
+   "url": "http://fearitdoit.com/corner.gif",
+   "mime": "image/gif",
+   "len": 920,
+   "cap": "20191018171336",
+   "sha1": "66023869dced0ba149d6c09d194ec764360ceed4"
+  },
+  {
+   "ts": "20180709144223",
+   "url": "http://fearitdoit.com/favicon.ico",
+   "mime": "image/vnd.microsoft.icon",
+   "len": 3383,
+   "cap": "20180709144223",
+   "sha1": "8ea768652ba4927d7465a0276d240030c61f87bd"
+  },
+  {
+   "ts": "20051016184733",
+   "url": "http://www.fearitdoit.com:80/inversion_therapy.mp3",
+   "mime": "audio/mpeg",
+   "len": 511891,
+   "cap": "20051016184733",
+   "sha1": "76db72b5dc7c111c9115b6f4478391cd3235c1fc"
+  },
+  {
+   "ts": "20191018171320",
+   "url": "http://fearitdoit.com/left.gif",
+   "mime": "image/gif",
+   "len": 39217,
+   "cap": "20191018171320",
+   "sha1": "ce546134c93852796ec4caf145a531bd8ffe947e"
+  },
+  {
+   "ts": "20191020163956",
+   "url": "http://fearitdoit.com/ods.htm",
+   "mime": "text/html",
+   "len": 3333,
+   "cap": "20191020163956",
+   "sha1": "f514b397c35f6ffa992c883a2a0d76b5e1d29d11"
+  },
+  {
+   "ts": "20200924103835",
+   "url": "http://fearitdoit.com/peoplearetalking.htm",
+   "mime": "text/html",
+   "len": 2385,
+   "cap": "20200924103835",
+   "sha1": "f0687ff8d9e1b7e508baa0cb8a820dbaf86dbfbb"
+  },
+  {
+   "ts": "20191018171303",
+   "url": "http://fearitdoit.com/play.gif",
+   "mime": "image/gif",
+   "len": 1705,
+   "cap": "20191018171303",
+   "sha1": "92ac49d0152c121b5b18a5ed551509f070cc793a"
+  },
+  {
+   "ts": "20191018171348",
+   "url": "http://fearitdoit.com/play2.gif",
+   "mime": "image/gif",
+   "len": 1708,
+   "cap": "20191018171348",
+   "sha1": "938adb729ecbed4c9d9a2a969af745b87a8f9db7"
+  },
+  {
+   "ts": "20191018171328",
+   "url": "http://fearitdoit.com/spacer.gif",
+   "mime": "image/gif",
+   "len": 550,
+   "cap": "20191018171328",
+   "sha1": "c8d1cf8a401972f78814cc70cc77252490fd9220"
+  },
+  {
+   "ts": "20200924104416",
+   "url": "http://fearitdoit.com/thelies.htm",
+   "mime": "text/html",
+   "len": 2433,
+   "cap": "20200924104416",
+   "sha1": "18f6fb4f05a5f7982869195ec1ef4e85a2147e16"
+  },
+  {
+   "ts": "20191018171324",
+   "url": "http://fearitdoit.com/title.gif",
+   "mime": "image/gif",
+   "len": 3364,
+   "cap": "20191018171324",
+   "sha1": "fb371d0eb6ae38a97d9694ee4946df9759104351"
+  },
+  {
+   "ts": "20191018171344",
+   "url": "http://fearitdoit.com/youfear.gif",
+   "mime": "image/gif",
+   "len": 9954,
+   "cap": "20191018171344",
+   "sha1": "3f7acab30b762325cb48f9c9ea4bca1889829cbe"
+  },
+  {
+   "ts": "20040911092051",
+   "url": "http://www.rockstargames.com:80/fearitdoit/",
+   "mime": "text/html",
+   "len": 2807,
+   "cap": "20040911092051",
+   "sha1": "ef2d71cacd88afa08441da3d059ef054da2d30e1"
+  },
+  {
+   "ts": "20050809081547",
+   "url": "http://www.rockstargames.com/fearitdoit/banner2.gif",
+   "mime": "image/gif",
+   "len": 12402,
+   "cap": "20050809081547",
+   "sha1": "72e14dafa15d56efadf55d5c2a299601850cd654"
+  },
+  {
+   "ts": "20050308030248",
+   "url": "http://www.rockstargames.com:80/fearitdoit/book.gif",
+   "mime": "image/gif",
+   "len": 10971,
+   "cap": "20050308030248",
+   "sha1": "c5057a6d1f0897d4859c5e489bb44c7d838fcab9"
+  },
+  {
+   "ts": "20050809081551",
+   "url": "http://www.rockstargames.com/fearitdoit/corner.gif",
+   "mime": "image/gif",
+   "len": 672,
+   "cap": "20050809081551",
+   "sha1": "66023869dced0ba149d6c09d194ec764360ceed4"
+  },
+  {
+   "ts": "20040912041839",
+   "url": "http://www.rockstargames.com:80/fearitdoit/index.htm",
+   "mime": "text/html",
+   "len": 2794,
+   "cap": "20040912041839",
+   "sha1": "ef2d71cacd88afa08441da3d059ef054da2d30e1"
+  },
+  {
+   "ts": "20071012133209",
+   "url": "http://www.rockstargames.com/fearitdoit/left.gif",
+   "mime": "image/gif",
+   "len": 38917,
+   "cap": "20071012133209",
+   "sha1": "ce546134c93852796ec4caf145a531bd8ffe947e"
+  },
+  {
+   "ts": "20040911184207",
+   "url": "http://www.rockstargames.com:80/fearitdoit/ods.htm",
+   "mime": "text/html",
+   "len": 2918,
+   "cap": "20040911184207",
+   "sha1": "b94824a179aa88914e35274320c4bd1a9cca0606"
+  },
+  {
+   "ts": "20040911184218",
+   "url": "http://www.rockstargames.com:80/fearitdoit/peoplearetalking.htm",
+   "mime": "text/html",
+   "len": 2069,
+   "cap": "20040911184218",
+   "sha1": "999551c9287c148fd9b25f7376d1f29a247582b2"
+  },
+  {
+   "ts": "20050809081558",
+   "url": "http://www.rockstargames.com/fearitdoit/pie.gif",
+   "mime": "image/gif",
+   "len": 14001,
+   "cap": "20050809081558",
+   "sha1": "641bb3aac94132a2899aec472f3e78cbae26d582"
+  },
+  {
+   "ts": "20070313224905",
+   "url": "http://www.rockstargames.com:80/fearitdoit/play.gif",
+   "mime": "image/gif",
+   "len": 1431,
+   "cap": "20070313224905",
+   "sha1": "92ac49d0152c121b5b18a5ed551509f070cc793a"
+  },
+  {
+   "ts": "20050810140508",
+   "url": "http://www.rockstargames.com/fearitdoit/play2.gif",
+   "mime": "image/gif",
+   "len": 1432,
+   "cap": "20050810140508",
+   "sha1": "938adb729ecbed4c9d9a2a969af745b87a8f9db7"
+  },
+  {
+   "ts": "20050809081545",
+   "url": "http://www.rockstargames.com/fearitdoit/spacer.gif",
+   "mime": "image/gif",
+   "len": 328,
+   "cap": "20050809081545",
+   "sha1": "c8d1cf8a401972f78814cc70cc77252490fd9220"
+  },
+  {
+   "ts": "20040911184303",
+   "url": "http://www.rockstargames.com:80/fearitdoit/thelies.htm",
+   "mime": "text/html",
+   "len": 2122,
+   "cap": "20040911184303",
+   "sha1": "4ab8a6bfe6757bcb1b8a471f8d7e656a0e11bd2c"
+  },
+  {
+   "ts": "20050809081545",
+   "url": "http://www.rockstargames.com/fearitdoit/title.gif",
+   "mime": "image/gif",
+   "len": 3086,
+   "cap": "20050809081545",
+   "sha1": "fb371d0eb6ae38a97d9694ee4946df9759104351"
+  },
+  {
+   "ts": "20050809081547",
+   "url": "http://www.rockstargames.com/fearitdoit/youfear.gif",
+   "mime": "image/gif",
+   "len": 9683,
+   "cap": "20050809081547",
+   "sha1": "3f7acab30b762325cb48f9c9ea4bca1889829cbe"
+  }
+ ]
+}

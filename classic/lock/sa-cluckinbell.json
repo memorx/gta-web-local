@@ -1,0 +1,53 @@
+{
+ "site": "sa-cluckinbell",
+ "rows": [
+  {
+   "ts": "20040911075329",
+   "url": "http://www.cluckinbellhappychicken.com:80/",
+   "mime": "text/html",
+   "len": 502,
+   "cap": "20040911075329",
+   "sha1": "e822359732a3cce9bc67caa8267f2feb18b5228a"
+  },
+  {
+   "ts": "20190917142753",
+   "url": "http://cluckinbellhappychicken.com/cluckin.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1021901,
+   "cap": "20190917142753",
+   "sha1": "a86059f8f4d22c3af62a8c8de07e379bac140938"
+  },
+  {
+   "ts": "20190806183439",
+   "url": "http://cluckinbellhappychicken.com/home.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 289258,
+   "cap": "20190806183439",
+   "sha1": "b0cfefe2585b7854353ed7b329e806791f3d088f"
+  },
+  {
+   "ts": "20040911184100",
+   "url": "http://www.rockstargames.com:80/cluckinbell/",
+   "mime": "text/html",
+   "len": 798,
+   "cap": "20040911184100",
+   "sha1": "573e223254231df1860e9f7f4404724ecb384d13"
+  },
+  {
+   "ts": "20120326031558",
+   "url": "http://www.rockstargames.com/cluckinbell/cluckin.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 1021625,
+   "cap": "20120326031558",
+   "sha1": "a86059f8f4d22c3af62a8c8de07e379bac140938"
+  },
+  {
+   "ts": "20061207205401",
+   "url": "http://www.rockstargames.com/cluckinbell/home.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 288807,
+   "cap": "20061207205401",
+   "sha1": "b0cfefe2585b7854353ed7b329e806791f3d088f"
+  }
+ ]
+}

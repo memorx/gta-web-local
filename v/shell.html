@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>GTA V · navegador</title>
+<meta name="color-scheme" content="dark light">
+<!--
+  shell.html — plantilla de página para una web del modo historia de GTA V.
+  Se copia tal cual a /v/<dominio>/index.html (el dominio se deduce de la ruta).
+  Opcional: el integrador puede fijar valores en window.GTAV_SHELL (ver abajo).
+  Carga Ruffle (/_ruffle/ruffle.js) y el host (/v/_host/host.js), que arranca el
+  navegador del juego (web_browser.swf) y le pide la web de esta dirección.
+  ?page=PROFILE      abre esa página de la web (id del juego o forma "a-b")
+  ?vista=juego       muestra también la barra del navegador del juego
+  ?debug=1           registra en consola cada llamada juego <-> película
+-->
+<style>
+  :root{
+    --bg:#0e1014; --bar:#171a21; --line:#272c37; --field:#0e1014;
+    --fg:#e9ebf1; --mut:#8b92a4; --acc:#f2b233; --btn:#20242d; --btn-h:#2a2f3a;
+    --toast:#1f232c;
+  }
+  @media (prefers-color-scheme: light){
+    :root:not([data-theme="dark"]){
+      --bg:#f4f5f8; --bar:#ffffff; --line:#e2e5ec; --field:#f4f5f8;
+      --fg:#15171c; --mut:#5d6474; --acc:#b87700; --btn:#eef0f4; --btn-h:#e2e5ec;
+      --toast:#ffffff;
+    }
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.4 system-ui,"Segoe UI",sans-serif;
+       display:flex;flex-direction:column;overflow-x:hidden;min-height:100dvh}
+  a{color:var(--acc)}
+  header{background:var(--bar);border-bottom:1px solid var(--line);padding:8px 16px;
+         padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right));
+         display:flex;flex-wrap:wrap;align-items:center;gap:8px 10px}
+  .back-link{white-space:nowrap;text-decoration:none;font-weight:600}
+  .nav{display:flex;gap:4px;flex:0 0 auto}
+  .nav button{width:34px;height:34px;border:1px solid var(--line);border-radius:8px;background:var(--btn);
+              color:var(--fg);display:grid;place-items:center;cursor:pointer;padding:0}
+  .nav button:hover{background:var(--btn-h)}
+  .nav button:focus-visible,.addr input:focus-visible,.tools button:focus-visible{outline:2px solid var(--acc);outline-offset:1px}
+  .nav svg{width:18px;height:18px}
+  .addr{flex:1 1 260px;min-width:0;display:flex}
+  .addr input{width:100%;min-width:0;height:34px;border:1px solid var(--line);border-radius:17px;background:var(--field);
+              color:var(--fg);padding:0 14px;font:inherit;font-family:ui-monospace,Consolas,monospace;font-size:13px}
+  .tools{display:flex;gap:12px;align-items:center;flex:0 0 auto;font-size:13px}
+  .tools a{white-space:nowrap}
+  .tools button{border:1px solid var(--line);background:var(--btn);color:var(--fg);border-radius:8px;height:30px;
+                padding:0 10px;font:inherit;font-size:12px;cursor:pointer;white-space:nowrap}
+  .tools button[aria-pressed="true"]{border-color:var(--acc);color:var(--acc)}
+  main{flex:1 1 auto;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:8px;
+       padding:12px 16px 16px;min-height:0}
+  /* Visor: enmarca solo la web (1280x627) o el navegador completo (1280x720), con letterbox */
+  .viewport{--ratio:calc(1280/627);position:relative;width:100%;
+            max-width:calc((100dvh - var(--chrome-h,60px) - var(--note-h,0px) - 28px) * var(--ratio));
+            aspect-ratio:1280/627;overflow:hidden;background:#000;border-radius:6px;
+            box-shadow:0 0 0 1px var(--line)}
+  .viewport.game{--ratio:calc(1280/720);aspect-ratio:1280/720}
+  /* El reproductor siempre mide 1280x720 en proporción; en vista "web" se recorta la barra del juego */
+  .stage{position:absolute;left:0;width:100%;top:calc(-93 / 627 * 100%);height:calc(720 / 627 * 100%)}
+  .viewport.game .stage{top:0;height:100%}
+  .status{position:absolute;inset:auto 0 0 0;padding:6px 10px;font-size:12px;color:#ddd;background:linear-gradient(transparent,rgba(0,0,0,.65));
+          pointer-events:none;opacity:0;transition:opacity .25s}
+  .status.on{opacity:1}
+  .toast{position:fixed;left:50%;bottom:max(18px,env(safe-area-inset-bottom));transform:translate(-50%,20px);opacity:0;
+         max-width:calc(100% - 32px);background:var(--toast);color:var(--fg);border:1px solid var(--line);border-left:3px solid var(--acc);
+         border-radius:10px;padding:10px 14px;box-shadow:0 8px 30px rgba(0,0,0,.35);transition:opacity .25s,transform .25s;pointer-events:none;z-index:10}
+  .toast.on{opacity:1;transform:translate(-50%,0)}
+  .error{margin:auto;max-width:560px;padding:24px;color:var(--mut)}
+  /* Aviso del proveedor de datos (p. ej. "cotizaciones inventadas"), bajo el visor */
+  .note{margin:0;width:100%;max-width:960px;font-size:12.5px;line-height:1.45;color:var(--mut);text-align:center;text-wrap:balance}
+  .note[hidden]{display:none}
+  .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+  @media (max-width:560px){
+    header{padding-top:6px;padding-bottom:6px}
+    .tools{width:100%;justify-content:space-between}
+    main{padding:8px 16px 12px}
+  }
+</style>
+<script>
+  // Punto de configuración opcional para el integrador (todo tiene valor por defecto).
+  window.GTAV_SHELL = window.GTAV_SHELL || {
+    // domain: 'www.lifeinvader.com',        // si no, se saca de /v/<dominio>/index.html o ?site=
+    ruffle: '/_ruffle/ruffle.js',
+    host: '/v/_host/host.js',
+    hostOptions: {
+      browserSwf: '/v/_host/web_browser.swf',
+      stringsUrl: '/v/_host/strings.json',              // textos que usan las webs (por label)
+      stringsFallbackUrl: '/v/_host/strings_all.json',  // global.gxt2 completo (por hash), en segundo plano
+      dataUrl: '/v/_host/host_data.json',               // datos del script: precios, noticias, bleets
+      sitesUrl: '/v/_sites.json',
+      texBase: '/v/_tex/',
+      fontLib: '/v/gfxfontlib.swf',
+    },
+    gallery: '/v/{domain}/gallery.html',
+    index: '/v/',
+  };
+</script>
+</head>
+<body>
+<header id="chrome">
+  <a class="back-link" id="indexLink" href="/v/" title="Todas las webs del modo historia">&larr; GTA V</a>
+  <nav class="nav" aria-label="Navegación">
+    <button id="bBack" type="button" title="Atrás" aria-label="Atrás"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg></button>
+    <button id="bFwd" type="button" title="Adelante" aria-label="Adelante"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg></button>
+    <button id="bHome" type="button" title="Inicio (eyefind.info)" aria-label="Inicio"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/></svg></button>
+  </nav>
+  <form class="addr" id="addrForm" role="search" autocomplete="off">
+    <label class="sr" for="addr">Dirección</label>
+    <input id="addr" name="addr" spellcheck="false" autocapitalize="off" inputmode="url" enterkeyhint="go" value="">
+  </form>
+  <div class="tools">
+    <a id="galleryLink" href="#" hidden>Capturas del juego</a>
+    <button id="bView" type="button" aria-pressed="false" title="Mostrar la barra del navegador del juego">Vista del juego</button>
+  </div>
+</header>
+<main>
+  <div class="viewport" id="viewport">
+    <div class="stage" id="stage"></div>
+    <div class="status" id="status" aria-live="polite"></div>
+  </div>
+  <p class="note" id="note" role="note" hidden></p>
+</main>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script>
+(function () {
+  'use strict';
+  const C = window.GTAV_SHELL;
+  const qs = new URLSearchParams(location.search);
+  const $ = id => document.getElementById(id);
+
+  // ---- ¿qué web es esta página? ------------------------------------------
+  // /v/www.lifeinvader.com/index.html -> www.lifeinvader.com (carpeta con punto)
+  function domainFromPath(p) {
+    const m = /\/([^/]+)\/(?:index\.html)?$/i.exec(p);
+    return m && m[1].indexOf('.') > 0 && m[1][0] !== '_' ? decodeURIComponent(m[1]) : null;
+  }
+  const domain = qs.get('site') || C.domain || domainFromPath(location.pathname) || 'www.eyefind.info';
+  const page = qs.get('page');
+  const start = domain + (page ? '/' + page : '');
+
+  // ---- altura del encabezado (para encajar el visor en la pantalla) -------
+  const chrome = $('chrome');
+  const setChromeH = () => document.documentElement.style.setProperty('--chrome-h', chrome.offsetHeight + 'px');
+  new ResizeObserver(setChromeH).observe(chrome);
+  setChromeH();
+
+  // ---- vista: solo la web o navegador completo ----------------------------
+  const vp = $('viewport'), bView = $('bView');
+  let gameView = qs.get('vista') === 'juego';
+  try { if (!qs.has('vista')) gameView = localStorage.getItem('gtav-vista') === 'juego'; } catch (e) {}
+  function applyView() {
+    vp.classList.toggle('game', gameView);
+    bView.setAttribute('aria-pressed', String(gameView));
+  }
+  bView.addEventListener('click', () => {
+    gameView = !gameView; applyView();
+    try { localStorage.setItem('gtav-vista', gameView ? 'juego' : 'web'); } catch (e) {}
+  });
+  applyView();
+
+  // ---- avisos -------------------------------------------------------------
+  let toastT = 0;
+  function toast(text) {
+    const t = $('toast'); t.textContent = text; t.classList.add('on');
+    clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove('on'), 4200);
+  }
+  // Aviso en la esquina del visor. kind 'loading' se queda hasta que la web avisa que
+  // ya pintó su página (evento 'pageready' del host), con un tope por si nunca llega;
+  // el resto ('info') se quita solo a los pocos segundos.
+  let statusT = 0, statusKind = '';
+  function status(text, kind, ms) {
+    const s = $('status');
+    clearTimeout(statusT);
+    statusKind = text ? (kind || 'info') : '';
+    if (text) s.textContent = text;
+    s.classList.toggle('on', !!text);
+    if (text) statusT = setTimeout(() => status(''), ms || (statusKind === 'loading' ? 30000 : 4000));
+  }
+  function loaded() { if (statusKind === 'loading') status(''); }
+
+  // ---- carga de scripts ---------------------------------------------------
+  function loadScript(src) {
+    return new Promise((ok, fail) => {
+      const s = document.createElement('script'); s.src = src; s.onload = ok;
+      s.onerror = () => fail(new Error('no se pudo cargar ' + src)); document.head.appendChild(s);
+    });
+  }
+  window.RufflePlayer = window.RufflePlayer || {};
+  window.RufflePlayer.config = Object.assign({}, window.RufflePlayer.config, { polyfills: false, autoplay: 'on' });
+
+  Promise.all([loadScript(C.ruffle), loadScript(C.host)]).then(boot).catch(e => {
+    vp.outerHTML = '<p class="error">No se pudo arrancar el navegador: ' + e.message + '</p>';
+  });
+
+  function boot() {
+    const addr = $('addr'), gallery = $('galleryLink');
+    const opts = Object.assign({}, C.hostOptions, {
+      container: $('stage'),
+      start,
+      debug: qs.get('debug') === '1',
+      // Un label que no existe en ningún GXT (p. ej. PAM_PG1_BODY) queda vacío; con
+      // ?debug=1 se ve el label para localizarlo
+      missingText: qs.get('debug') === '1' ? 'label' : 'empty',
+      onBackKey: () => history.back(),     // Retroceso = mismo historial que el botón "atrás"
+      // Atrás/adelante de la barra DEL JUEGO ("Vista del juego") = el mismo historial
+      onHistory: dir => (dir < 0 ? history.back() : history.forward()),
+    });
+    const host = GTAVHost.create(opts);
+    window.gtavHost = host;
+
+    // Posición en el historial de esta página: cada entrada guarda su índice (idx) y
+    // sessionStorage el último (histMax), para que la barra del juego sepa si hay atrás
+    // (idx > 0: páginas anteriores de esta visita; antes queda el índice /v/, al que sólo
+    // lleva el botón del shell) o adelante (idx < histMax). Una página abierta de cero
+    // empieza en 0; al recargar se conserva lo que había.
+    const MAX_KEY = 'gtav-history-max';
+    const readMax = () => { try { return parseInt(sessionStorage.getItem(MAX_KEY), 10) || 0; } catch (e) { return 0; } };
+    const writeMax = n => { try { sessionStorage.setItem(MAX_KEY, String(n)); } catch (e) { /* sin almacenamiento */ } };
+    let histIdx = 0, histMax = 0;
+    if (history.state && typeof history.state.idx === 'number') {
+      histIdx = history.state.idx;
+      histMax = Math.max(histIdx, readMax());
+    } else writeMax(0);
+    const syncHistory = () => host.setHistoryState(histIdx > 0, histIdx < histMax);
+
+    function setGallery(d) {
+      const info = host.siteInfo && host.siteInfo[d];
+      gallery.href = C.gallery.replace('{domain}', encodeURIComponent(d));
+      gallery.hidden = !!(info && !info.shots);
+    }
+    setGallery(domain);
+    addr.value = start;
+
+    // Navegación del navegador del juego -> barra de direcciones + historial
+    host.on('navigate', info => {
+      // la página ya se ve; si sus datos tardan (proveedor), el aviso se va a los 10 s como tope
+      if (statusKind === 'loading') { clearTimeout(statusT); statusT = setTimeout(loaded, 10000); }
+      if (document.activeElement !== addr) addr.value = info.display;
+      document.title = info.domain.replace(/^www\./, '') + ' · GTA V';
+      setGallery(info.domain);
+      if (info.from === 'popstate') { syncHistory(); return; }
+      // 'redirect' = la web saltó sola a otra página (p. ej. cartera vacía): se sustituye la
+      // entrada, para que "atrás" no vuelva a la página que redirige
+      const url = keepParams(info.url);
+      if (info.from === 'initial' || info.from === 'redirect' || !history.state) {
+        history.replaceState({ fullURL: info.fullURL, idx: histIdx }, '', url);
+      } else if (info.changed) {
+        histIdx += 1; histMax = histIdx; writeMax(histMax);
+        history.pushState({ fullURL: info.fullURL, idx: histIdx }, '', url);
+      }
+      syncHistory();
+    });
+    // La dirección nueva conserva las opciones de la actual que no dependen de la página
+    // (?debug=1, ?char= de lifeinvader...): si no, recargar las perdía. ?vista= no (la
+    // vista elegida con el botón ya se recuerda y el parámetro la pisaría al recargar).
+    const OWN_PARAMS = ['page', 'site', 'vista'];
+    function keepParams(url) {
+      try {
+        const u = new URL(url, location.href);
+        new URLSearchParams(location.search).forEach((v, k) => {
+          if (OWN_PARAMS.indexOf(k) < 0 && !u.searchParams.has(k)) u.searchParams.set(k, v);
+        });
+        return u.pathname + u.search + u.hash;
+      } catch (e) { return url; }
+    }
+    status('Cargando ' + domain + '…', 'loading');
+    host.on('loading', i => {
+      if (!i.ok) status(i.domain + ' no existe en el internet del modo historia', 'info', 5000);
+      else if (!i.error) status('Cargando ' + i.domain + '…', 'loading');
+      // (la página de error de eyefind que sigue a una web inexistente no tapa el aviso)
+    });
+    // La web ya pintó su página (con los datos del proveedor, si tiene): fuera el aviso
+    host.on('pageready', loaded);
+    // Aviso del proveedor de datos de la web actual (p. ej. valores inventados)
+    const note = $('note');
+    const setNoteH = () => document.documentElement.style.setProperty('--note-h', note.hidden ? '0px' : (note.offsetHeight + 8) + 'px');
+    new ResizeObserver(setNoteH).observe(note);
+    host.on('note', n => {
+      note.textContent = n.text || '';
+      note.hidden = !n.text;
+      setNoteH();
+    });
+    host.on('notice', n => toast(n.text));
+    host.on('close', () => { location.href = C.index; });
+    host.on('error', e => status('Error: ' + (e && e.message || e), 'info', 8000));
+
+    // Botones: atrás/adelante usan el historial del navegador web (igual que sus flechas)
+    $('bBack').addEventListener('click', () => history.back());
+    $('bFwd').addEventListener('click', () => history.forward());
+    $('bHome').addEventListener('click', () => host.home());
+    window.addEventListener('popstate', ev => {
+      const full = ev.state && ev.state.fullURL;
+      if (!full) return;
+      if (typeof ev.state.idx === 'number') { histIdx = ev.state.idx; histMax = Math.max(histMax, histIdx); }
+      host.go(full, 'popstate');
+    });
+    $('addrForm').addEventListener('submit', ev => {
+      ev.preventDefault();
+      const v = addr.value.trim();
+      if (v) host.go(v, 'user');
+      addr.blur();
+    });
+    addr.addEventListener('focus', () => addr.select());
+  }
+})();
+</script>
+</body>
+</html>

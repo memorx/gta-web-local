@@ -1,0 +1,95 @@
+{
+ "site": "sa-retail",
+ "rows": [
+  {
+   "ts": "20041109214042",
+   "url": "http://www.rockstargames.com:80/retail/circuitcity/",
+   "mime": "text/html",
+   "len": 780,
+   "cap": "20041109214042",
+   "sha1": "f78d8127f7cd388f48f24c92316d8c2fd59402fe"
+  },
+  {
+   "ts": "20041112150938",
+   "url": "http://www.rockstargames.com:80/retail/circuitcity/minisite_cc.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 394165,
+   "cap": "20041112150938",
+   "sha1": "722f4b9130d1cebfd23bb73a7e2b1c24187d20b1"
+  },
+  {
+   "ts": "20040906072802",
+   "url": "http://www.rockstargames.com:80/retail/ebgames/",
+   "mime": "text/html",
+   "len": 769,
+   "cap": "20041018234145",
+   "sha1": "e224aa4f494208d840672e335640c7bf5db20416"
+  },
+  {
+   "ts": "20040821024807",
+   "url": "http://www.rockstargames.com:80/retail/gamestop/",
+   "mime": "text/html",
+   "len": 754,
+   "cap": "20040929091606",
+   "sha1": "fc63e1c6e2b8e8acb65e64b30ff5286572d4e311"
+  },
+  {
+   "ts": "20040821124226",
+   "url": "http://www.rockstargames.com:80/retail/gamestop/minisite_gs.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 381063,
+   "cap": "20040821124226",
+   "sha1": "cc84d08468245adcc28a9399505e08d4f2312e6a"
+  },
+  {
+   "ts": "20070501182553",
+   "url": "http://www.rockstargames.com:80/retail/saxbox/gamestop/",
+   "mime": "text/html",
+   "len": 757,
+   "cap": "20070501182553",
+   "sha1": "07e11fb5b32200545d7c2b06bcea58209536e90d"
+  },
+  {
+   "ts": "20050722235404",
+   "url": "http://www.rockstargames.com:80/retail/saxbox/toys/",
+   "mime": "text/html",
+   "len": 750,
+   "cap": "20050722235404",
+   "sha1": "20fa266b256aea32b8465fe21b6b69392b137efb"
+  },
+  {
+   "ts": "20050406235633",
+   "url": "http://www.rockstargames.com:80/retail/toysrus/",
+   "mime": "text/html",
+   "len": 810,
+   "cap": "20050406235633",
+   "sha1": "f50520850b5cab319d77146a8ea1f688aa8911dc"
+  },
+  {
+   "ts": "20050702074824",
+   "url": "http://www.rockstargames.com:80/retail/walmart/",
+   "mime": "text/html",
+   "len": 791,
+   "cap": "20050702074824",
+   "sha1": "ae1cd019a80f430420b7c8c11b6d3dd703351d1b"
+  }
+ ],
+ "pruned": [
+  {
+   "url": "http://www.rockstargames.com:80/retail/mc3/ebgames/",
+   "reason": "off-topic: not GTA San Andreas (Midnight Club 3 / The Warriors retail minisite)"
+  },
+  {
+   "url": "http://www.rockstargames.com:80/retail/mc3/gamestop/",
+   "reason": "off-topic: not GTA San Andreas (Midnight Club 3 / The Warriors retail minisite)"
+  },
+  {
+   "url": "http://www.rockstargames.com:80/retail/mc3/toysrus/",
+   "reason": "off-topic: not GTA San Andreas (Midnight Club 3 / The Warriors retail minisite)"
+  },
+  {
+   "url": "http://www.rockstargames.com:80/retail/warriors/gamestop/",
+   "reason": "off-topic: not GTA San Andreas (Midnight Club 3 / The Warriors retail minisite)"
+  }
+ ]
+}

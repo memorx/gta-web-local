@@ -1,0 +1,2102 @@
+{
+ "site": "vc-radio",
+ "rows": [
+  {
+   "ts": "20020925093854",
+   "url": "http://www.vicecityradio.com:80/",
+   "mime": "text/html",
+   "len": 1097,
+   "cap": "20040225151352",
+   "sha1": "36b21d63aecd9f8e4ca86ce1e7bd89d64f1520e6"
+  },
+  {
+   "ts": "20021208003308",
+   "url": "http://www.vicecityradio.com:80/?ee1204",
+   "mime": "text/html",
+   "len": 1282,
+   "cap": "20021208003308",
+   "sha1": "212173e2ec310439af12dab79a1593ec86b11f3b"
+  },
+  {
+   "ts": "20060316002355",
+   "url": "http://www.vicecityradio.com/boxset-connected.html",
+   "mime": "text/html",
+   "len": 2149,
+   "cap": "20060316002355",
+   "sha1": "bfe884949cf8abd21a630bc712fbf341e342c199"
+  },
+  {
+   "ts": "20021216134727",
+   "url": "http://www.vicecityradio.com:80/boxset-frame.html",
+   "mime": "text/html",
+   "len": 588,
+   "cap": "20031010141608",
+   "sha1": "f2a12cf0d18e00c9fbb5538153a5e7aa624a03e2"
+  },
+  {
+   "ts": "20021216084044",
+   "url": "http://www.vicecityradio.com:80/boxset-frameset.html",
+   "mime": "text/html",
+   "len": 536,
+   "cap": "20040213013304",
+   "sha1": "e8154c2bf8b9d448e388b73e36d252f4cfdac43c"
+  },
+  {
+   "ts": "20021216154804",
+   "url": "http://www.vicecityradio.com:80/boxset-info.html",
+   "mime": "text/html",
+   "len": 3097,
+   "cap": "20040213204343",
+   "sha1": "9d80dbbc47dc8c2792870b79f8cee6a81074aba9"
+  },
+  {
+   "ts": "20080305010331",
+   "url": "http://www.vicecityradio.com:80/boxset-nav-f.html",
+   "mime": "text/html",
+   "len": 747,
+   "cap": "20080305010331",
+   "sha1": "eb8ac6eea051afc5007bcee05850951db491969c"
+  },
+  {
+   "ts": "20021216134353",
+   "url": "http://www.vicecityradio.com:80/boxset-nav.html",
+   "mime": "text/html",
+   "len": 1149,
+   "cap": "20040113174858",
+   "sha1": "7bc4ec1ed8eb0e5781b4c9041346583dae8337cf"
+  },
+  {
+   "ts": "20021231091502",
+   "url": "http://www.vicecityradio.com:80/boxset-playlist.html",
+   "mime": "text/html",
+   "len": 3183,
+   "cap": "20040202032119",
+   "sha1": "87af5553053dc82b0999283177236a8e18f954a3"
+  },
+  {
+   "ts": "20021217085651",
+   "url": "http://www.vicecityradio.com:80/boxsetrightside-f.html",
+   "mime": "text/html",
+   "len": 760,
+   "cap": "20040213013134",
+   "sha1": "9bd806023e6bcd4f39a08bb3c9271e28a39101ad"
+  },
+  {
+   "ts": "20120424083705",
+   "url": "http://www.vicecityradio.com/boxsetrightside-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 37878,
+   "cap": "20120424083705",
+   "sha1": "2b527c365cacb6b541ba7ae986aef43ff7a0c708"
+  },
+  {
+   "ts": "20060316001318",
+   "url": "http://www.vicecityradio.com/boxsetrightside-nf.html",
+   "mime": "text/html",
+   "len": 450,
+   "cap": "20060316001318",
+   "sha1": "9ee787142002eda6037258556b26b0c87344283f"
+  },
+  {
+   "ts": "20030707073236",
+   "url": "http://www.vicecityradio.com:80/boxsetrightside.html",
+   "mime": "text/html",
+   "len": 1175,
+   "cap": "20040213204638",
+   "sha1": "30b02ea58ccd4cc5b24f7899baec81bb562e0042"
+  },
+  {
+   "ts": "20060316001808",
+   "url": "http://www.vicecityradio.com/boxsettopnav-f.html",
+   "mime": "text/html",
+   "len": 763,
+   "cap": "20060316001808",
+   "sha1": "e48d3ca13d1c94fcb5b04deba6ab73076bc8399f"
+  },
+  {
+   "ts": "20120424083702",
+   "url": "http://www.vicecityradio.com/boxsettopnav-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 5884,
+   "cap": "20120424083702",
+   "sha1": "e2aa4c93e690a74ff91b8c7591f7912c13e63add"
+  },
+  {
+   "ts": "20060316001803",
+   "url": "http://www.vicecityradio.com/boxsettopnav-nf.html",
+   "mime": "text/html",
+   "len": 712,
+   "cap": "20060316001803",
+   "sha1": "ddb4a056e3a0ec3396594264cc7baca2bf4ab4e9"
+  },
+  {
+   "ts": "20021216160238",
+   "url": "http://www.vicecityradio.com:80/boxsettopnav.html",
+   "mime": "text/html",
+   "len": 1174,
+   "cap": "20040213204803",
+   "sha1": "43f8e59f0c1eccf25836db8f1bba21589f5891c3"
+  },
+  {
+   "ts": "20060316002711",
+   "url": "http://www.vicecityradio.com/ConnecteD/boxset/bonus.dcr",
+   "mime": "application/x-director",
+   "len": 79327,
+   "cap": "20060316002711",
+   "sha1": "25e67d7c4e35e2ea0ae44011fd3004cad9991f38"
+  },
+  {
+   "ts": "20030615195554",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/boxset/bonus.html",
+   "mime": "text/html",
+   "len": 1517,
+   "cap": "20040229032131",
+   "sha1": "a2e1c72ba4bee864daea8769f28a3a3db963d801"
+  },
+  {
+   "ts": "20060316002720",
+   "url": "http://www.vicecityradio.com/ConnecteD/boxset/index.html",
+   "mime": "text/html",
+   "len": 1244,
+   "cap": "20060316002720",
+   "sha1": "61f5957d0b4da14ddaeb97e92600bae4624c1b82"
+  },
+  {
+   "ts": "20040214064825",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/emotion/bonus.dcr",
+   "mime": "application/x-director",
+   "len": 76735,
+   "cap": "20040214064825",
+   "sha1": "d133875aa6763e21df8c0430356e24a5b2dfef86"
+  },
+  {
+   "ts": "20030814004009",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/emotion/bonus.html",
+   "mime": "text/html",
+   "len": 1038,
+   "cap": "20040529182919",
+   "sha1": "7077f870814f2c71811686cd5077f678e90f5cf3"
+  },
+  {
+   "ts": "20030829002102",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/emotion/faq.html",
+   "mime": "text/html",
+   "len": 1982,
+   "cap": "20030829002102",
+   "sha1": "2ff80bdfd1a9f755331e0191ce4459adbf983101"
+  },
+  {
+   "ts": "20060316002657",
+   "url": "http://www.vicecityradio.com/ConnecteD/emotion/index.html",
+   "mime": "text/html",
+   "len": 1241,
+   "cap": "20060316002657",
+   "sha1": "61f5957d0b4da14ddaeb97e92600bae4624c1b82"
+  },
+  {
+   "ts": "20041112103211",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/espantoso/bonus.dcr",
+   "mime": "application/x-director",
+   "len": 75995,
+   "cap": "20041112103211",
+   "sha1": "8fc877a934ddde20a7b453378f2edd52a69e1799"
+  },
+  {
+   "ts": "20060316002601",
+   "url": "http://www.vicecityradio.com/ConnecteD/espantoso/bonus.html",
+   "mime": "text/html",
+   "len": 1050,
+   "cap": "20060316002601",
+   "sha1": "7077f870814f2c71811686cd5077f678e90f5cf3"
+  },
+  {
+   "ts": "20060316002723",
+   "url": "http://www.vicecityradio.com/ConnecteD/espantoso/index.html",
+   "mime": "text/html",
+   "len": 1241,
+   "cap": "20060316002723",
+   "sha1": "83dbd838aa4092d8dba33c45c6f0126842d4d206"
+  },
+  {
+   "ts": "20030911091131",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/fever/bonus.dcr",
+   "mime": "application/x-director",
+   "len": 76184,
+   "cap": "20030911091131",
+   "sha1": "e207aae7f03fb96066d8f0164995a8b986a4fd52"
+  },
+  {
+   "ts": "20060316002032",
+   "url": "http://www.vicecityradio.com/ConnecteD/fever/bonus.html",
+   "mime": "text/html",
+   "len": 1046,
+   "cap": "20060316002032",
+   "sha1": "7077f870814f2c71811686cd5077f678e90f5cf3"
+  },
+  {
+   "ts": "20021108121807",
+   "url": "http://vicecityradio.com:80/ConnecteD/fever/desktop/wallpaper1024.jpg",
+   "mime": "image/jpeg",
+   "len": 189306,
+   "cap": "20021108121807",
+   "sha1": "31b42fd78fe412337c8f45fc67518048c31e6a69"
+  },
+  {
+   "ts": "20030909151914",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/fever/displayflash.cgi",
+   "mime": "text/html",
+   "len": 432,
+   "cap": "20030909151914",
+   "sha1": "0c385175ace95c81e8999595c6d19d84e67cd96f"
+  },
+  {
+   "ts": "20030909151900",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/fever/faq.html",
+   "mime": "text/html",
+   "len": 1982,
+   "cap": "20030909151900",
+   "sha1": "2ff80bdfd1a9f755331e0191ce4459adbf983101"
+  },
+  {
+   "ts": "20060316002458",
+   "url": "http://www.vicecityradio.com/ConnecteD/fever/index.html",
+   "mime": "text/html",
+   "len": 1238,
+   "cap": "20060316002458",
+   "sha1": "7c5f21c87751f548469e76a2511219376c0484e5"
+  },
+  {
+   "ts": "20021216133530",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/flash/bonus.dcr",
+   "mime": "application/x-director",
+   "len": 76135,
+   "cap": "20040107024559",
+   "sha1": "d319758368fbe3f1ce7878aedfafb4bd36a378f6"
+  },
+  {
+   "ts": "20021216084246",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/flash/bonus.html",
+   "mime": "text/html",
+   "len": 1037,
+   "cap": "20031230022037",
+   "sha1": "7077f870814f2c71811686cd5077f678e90f5cf3"
+  },
+  {
+   "ts": "20021127221633",
+   "url": "http://vicecityradio.com:80/ConnecteD/flash/desktop/wallpaper1024.jpg",
+   "mime": "image/jpeg",
+   "len": 221143,
+   "cap": "20021127221633",
+   "sha1": "453c5b4bce21388a8713ab9a7e4e48322b40f5e1"
+  },
+  {
+   "ts": "20071015041157",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/flash/displayflash.cgi?",
+   "mime": "text/html",
+   "len": 458,
+   "cap": "20071015041157",
+   "sha1": "0c385175ace95c81e8999595c6d19d84e67cd96f"
+  },
+  {
+   "ts": "20071014005621",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/flash/faq.html",
+   "mime": "text/html",
+   "len": 2010,
+   "cap": "20071014005621",
+   "sha1": "2ff80bdfd1a9f755331e0191ce4459adbf983101"
+  },
+  {
+   "ts": "20071015045706",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/flash/gogtavideo.html",
+   "mime": "text/html",
+   "len": 571,
+   "cap": "20071015045706",
+   "sha1": "1924784b2cca1bce2f85389d957747200457a849"
+  },
+  {
+   "ts": "20071015045711",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/flash/gtavideo.cgi",
+   "mime": "text/html",
+   "len": 436,
+   "cap": "20071015045711",
+   "sha1": "e61281555b71fd1846bea31e1e6842b58375953e"
+  },
+  {
+   "ts": "20060316002617",
+   "url": "http://www.vicecityradio.com/ConnecteD/flash/index.html",
+   "mime": "text/html",
+   "len": 1238,
+   "cap": "20060316002617",
+   "sha1": "e596e794841993d80d26fbe9d95364154e3ca70e"
+  },
+  {
+   "ts": "20021203121027",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/vrock/bonus.dcr",
+   "mime": "application/x-director",
+   "len": 76148,
+   "cap": "20040215122852",
+   "sha1": "aceef2c3ec993c357fadc0713e191a3d7f4a201f"
+  },
+  {
+   "ts": "20021203084735",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/vrock/bonus.html",
+   "mime": "text/html",
+   "len": 1039,
+   "cap": "20040215014327",
+   "sha1": "7077f870814f2c71811686cd5077f678e90f5cf3"
+  },
+  {
+   "ts": "20021128081013",
+   "url": "http://vicecityradio.com:80/ConnecteD/vrock/desktop/wallpaper1024.jpg",
+   "mime": "image/jpeg",
+   "len": 145494,
+   "cap": "20021128081013",
+   "sha1": "ba0b652d00ff93a46caaa188e35e8ccc2dd9326e"
+  },
+  {
+   "ts": "20021202082413",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/vrock/faq.html",
+   "mime": "text/html",
+   "len": 1983,
+   "cap": "20031127033306",
+   "sha1": "2ff80bdfd1a9f755331e0191ce4459adbf983101"
+  },
+  {
+   "ts": "20060316002647",
+   "url": "http://www.vicecityradio.com/ConnecteD/vrock/index.html",
+   "mime": "text/html",
+   "len": 1237,
+   "cap": "20060316002647",
+   "sha1": "747779107bf888cf98187126606a293ff03307a2"
+  },
+  {
+   "ts": "20021211115022",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/wave/bonus.dcr",
+   "mime": "application/x-director",
+   "len": 76091,
+   "cap": "20040215123125",
+   "sha1": "315830f157f4152cecc8bb47485bbe4566d3bfb0"
+  },
+  {
+   "ts": "20021211085447",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/wave/bonus.html",
+   "mime": "text/html",
+   "len": 1034,
+   "cap": "20030608083435",
+   "sha1": "7077f870814f2c71811686cd5077f678e90f5cf3"
+  },
+  {
+   "ts": "20021127222234",
+   "url": "http://vicecityradio.com:80/ConnecteD/wave/desktop/wallpaper1024.jpg",
+   "mime": "image/jpeg",
+   "len": 227629,
+   "cap": "20021127222234",
+   "sha1": "30389455229027092c97c3a078a9e269c41e6dcf"
+  },
+  {
+   "ts": "20060316002626",
+   "url": "http://www.vicecityradio.com/ConnecteD/wave/index.html",
+   "mime": "text/html",
+   "len": 1236,
+   "cap": "20060316002626",
+   "sha1": "12e71ec59bba0ddce24f2fc152d53ea2c5c05c3e"
+  },
+  {
+   "ts": "20030102062329",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/wildstyle/bonus.dcr",
+   "mime": "application/x-director",
+   "len": 76147,
+   "cap": "20031226000810",
+   "sha1": "cb1e150b8314797ed675a7b836c99a29792de718"
+  },
+  {
+   "ts": "20030904235238",
+   "url": "http://www.vicecityradio.com:80/ConnecteD/wildstyle/bonus.html",
+   "mime": "text/html",
+   "len": 1044,
+   "cap": "20031224142908",
+   "sha1": "7077f870814f2c71811686cd5077f678e90f5cf3"
+  },
+  {
+   "ts": "20021108111053",
+   "url": "http://vicecityradio.com:80/ConnecteD/wildstyle/desktop/wallpaper1024.jpg",
+   "mime": "image/jpeg",
+   "len": 172710,
+   "cap": "20021108111053",
+   "sha1": "b8172ee1589538a72b21b8fd2156e71a1a9b9501"
+  },
+  {
+   "ts": "20060316002454",
+   "url": "http://www.vicecityradio.com/ConnecteD/wildstyle/index.html",
+   "mime": "text/html",
+   "len": 1247,
+   "cap": "20060316002454",
+   "sha1": "cc97a7349a1ec3e215381cd81fe44090c340ac66"
+  },
+  {
+   "ts": "20021005082409",
+   "url": "http://vicecityradio.com:80/flash/boxset.asp",
+   "mime": "text/html",
+   "len": 322,
+   "cap": "20021005082409",
+   "sha1": "5f6464ea90da1de8e347fe3cca9247aec6d6978e"
+  },
+  {
+   "ts": "20021007091236",
+   "url": "http://vicecityradio.com:80/flash/boxsetframe_intro.asp",
+   "mime": "text/html",
+   "len": 505,
+   "cap": "20021007091236",
+   "sha1": "0ea9f30d9135f4d0041e9fb3f8a248d438d75e71"
+  },
+  {
+   "ts": "20021009070820",
+   "url": "http://www.vicecityradio.com:80/flash/boxsetframe_intro.asp?cid=&t=335&cmp=",
+   "mime": "text/html",
+   "len": 522,
+   "cap": "20021009070820",
+   "sha1": "0ea9f30d9135f4d0041e9fb3f8a248d438d75e71"
+  },
+  {
+   "ts": "20021007091523",
+   "url": "http://vicecityradio.com:80/flash/emotion.asp",
+   "mime": "text/html",
+   "len": 322,
+   "cap": "20021007091523",
+   "sha1": "5f6464ea90da1de8e347fe3cca9247aec6d6978e"
+  },
+  {
+   "ts": "20021007090957",
+   "url": "http://www.vicecityradio.com:80/flash/espantoso.asp",
+   "mime": "text/html",
+   "len": 326,
+   "cap": "20021007090957",
+   "sha1": "5f6464ea90da1de8e347fe3cca9247aec6d6978e"
+  },
+  {
+   "ts": "20021007091414",
+   "url": "http://www.vicecityradio.com:80/flash/fever.asp",
+   "mime": "text/html",
+   "len": 324,
+   "cap": "20021007091414",
+   "sha1": "5f6464ea90da1de8e347fe3cca9247aec6d6978e"
+  },
+  {
+   "ts": "20021007091352",
+   "url": "http://vicecityradio.com:80/flash/flash.asp",
+   "mime": "text/html",
+   "len": 320,
+   "cap": "20021007091352",
+   "sha1": "5f6464ea90da1de8e347fe3cca9247aec6d6978e"
+  },
+  {
+   "ts": "20021005081450",
+   "url": "http://vicecityradio.com:80/flash/intro.asp",
+   "mime": "text/html",
+   "len": 1130,
+   "cap": "20021005081450",
+   "sha1": "7f7a67b0f0f4be15ab13c12fb104485152af7216"
+  },
+  {
+   "ts": "20021008154627",
+   "url": "http://www.vicecityradio.com:80/flash/intro.asp?cid=&t=3126&cmp=",
+   "mime": "text/html",
+   "len": 1141,
+   "cap": "20021008154627",
+   "sha1": "7f7a67b0f0f4be15ab13c12fb104485152af7216"
+  },
+  {
+   "ts": "20021006075312",
+   "url": "http://www.vicecityradio.com:80/flash/intro_top.asp",
+   "mime": "text/html",
+   "len": 688,
+   "cap": "20021006075312",
+   "sha1": "fefa1559194815939634cd0174c07639d6bf9cc6"
+  },
+  {
+   "ts": "20021005083747",
+   "url": "http://www.vicecityradio.com:80/flash/introframe.asp",
+   "mime": "text/html",
+   "len": 562,
+   "cap": "20021005083747",
+   "sha1": "c4c445df519900ed1ed8a743ffae73d7ee6311c2"
+  },
+  {
+   "ts": "20021005081553",
+   "url": "http://vicecityradio.com:80/flash/rock.asp",
+   "mime": "text/html",
+   "len": 320,
+   "cap": "20021005081553",
+   "sha1": "5f6464ea90da1de8e347fe3cca9247aec6d6978e"
+  },
+  {
+   "ts": "20110829145235",
+   "url": "http://www.vicecityradio.com/images/boxset-connect.gif",
+   "mime": "image/gif",
+   "len": 1365,
+   "cap": "20110829145235",
+   "sha1": "84c4c121366107f8ffa55b312018ff669a516338"
+  },
+  {
+   "ts": "20110829144933",
+   "url": "http://www.vicecityradio.com/images/boxset-info.gif",
+   "mime": "image/gif",
+   "len": 1148,
+   "cap": "20110829144933",
+   "sha1": "efe4c7ce554956aafe0e31bd28524d16619f86df"
+  },
+  {
+   "ts": "20030126110953",
+   "url": "http://vicecityradio.com:80/images/boxset-playlist.gif",
+   "mime": "image/gif",
+   "len": 1131,
+   "cap": "20030126110953",
+   "sha1": "3bfeb17849ecb4aa854fd2041a2c11612f58da61"
+  },
+  {
+   "ts": "20110829144933",
+   "url": "http://www.vicecityradio.com/images/boxsetbg.gif",
+   "mime": "image/gif",
+   "len": 545,
+   "cap": "20110829144933",
+   "sha1": "789b97ff40c5cbb0af9f4f03c138d4674ed91b68"
+  },
+  {
+   "ts": "20110829144935",
+   "url": "http://www.vicecityradio.com/images/boxsetrightside-nf.jpg",
+   "mime": "image/jpeg",
+   "len": 38067,
+   "cap": "20110829144935",
+   "sha1": "1e0d688f1d08d2bcdaab055397fd41e788c5e365"
+  },
+  {
+   "ts": "20110829144935",
+   "url": "http://www.vicecityradio.com/images/boxsettopnav-nf.gif",
+   "mime": "image/gif",
+   "len": 2508,
+   "cap": "20110829144935",
+   "sha1": "7d47d53d0dfd9b56d1fdb09e52e30711aabf7b80"
+  },
+  {
+   "ts": "20050530170046",
+   "url": "http://www.vicecityradio.com/images/epic.gif",
+   "mime": "image/gif",
+   "len": 1179,
+   "cap": "20050530170046",
+   "sha1": "c047cfff75a64013694c19640e2ca3b1dead7acf"
+  },
+  {
+   "ts": "20040218030521",
+   "url": "http://www.vicecityradio.com/images/logolaunch.gif",
+   "mime": "image/gif",
+   "len": 7085,
+   "cap": "20040218030521",
+   "sha1": "46363dda868b5bcb812ac6d85e3b86c895a4fcbe"
+  },
+  {
+   "ts": "20070708063214",
+   "url": "http://www.vicecityradio.com/images/nav-nf.gif",
+   "mime": "image/gif",
+   "len": 4707,
+   "cap": "20070708063214",
+   "sha1": "88780668f1446582bcf4cc1d8aae7dfbdbf0548a"
+  },
+  {
+   "ts": "20021218135707",
+   "url": "http://vicecityradio.com:80/images/spacer.gif",
+   "mime": "image/gif",
+   "len": 316,
+   "cap": "20031211201927",
+   "sha1": "25d8043336eb799e52b1a0e15ff6b95e09c24e35"
+  },
+  {
+   "ts": "20070708062737",
+   "url": "http://www.vicecityradio.com/images/splash-nf.jpg",
+   "mime": "image/jpeg",
+   "len": 63622,
+   "cap": "20070708062737",
+   "sha1": "cbdfadeff9a1060a6b68252aa7da89fde12bc1bd"
+  },
+  {
+   "ts": "20040513183339",
+   "url": "http://www.vicecityradio.com:80/images/vol01-info.gif",
+   "mime": "image/gif",
+   "len": 1076,
+   "cap": "20040513183339",
+   "sha1": "814f8143c05f3475f18dcab425e31fc21a712047"
+  },
+  {
+   "ts": "20110829144308",
+   "url": "http://www.vicecityradio.com/images/vol01-playlist.gif",
+   "mime": "image/gif",
+   "len": 1189,
+   "cap": "20110829144308",
+   "sha1": "52c34e9d9b6b9571d67fa90405d681b88cbf08b1"
+  },
+  {
+   "ts": "20070801054049",
+   "url": "http://www.vicecityradio.com/images/vol01rightside-nf.jpg",
+   "mime": "image/jpeg",
+   "len": 46681,
+   "cap": "20070801054049",
+   "sha1": "3b17897f509973278d173f2fcf6a96ce973077f0"
+  },
+  {
+   "ts": "20110829144257",
+   "url": "http://www.vicecityradio.com/images/vol01topnav-nf.gif",
+   "mime": "image/gif",
+   "len": 2510,
+   "cap": "20110829144257",
+   "sha1": "b968be5c32f76e6509abf64dfebd5713b18d3d2b"
+  },
+  {
+   "ts": "20030706133136",
+   "url": "http://www.vicecityradio.com:80/images/vol02-clickhere.gif",
+   "mime": "image/gif",
+   "len": 1672,
+   "cap": "20030706133136",
+   "sha1": "254c0975bdeb75c8657c93f8ee01011cbc90d0d6"
+  },
+  {
+   "ts": "20021223014353",
+   "url": "http://vicecityradio.com:80/images/vol02-info.gif",
+   "mime": "image/gif",
+   "len": 1079,
+   "cap": "20021223014353",
+   "sha1": "939733270f3ddb8d3bb8da850189d5b926b1a3a7"
+  },
+  {
+   "ts": "20110829144358",
+   "url": "http://www.vicecityradio.com/images/vol02rightside-nf.jpg",
+   "mime": "image/jpeg",
+   "len": 46689,
+   "cap": "20110829144358",
+   "sha1": "46a1ac5a9cd67241c486c916f249de5175f909fb"
+  },
+  {
+   "ts": "20110829144357",
+   "url": "http://www.vicecityradio.com/images/vol02topnav-nf.gif",
+   "mime": "image/gif",
+   "len": 2513,
+   "cap": "20110829144357",
+   "sha1": "b020f70f3b81ab200b9bcf6b480d9c0a07ffaeda"
+  },
+  {
+   "ts": "20070801054620",
+   "url": "http://www.vicecityradio.com/images/vol03-info.gif",
+   "mime": "image/gif",
+   "len": 1107,
+   "cap": "20070801054620",
+   "sha1": "c26a77ea8fa6010e85fe05670b7f0d7bea8e404f"
+  },
+  {
+   "ts": "20110829144607",
+   "url": "http://www.vicecityradio.com/images/vol03rightside-nf.jpg",
+   "mime": "image/jpeg",
+   "len": 47547,
+   "cap": "20110829144607",
+   "sha1": "76cd688ed9d4cb533afa11d9708163b8224a03e3"
+  },
+  {
+   "ts": "20030706140926",
+   "url": "http://www.vicecityradio.com:80/images/vol04-clickhere.gif",
+   "mime": "image/gif",
+   "len": 1611,
+   "cap": "20030706140926",
+   "sha1": "bf6df71a53946bef87c139f2688c695a7bf04f12"
+  },
+  {
+   "ts": "20060712044644",
+   "url": "http://www.vicecityradio.com:80/images/vol04-info.gif",
+   "mime": "image/gif",
+   "len": 1113,
+   "cap": "20060712044644",
+   "sha1": "e55e96853a69d49740e852e3f53766de48d5c72a"
+  },
+  {
+   "ts": "20110829144623",
+   "url": "http://www.vicecityradio.com/images/vol04rightside-nf.jpg",
+   "mime": "image/jpeg",
+   "len": 56155,
+   "cap": "20110829144623",
+   "sha1": "3fcc808cd48cfb0f82c7adda5eeac06f52615777"
+  },
+  {
+   "ts": "20021223011243",
+   "url": "http://vicecityradio.com:80/images/vol05-info.gif",
+   "mime": "image/gif",
+   "len": 1077,
+   "cap": "20021223011243",
+   "sha1": "de75c6fc72792fe846f7daa7f7bc245f67501cf9"
+  },
+  {
+   "ts": "20070801054545",
+   "url": "http://www.vicecityradio.com/images/vol05rightside-nf.jpg",
+   "mime": "image/jpeg",
+   "len": 53011,
+   "cap": "20070801054545",
+   "sha1": "1625c07d208d930f2a7a3466470ed837d861801a"
+  },
+  {
+   "ts": "20041226125249",
+   "url": "http://www.vicecityradio.com:80/images/vol06-info.gif",
+   "mime": "image/gif",
+   "len": 1075,
+   "cap": "20041226125249",
+   "sha1": "656b070ac4d566bd5715b3bfb2620bba32b7b9b1"
+  },
+  {
+   "ts": "20110829144648",
+   "url": "http://www.vicecityradio.com/images/vol06rightside-nf.jpg",
+   "mime": "image/jpeg",
+   "len": 48484,
+   "cap": "20110829144648",
+   "sha1": "09be2d1598e739bd9df7baaa039d5780ab497dcd"
+  },
+  {
+   "ts": "20110829145235",
+   "url": "http://www.vicecityradio.com/images/vol07-clickhere.gif",
+   "mime": "image/gif",
+   "len": 1796,
+   "cap": "20110829145235",
+   "sha1": "b85a19e640298377223a91f024ee73c5c8ff9546"
+  },
+  {
+   "ts": "20110829144203",
+   "url": "http://www.vicecityradio.com/images/vol07-info.gif",
+   "mime": "image/gif",
+   "len": 1139,
+   "cap": "20110829144203",
+   "sha1": "96e174aeb88c00d61f973388f85ee2f1eb04e430"
+  },
+  {
+   "ts": "20110829144205",
+   "url": "http://www.vicecityradio.com/images/vol07rightside-nf.jpg",
+   "mime": "image/jpeg",
+   "len": 43405,
+   "cap": "20110829144205",
+   "sha1": "eea9c81c416997974e2139891e58bfe16bc85af3"
+  },
+  {
+   "ts": "20110829144204",
+   "url": "http://www.vicecityradio.com/images/vol07topnav-nf.gif",
+   "mime": "image/gif",
+   "len": 2520,
+   "cap": "20110829144204",
+   "sha1": "e8af00acccf86eb1bed1644e72b98d1ef241d523"
+  },
+  {
+   "ts": "20070801054149",
+   "url": "http://www.vicecityradio.com/images/vol1bg.gif",
+   "mime": "image/gif",
+   "len": 493,
+   "cap": "20070801054149",
+   "sha1": "d0f9e5bab238012315908e5c7dc8c3b26020668c"
+  },
+  {
+   "ts": "20110829144355",
+   "url": "http://www.vicecityradio.com/images/vol2bg.gif",
+   "mime": "image/gif",
+   "len": 543,
+   "cap": "20110829144355",
+   "sha1": "71b517c2572dde6f6d48781ee85aaa013c17765f"
+  },
+  {
+   "ts": "20070801054644",
+   "url": "http://www.vicecityradio.com/images/vol3bg.gif",
+   "mime": "image/gif",
+   "len": 494,
+   "cap": "20070801054644",
+   "sha1": "aab727b040244dfb08ee4cff0f35d721f4dd292d"
+  },
+  {
+   "ts": "20070801054425",
+   "url": "http://www.vicecityradio.com/images/vol5bg.gif",
+   "mime": "image/gif",
+   "len": 492,
+   "cap": "20070801054425",
+   "sha1": "70a196896eb71ab90a32804de0efe3236ec9b435"
+  },
+  {
+   "ts": "20070801054412",
+   "url": "http://www.vicecityradio.com/images/vol6bg.gif",
+   "mime": "image/gif",
+   "len": 493,
+   "cap": "20070801054412",
+   "sha1": "217fe6262fb4b77a93eb742b722522ceaedcabfc"
+  },
+  {
+   "ts": "20110829144202",
+   "url": "http://www.vicecityradio.com/images/vol7bg.gif",
+   "mime": "image/gif",
+   "len": 542,
+   "cap": "20110829144202",
+   "sha1": "18e2b194d081ee485ba7ce0a4bce6261b0ffc8a5"
+  },
+  {
+   "ts": "20021006223342",
+   "url": "http://vicecityradio.com:80/Includes/hbe-11up.js",
+   "mime": "application/x-javascript",
+   "len": 2682,
+   "cap": "20021006223342",
+   "sha1": "64c82e17ac3de83721a74e13ab3c413548787d9f"
+  },
+  {
+   "ts": "20021008162629",
+   "url": "http://vicecityradio.com:80/index.asp",
+   "mime": "text/html",
+   "len": 2983,
+   "cap": "20021008162629",
+   "sha1": "884d43bb2a4bf31163bfe6d2841741563767f9e4"
+  },
+  {
+   "ts": "20110829145420",
+   "url": "http://www.vicecityradio.com/index2.html",
+   "mime": "text/html",
+   "len": 771,
+   "cap": "20110829145420",
+   "sha1": "7e543a40dd84b36ef058765a905f059d4bcc516e"
+  },
+  {
+   "ts": "20021006075737",
+   "url": "http://www.vicecityradio.com:80/introdirect.asp",
+   "mime": "text/html",
+   "len": 1189,
+   "cap": "20021006075737",
+   "sha1": "e8a5d0c06339a5568bc47429f7359c9c4878b73a"
+  },
+  {
+   "ts": "20021006223209",
+   "url": "http://vicecityradio.com:80/introdirect.asp?cid=2836777&cmp=&t=6710",
+   "mime": "text/html",
+   "len": 1198,
+   "cap": "20021006223209",
+   "sha1": "ad1221b758a89fcc6d309b5474aa6e8e16e92100"
+  },
+  {
+   "ts": "20021207125946",
+   "url": "http://vicecityradio.com:80/launcher.html",
+   "mime": "text/html",
+   "len": 1066,
+   "cap": "20040205020938",
+   "sha1": "72f536f1f2c44f899fb4af728029b1f04a002b99"
+  },
+  {
+   "ts": "20021006075518",
+   "url": "http://www.vicecityradio.com:80/nav-f.asp",
+   "mime": "text/html",
+   "len": 690,
+   "cap": "20021006075518",
+   "sha1": "2419470386e7f7c7d6eaf7bbda8fda8811196410"
+  },
+  {
+   "ts": "20120424083641",
+   "url": "http://www.vicecityradio.com/nav-f.html",
+   "mime": "text/html",
+   "len": 747,
+   "cap": "20120424083641",
+   "sha1": "c41eb1feba5334e5c701da6b11984dfbdaea596d"
+  },
+  {
+   "ts": "20060316001131",
+   "url": "http://www.vicecityradio.com/nav-nf.html",
+   "mime": "text/html",
+   "len": 736,
+   "cap": "20060316001131",
+   "sha1": "5867e89050f2fb9b6189355f7ae8893742dc6202"
+  },
+  {
+   "ts": "20021006224101",
+   "url": "http://vicecityradio.com:80/nav.asp?cid=2836777&cmp=&t=6710",
+   "mime": "text/html",
+   "len": 1187,
+   "cap": "20021006224101",
+   "sha1": "4ec9108dd9369c926ea884ef1f00da11acc90fb4"
+  },
+  {
+   "ts": "20021216051640",
+   "url": "http://www.vicecityradio.com:80/nav.html",
+   "mime": "text/html",
+   "len": 1139,
+   "cap": "20040227070736",
+   "sha1": "a3a0c881ee6284de40864545b59d4340030ab16b"
+  },
+  {
+   "ts": "20060316001843",
+   "url": "http://www.vicecityradio.com/news-frame.html",
+   "mime": "text/html",
+   "len": 591,
+   "cap": "20060316001843",
+   "sha1": "a9b076e8eb12e1d5f59b8a1238ffb22899ed4f0b"
+  },
+  {
+   "ts": "20021201102217",
+   "url": "http://www.vicecityradio.com:80/news-frameset.html",
+   "mime": "text/html",
+   "len": 539,
+   "cap": "20040227023527",
+   "sha1": "03234ee9b5dcf5513bd637f2df852020d45be55f"
+  },
+  {
+   "ts": "20021201102300",
+   "url": "http://www.vicecityradio.com:80/news.html",
+   "mime": "text/html",
+   "len": 1328,
+   "cap": "20040227150255",
+   "sha1": "7603768f3549e00e190beea60455f9dca04b7562"
+  },
+  {
+   "ts": "20021201103121",
+   "url": "http://www.vicecityradio.com:80/news_frame.html",
+   "mime": "text/html",
+   "len": 583,
+   "cap": "20040227070839",
+   "sha1": "a9b076e8eb12e1d5f59b8a1238ffb22899ed4f0b"
+  },
+  {
+   "ts": "20021224091829",
+   "url": "http://www.vicecityradio.com:80/newsrightside-f.html",
+   "mime": "text/html",
+   "len": 753,
+   "cap": "20040214020228",
+   "sha1": "50c11d218067135b593f64ada829c4ef642ea6b5"
+  },
+  {
+   "ts": "20120424083643",
+   "url": "http://www.vicecityradio.com/newsrightside-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 19348,
+   "cap": "20120424083643",
+   "sha1": "6ea38d4fc908071500cd79ecb198912352865131"
+  },
+  {
+   "ts": "20060316001914",
+   "url": "http://www.vicecityradio.com/newsrightside-nf.html",
+   "mime": "text/html",
+   "len": 446,
+   "cap": "20060316001914",
+   "sha1": "b34fcc9e43e587d15289eeabf272745b23e07d78"
+  },
+  {
+   "ts": "20021216051350",
+   "url": "http://www.vicecityradio.com:80/newsrightside.html",
+   "mime": "text/html",
+   "len": 1171,
+   "cap": "20031226001532",
+   "sha1": "8d5c28eee1b8eaabceef09e3bbaa05631e87e787"
+  },
+  {
+   "ts": "20060316002428",
+   "url": "http://www.vicecityradio.com/newstopnav-f.html",
+   "mime": "text/html",
+   "len": 763,
+   "cap": "20060316002428",
+   "sha1": "d038adf68c021252b07b0f305fb632bf2ff05c4e"
+  },
+  {
+   "ts": "20120424083643",
+   "url": "http://www.vicecityradio.com/newstopnav-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 4449,
+   "cap": "20120424083643",
+   "sha1": "089572dcde8c43bfcaf97ac01b6f60627affc182"
+  },
+  {
+   "ts": "20060316002424",
+   "url": "http://www.vicecityradio.com/newstopnav-nf.html",
+   "mime": "text/html",
+   "len": 635,
+   "cap": "20060316002424",
+   "sha1": "5a0b283f6b0bba5044870723e4f18b1d7e10bca0"
+  },
+  {
+   "ts": "20021216051000",
+   "url": "http://www.vicecityradio.com:80/newstopnav.html",
+   "mime": "text/html",
+   "len": 1169,
+   "cap": "20030807213419",
+   "sha1": "950ea810187ceaae829d5b750c7364c698f9ac68"
+  },
+  {
+   "ts": "20021207130723",
+   "url": "http://vicecityradio.com:80/null.html",
+   "mime": "text/html",
+   "len": 310,
+   "cap": "20041113213109",
+   "sha1": "d334af8229a2c8977cc8d5d88534ede9e8c3e81a"
+  },
+  {
+   "ts": "20021216021102",
+   "url": "http://vicecityradio.com:80/playstation2/",
+   "mime": "text/html",
+   "len": 2518,
+   "cap": "20040317220055",
+   "sha1": "510d2827036cfa0668700a2f411110ab49bb9c28"
+  },
+  {
+   "ts": "20040617062701",
+   "url": "http://www.vicecityradio.com:80/playstation2/epicandsony_black.gif",
+   "mime": "image/gif",
+   "len": 3071,
+   "cap": "20040617062701",
+   "sha1": "47be5dca6de5df891a6a8a3c660f8b21b678b6b6"
+  },
+  {
+   "ts": "20021216135351",
+   "url": "http://vicecityradio.com:80/playstation2/index.html",
+   "mime": "text/html",
+   "len": 2524,
+   "cap": "20040317220055",
+   "sha1": "510d2827036cfa0668700a2f411110ab49bb9c28"
+  },
+  {
+   "ts": "20021216060643",
+   "url": "http://vicecityradio.com:80/playstation2/rules.html",
+   "mime": "text/html",
+   "len": 4107,
+   "cap": "20040318052228",
+   "sha1": "9512470dfe439f48a5e7f8f21cf7eae8aa26b82a"
+  },
+  {
+   "ts": "20110829145422",
+   "url": "http://www.vicecityradio.com/rockstar_standard.gif",
+   "mime": "image/gif",
+   "len": 1441,
+   "cap": "20110829145422",
+   "sha1": "527bce0e5b7555fc8214eb1e6903c2136df62dc4"
+  },
+  {
+   "ts": "20021201080716",
+   "url": "http://www.vicecityradio.com:80/splash-f.html",
+   "mime": "text/html",
+   "len": 754,
+   "cap": "20040406013413",
+   "sha1": "630799850b8d64e5825b5205d0683994f82727bb"
+  },
+  {
+   "ts": "20030916091146",
+   "url": "http://www.vicecityradio.com:80/splash-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 46308,
+   "cap": "20040708025532",
+   "sha1": "10bc09537e2ef40eda3ec9bf0bf9d20b9455e995"
+  },
+  {
+   "ts": "20030124105906",
+   "url": "http://www.vicecityradio.com:80/splash-nf.html",
+   "mime": "text/html",
+   "len": 677,
+   "cap": "20040121023201",
+   "sha1": "09c7e419a22cc6c0835d12592052c496aabaaf50"
+  },
+  {
+   "ts": "20021201081601",
+   "url": "http://www.vicecityradio.com:80/splash.html",
+   "mime": "text/html",
+   "len": 1168,
+   "cap": "20040205020549",
+   "sha1": "16327f48d33c9124e32d4072ed0c05dc3809b86b"
+  },
+  {
+   "ts": "20021202081522",
+   "url": "http://www.vicecityradio.com:80/store/",
+   "mime": "text/html",
+   "len": 1015,
+   "cap": "20031128111824",
+   "sha1": "45e04abc909c8fef542d8cde3c5f50fc76522b0d"
+  },
+  {
+   "ts": "20030513180657",
+   "url": "http://www.vicecityradio.com:80/store/international/",
+   "mime": "text/html",
+   "len": 1236,
+   "cap": "20040208053039",
+   "sha1": "acbaa677e4cfd6aa9be220d3f34fd42518351f5c"
+  },
+  {
+   "ts": "20070708062923",
+   "url": "http://vicecityradio.com/store/international/rockstar_standard.gif",
+   "mime": "image/gif",
+   "len": 1397,
+   "cap": "20070708062923",
+   "sha1": "527bce0e5b7555fc8214eb1e6903c2136df62dc4"
+  },
+  {
+   "ts": "20070708062942",
+   "url": "http://vicecityradio.com/store/international/usa.gif",
+   "mime": "image/gif",
+   "len": 876,
+   "cap": "20070708062942",
+   "sha1": "5c9e06fbc51a14186da7271d6eb4e377bbf52928"
+  },
+  {
+   "ts": "20060215201505",
+   "url": "http://vicecityradio.com:80/store/international/vc_500x200.jpg",
+   "mime": "image/jpeg",
+   "len": 35402,
+   "cap": "20060215201505",
+   "sha1": "de9bba7db76b46d0e1da5723920b8b221c55fc06"
+  },
+  {
+   "ts": "20021202231624",
+   "url": "http://www.vicecityradio.com:80/store/null.html",
+   "mime": "text/html",
+   "len": 335,
+   "cap": "20041109041359",
+   "sha1": "4c649b00a8d290a8312004cbd5df340fee612cd2"
+  },
+  {
+   "ts": "20030608083341",
+   "url": "http://www.vicecityradio.com:80/storedirect.html",
+   "mime": "text/html",
+   "len": 437,
+   "cap": "20040324114639",
+   "sha1": "c6166a9218e9097ba7ecc2bcee0a649bf5cdc426"
+  },
+  {
+   "ts": "20030814140241",
+   "url": "http://www.vicecityradio.com:80/theonion/",
+   "mime": "text/html",
+   "len": 2491,
+   "cap": "20040413004442",
+   "sha1": "ae3c33eee30b83b64f8454b487d52ca93c9f7166"
+  },
+  {
+   "ts": "20030815174807",
+   "url": "http://www.vicecityradio.com:80/theonion/index.html",
+   "mime": "text/html",
+   "len": 2499,
+   "cap": "20040413004442",
+   "sha1": "ae3c33eee30b83b64f8454b487d52ca93c9f7166"
+  },
+  {
+   "ts": "20030815021228",
+   "url": "http://www.vicecityradio.com:80/theonion/rules.html",
+   "mime": "text/html",
+   "len": 3951,
+   "cap": "20040413133631",
+   "sha1": "a1dce95b6b3ef63151a13523b645f6d3c0b45203"
+  },
+  {
+   "ts": "20110829145421",
+   "url": "http://www.vicecityradio.com/vc_500x200.jpg",
+   "mime": "image/jpeg",
+   "len": 35407,
+   "cap": "20110829145421",
+   "sha1": "de9bba7db76b46d0e1da5723920b8b221c55fc06"
+  },
+  {
+   "ts": "20060316001135",
+   "url": "http://www.vicecityradio.com/ver01-nav-f.html",
+   "mime": "text/html",
+   "len": 763,
+   "cap": "20060316001135",
+   "sha1": "c41eb1feba5334e5c701da6b11984dfbdaea596d"
+  },
+  {
+   "ts": "20070801054214",
+   "url": "http://www.vicecityradio.com/ver01-nav-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 14436,
+   "cap": "20070801054214",
+   "sha1": "e9bbdec2f0e5014f19f7bbfa915617801cdb7553"
+  },
+  {
+   "ts": "20030627233909",
+   "url": "http://www.vicecityradio.com:80/ver01-nav.html",
+   "mime": "text/html",
+   "len": 1148,
+   "cap": "20040207211433",
+   "sha1": "509db8f660f75ca8645bf80d3f9fb14d08bb5257"
+  },
+  {
+   "ts": "20021216052103",
+   "url": "http://www.vicecityradio.com:80/ver02-nav.html",
+   "mime": "text/html",
+   "len": 1148,
+   "cap": "20040217015631",
+   "sha1": "f22aabc9b1868f442bb8fc3c9d78d5223e790a5e"
+  },
+  {
+   "ts": "20030829002430",
+   "url": "http://www.vicecityradio.com:80/ver03-nav-f.html",
+   "mime": "text/html",
+   "len": 755,
+   "cap": "20030829002430",
+   "sha1": "43b1f5c62a5527ac94690fff686a837884aa1772"
+  },
+  {
+   "ts": "20021217132648",
+   "url": "http://www.vicecityradio.com:80/ver03-nav.html",
+   "mime": "text/html",
+   "len": 1149,
+   "cap": "20040204062132",
+   "sha1": "1fe6949bc8db681ca648fbff5a80b965adaf5c02"
+  },
+  {
+   "ts": "20071027073247",
+   "url": "http://www.vicecityradio.com:80/ver04-nav-f.html",
+   "mime": "text/html",
+   "len": 779,
+   "cap": "20071027073247",
+   "sha1": "d88e5a9c358aa123158dc8a6227a1d184a7c967f"
+  },
+  {
+   "ts": "20030711193822",
+   "url": "http://www.vicecityradio.com:80/ver04-nav.html",
+   "mime": "text/html",
+   "len": 1149,
+   "cap": "20040216131102",
+   "sha1": "bb919af71d332b1b2aba4675181dc71057cd0a4a"
+  },
+  {
+   "ts": "20030207202408",
+   "url": "http://www.vicecityradio.com:80/ver05-nav.html",
+   "mime": "text/html",
+   "len": 1150,
+   "cap": "20040214064942",
+   "sha1": "f8b1d9f6e1c28e385567a16af37d4dc9d6790acc"
+  },
+  {
+   "ts": "20031225050641",
+   "url": "http://www.vicecityradio.com:80/ver06-nav-f.html",
+   "mime": "text/html",
+   "len": 752,
+   "cap": "20031225050641",
+   "sha1": "70c55be35c7d0cf31183a9ee80854894a663fcab"
+  },
+  {
+   "ts": "20021221164853",
+   "url": "http://www.vicecityradio.com:80/ver06-nav.html",
+   "mime": "text/html",
+   "len": 1147,
+   "cap": "20040225051343",
+   "sha1": "3523e4b79ebb108488dab52e9649c7c39aeb1c69"
+  },
+  {
+   "ts": "20030829031624",
+   "url": "http://www.vicecityradio.com:80/ver07-nav-f.html",
+   "mime": "text/html",
+   "len": 757,
+   "cap": "20030829031624",
+   "sha1": "fa9416fc67687df3a50ac4e9b293b2bd87024a33"
+  },
+  {
+   "ts": "20021216132206",
+   "url": "http://www.vicecityradio.com:80/ver07-nav.html",
+   "mime": "text/html",
+   "len": 1147,
+   "cap": "20040209153304",
+   "sha1": "8fa69c98b7f1a9263499a23843f2d81094f52edd"
+  },
+  {
+   "ts": "20021215171247",
+   "url": "http://www.vicecityradio.com:80/vol01-frame.html",
+   "mime": "text/html",
+   "len": 591,
+   "cap": "20040207235436",
+   "sha1": "4bd8d95bc602e3568251d445438a9725350d267b"
+  },
+  {
+   "ts": "20021201082951",
+   "url": "http://www.vicecityradio.com:80/vol01-frameset.html",
+   "mime": "text/html",
+   "len": 539,
+   "cap": "20040207020346",
+   "sha1": "c4823b6718ba1355a7b7acafc9ea12b47b28703a"
+  },
+  {
+   "ts": "20021208082115",
+   "url": "http://www.vicecityradio.com:80/vol01rightside-f.html",
+   "mime": "text/html",
+   "len": 760,
+   "cap": "20040207012937",
+   "sha1": "b94621522066583cfbfb37e3f32e8724ce72f951"
+  },
+  {
+   "ts": "20040612033323",
+   "url": "http://www.vicecityradio.com:80/vol01rightside-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 68106,
+   "cap": "20040612033323",
+   "sha1": "bd83e6558b58ef043326bfeff5f3d797072baef8"
+  },
+  {
+   "ts": "20040121023556",
+   "url": "http://www.vicecityradio.com:80/vol01rightside-nf.html",
+   "mime": "text/html",
+   "len": 477,
+   "cap": "20040121023556",
+   "sha1": "3623149221a3c0ff9d7969769d033e8366ed9a3b"
+  },
+  {
+   "ts": "20021212085112",
+   "url": "http://www.vicecityradio.com:80/vol01rightside.html",
+   "mime": "text/html",
+   "len": 1174,
+   "cap": "20040208053514",
+   "sha1": "08596b23d4fccc2876d0cd271c98a343cc5d9a4f"
+  },
+  {
+   "ts": "20060316001703",
+   "url": "http://www.vicecityradio.com/vol01topnav-f.html",
+   "mime": "text/html",
+   "len": 767,
+   "cap": "20060316001703",
+   "sha1": "b8aa6cb3ea719bedbafa5289654639b45ec74fe7"
+  },
+  {
+   "ts": "20060316001658",
+   "url": "http://www.vicecityradio.com/vol01topnav-nf.html",
+   "mime": "text/html",
+   "len": 712,
+   "cap": "20060316001658",
+   "sha1": "c62e2f912c6e4de6cb0dc96993d6c4219ff35e0f"
+  },
+  {
+   "ts": "20021212085154",
+   "url": "http://www.vicecityradio.com:80/vol01topnav.html",
+   "mime": "text/html",
+   "len": 1170,
+   "cap": "20031217170940",
+   "sha1": "366627d4db4517a89a7818b4ad97396733482138"
+  },
+  {
+   "ts": "20021201103219",
+   "url": "http://www.vicecityradio.com:80/vol02-frame.html",
+   "mime": "text/html",
+   "len": 590,
+   "cap": "20040217015752",
+   "sha1": "dff69b25861b15db5b40865a7628d5fcdda28539"
+  },
+  {
+   "ts": "20021201103429",
+   "url": "http://www.vicecityradio.com:80/vol02-frameset.html",
+   "mime": "text/html",
+   "len": 540,
+   "cap": "20040216150204",
+   "sha1": "491a89de4a31e060cd7402655d5d715a5e9fb8f8"
+  },
+  {
+   "ts": "20021201104351",
+   "url": "http://www.vicecityradio.com:80/vol02rightside-f.html",
+   "mime": "text/html",
+   "len": 761,
+   "cap": "20040205021345",
+   "sha1": "e90f400725c6a4117a20f64ad3a561b5add20870"
+  },
+  {
+   "ts": "20040910131306",
+   "url": "http://www.vicecityradio.com:80/vol02rightside-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 44816,
+   "cap": "20040910131306",
+   "sha1": "77d9d677ab4763152f3a3790c1386e5cabfaff2c"
+  },
+  {
+   "ts": "20060316002221",
+   "url": "http://www.vicecityradio.com/vol02rightside-nf.html",
+   "mime": "text/html",
+   "len": 450,
+   "cap": "20060316002221",
+   "sha1": "687c23ed16498b2e94bb3e4e58ae7d0687019a9e"
+  },
+  {
+   "ts": "20021216052408",
+   "url": "http://www.vicecityradio.com:80/vol02rightside.html",
+   "mime": "text/html",
+   "len": 1172,
+   "cap": "20040428111939",
+   "sha1": "dbe556395003a2b7cc43f6ba8fcc3362d4b1b653"
+  },
+  {
+   "ts": "20060316002238",
+   "url": "http://www.vicecityradio.com/vol02topnav-f.html",
+   "mime": "text/html",
+   "len": 766,
+   "cap": "20060316002238",
+   "sha1": "6d075b5a33f628d25aae8dfef8aabcdae8d16c25"
+  },
+  {
+   "ts": "20060316001646",
+   "url": "http://www.vicecityradio.com/vol02topnav-nf.html",
+   "mime": "text/html",
+   "len": 711,
+   "cap": "20060316001646",
+   "sha1": "3064621ff22f7ec9d46fb7c5e3b7f5d00909dd04"
+  },
+  {
+   "ts": "20021216052924",
+   "url": "http://www.vicecityradio.com:80/vol02topnav.html",
+   "mime": "text/html",
+   "len": 1169,
+   "cap": "20040217092503",
+   "sha1": "23ebc3fbe8252771ee4b44cbc641c2fe5e1be8ed"
+  },
+  {
+   "ts": "20021208082548",
+   "url": "http://www.vicecityradio.com:80/vol03-frame.html",
+   "mime": "text/html",
+   "len": 588,
+   "cap": "20040204062433",
+   "sha1": "f4e3e43542a055299438b578853ae7cd407a7b1e"
+  },
+  {
+   "ts": "20021217090618",
+   "url": "http://www.vicecityradio.com:80/vol03-frameset.html",
+   "mime": "text/html",
+   "len": 540,
+   "cap": "20040204012710",
+   "sha1": "b608889021360acbab6e2abb030650ba5680b1b6"
+  },
+  {
+   "ts": "20021208082730",
+   "url": "http://www.vicecityradio.com:80/vol03rightside-f.html",
+   "mime": "text/html",
+   "len": 761,
+   "cap": "20040406020418",
+   "sha1": "fa868a99f171c3901cab5d276c01d4339a792c4d"
+  },
+  {
+   "ts": "20030916093641",
+   "url": "http://www.vicecityradio.com:80/vol03rightside-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 53289,
+   "cap": "20030916093641",
+   "sha1": "afe897bed31ffc256ece63b273c99ce9a7f5eb7a"
+  },
+  {
+   "ts": "20060316001736",
+   "url": "http://www.vicecityradio.com/vol03rightside-nf.html",
+   "mime": "text/html",
+   "len": 451,
+   "cap": "20060316001736",
+   "sha1": "99ac4113cb3b979123b17facc4d18983c10cffcd"
+  },
+  {
+   "ts": "20021208114103",
+   "url": "http://www.vicecityradio.com:80/vol03rightside.html",
+   "mime": "text/html",
+   "len": 1174,
+   "cap": "20040204132036",
+   "sha1": "c584963d651b0e5749a0a786b64a28a39d0ec2a0"
+  },
+  {
+   "ts": "20060316001724",
+   "url": "http://www.vicecityradio.com/vol03topnav-f.html",
+   "mime": "text/html",
+   "len": 764,
+   "cap": "20060316001724",
+   "sha1": "7482cddd4c7674b29c374c952c48f2e140a06b94"
+  },
+  {
+   "ts": "20060316001728",
+   "url": "http://www.vicecityradio.com/vol03topnav-nf.html",
+   "mime": "text/html",
+   "len": 711,
+   "cap": "20060316001728",
+   "sha1": "592c3f0f5e6a56a11cb5c28988225cdba23e4737"
+  },
+  {
+   "ts": "20021208114343",
+   "url": "http://www.vicecityradio.com:80/vol03topnav.html",
+   "mime": "text/html",
+   "len": 1173,
+   "cap": "20040419081145",
+   "sha1": "5d97477e4e45566a167a8e37c941ec341608b8df"
+  },
+  {
+   "ts": "20021207115829",
+   "url": "http://www.vicecityradio.com:80/vol04-frame.html",
+   "mime": "text/html",
+   "len": 591,
+   "cap": "20040216131229",
+   "sha1": "bcb4596c0dd5f4d5cbab71de0fc475db08e79dea"
+  },
+  {
+   "ts": "20021207085559",
+   "url": "http://www.vicecityradio.com:80/vol04-frameset.html",
+   "mime": "text/html",
+   "len": 540,
+   "cap": "20040216055240",
+   "sha1": "b89a6ba3fff2e4bdd3625c2b6b47fd4e5a448155"
+  },
+  {
+   "ts": "20021208081743",
+   "url": "http://www.vicecityradio.com:80/vol04rightside-f.html",
+   "mime": "text/html",
+   "len": 761,
+   "cap": "20040213013202",
+   "sha1": "fb45f0761deadb937f29ffcaff285cca9a30a973"
+  },
+  {
+   "ts": "20031209195321",
+   "url": "http://www.vicecityradio.com:80/vol04rightside-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 66294,
+   "cap": "20031209195321",
+   "sha1": "8405832d2a4b240d1f73000dd8395ddd4d25bcd2"
+  },
+  {
+   "ts": "20060316002103",
+   "url": "http://www.vicecityradio.com/vol04rightside-nf.html",
+   "mime": "text/html",
+   "len": 450,
+   "cap": "20060316002103",
+   "sha1": "0a34b777118c216f24b2652a9edf8dfb4e605548"
+  },
+  {
+   "ts": "20030627205849",
+   "url": "http://www.vicecityradio.com:80/vol04rightside.html",
+   "mime": "text/html",
+   "len": 1173,
+   "cap": "20040419081220",
+   "sha1": "b586b299130817164de966bcb78e5e3e7d1e638a"
+  },
+  {
+   "ts": "20060316002121",
+   "url": "http://www.vicecityradio.com/vol04topnav-f.html",
+   "mime": "text/html",
+   "len": 763,
+   "cap": "20060316002121",
+   "sha1": "5f48924558c6f4827a815da10e7fc3a12f23c95e"
+  },
+  {
+   "ts": "20060316001547",
+   "url": "http://www.vicecityradio.com/vol04topnav-nf.html",
+   "mime": "text/html",
+   "len": 711,
+   "cap": "20060316001547",
+   "sha1": "74d110964874ef9ef6551e0ce5ec613aad491b55"
+  },
+  {
+   "ts": "20021207152907",
+   "url": "http://www.vicecityradio.com:80/vol04topnav.html",
+   "mime": "text/html",
+   "len": 1171,
+   "cap": "20040217020410",
+   "sha1": "f992d6808c3c61f88ced2721d47b1830ede6617f"
+  },
+  {
+   "ts": "20021201112821",
+   "url": "http://www.vicecityradio.com:80/vol05-frame.html",
+   "mime": "text/html",
+   "len": 587,
+   "cap": "20040214065045",
+   "sha1": "88a61bccb3dc6b5e7ff7682020a8a8c4832c3309"
+  },
+  {
+   "ts": "20021201114843",
+   "url": "http://www.vicecityradio.com:80/vol05-frameset.html",
+   "mime": "text/html",
+   "len": 540,
+   "cap": "20040529190651",
+   "sha1": "e1bc58b32251df0f15bb4592dfa9e40a1a2d92de"
+  },
+  {
+   "ts": "20021201115059",
+   "url": "http://www.vicecityradio.com:80/vol05rightside-f.html",
+   "mime": "text/html",
+   "len": 760,
+   "cap": "20040213012921",
+   "sha1": "33af59915aa7124316348356372c186f53445b9a"
+  },
+  {
+   "ts": "20060316001403",
+   "url": "http://www.vicecityradio.com/vol05rightside-nf.html",
+   "mime": "text/html",
+   "len": 450,
+   "cap": "20060316001403",
+   "sha1": "ddd7dc3dcb2ec0f5abe906c7fd84fca9bb69ce13"
+  },
+  {
+   "ts": "20030209003632",
+   "url": "http://www.vicecityradio.com:80/vol05rightside.html",
+   "mime": "text/html",
+   "len": 1174,
+   "cap": "20040214221642",
+   "sha1": "4a4bcc70bd58be366cd6070c6ab3096fb1bbe76e"
+  },
+  {
+   "ts": "20030108100024",
+   "url": "http://www.vicecityradio.com:80/vol05topnav-f.html",
+   "mime": "text/html",
+   "len": 756,
+   "cap": "20030108100024",
+   "sha1": "a3272d0791642a83b23688f8347af18be4efc4f8"
+  },
+  {
+   "ts": "20060316001359",
+   "url": "http://www.vicecityradio.com/vol05topnav-nf.html",
+   "mime": "text/html",
+   "len": 712,
+   "cap": "20060316001359",
+   "sha1": "2b33fa8359f16cfd5650c7f7ef145126bf763dba"
+  },
+  {
+   "ts": "20021214143509",
+   "url": "http://www.vicecityradio.com:80/vol05topnav.html",
+   "mime": "text/html",
+   "len": 1171,
+   "cap": "20040214221719",
+   "sha1": "ef762e9e5d33ee5f8337fbaf135880d05d9e59c1"
+  },
+  {
+   "ts": "20021208082802",
+   "url": "http://www.vicecityradio.com:80/vol06-frame.html",
+   "mime": "text/html",
+   "len": 588,
+   "cap": "20040225051507",
+   "sha1": "e8bb756d91efbee91ad62b2fa59810e29154e282"
+  },
+  {
+   "ts": "20030615200029",
+   "url": "http://www.vicecityradio.com:80/vol06-frameset.html",
+   "mime": "text/html",
+   "len": 540,
+   "cap": "20040224021838",
+   "sha1": "2cea1fc2e48f4b23d6e19aa239ce27e94daeb0f5"
+  },
+  {
+   "ts": "20030215095136",
+   "url": "http://www.vicecityradio.com:80/vol06rightside-f.html",
+   "mime": "text/html",
+   "len": 765,
+   "cap": "20040410014109",
+   "sha1": "e206c803be1878bb8708f4a82f4edd46c2eb5676"
+  },
+  {
+   "ts": "20030807092532",
+   "url": "http://www.vicecityradio.com:80/vol06rightside-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 51759,
+   "cap": "20030807092532",
+   "sha1": "e384611dca92a6e48a949fe7a09484c38752f421"
+  },
+  {
+   "ts": "20060316001435",
+   "url": "http://www.vicecityradio.com/vol06rightside-nf.html",
+   "mime": "text/html",
+   "len": 452,
+   "cap": "20060316001435",
+   "sha1": "d60630c758bc2339804518c4f9deb644dfe6f2bc"
+  },
+  {
+   "ts": "20021208120408",
+   "url": "http://www.vicecityradio.com:80/vol06rightside.html",
+   "mime": "text/html",
+   "len": 1173,
+   "cap": "20040226071454",
+   "sha1": "4f4ede34421658042baa39387915b8716011576c"
+  },
+  {
+   "ts": "20030108095953",
+   "url": "http://vicecityradio.com:80/vol06topnav-f.html",
+   "mime": "text/html",
+   "len": 756,
+   "cap": "20030108095953",
+   "sha1": "4a8d34e65f4219aad464d91c0c64487f59305d72"
+  },
+  {
+   "ts": "20060316001431",
+   "url": "http://www.vicecityradio.com/vol06topnav-nf.html",
+   "mime": "text/html",
+   "len": 712,
+   "cap": "20060316001431",
+   "sha1": "2db637db9d751ed1067f5e4f80dbc653ad8fe742"
+  },
+  {
+   "ts": "20030215195551",
+   "url": "http://www.vicecityradio.com:80/vol06topnav.html",
+   "mime": "text/html",
+   "len": 1173,
+   "cap": "20040226071535",
+   "sha1": "d7aad8bf9ea256d592e5d092461f5dbf513d8786"
+  },
+  {
+   "ts": "20021208082319",
+   "url": "http://www.vicecityradio.com:80/vol07-frame.html",
+   "mime": "text/html",
+   "len": 586,
+   "cap": "20040109213352",
+   "sha1": "84ebd1ff98fdf5a0ce3bdec9f134392acc7eb03d"
+  },
+  {
+   "ts": "20021216084515",
+   "url": "http://www.vicecityradio.com:80/vol07-frameset.html",
+   "mime": "text/html",
+   "len": 539,
+   "cap": "20030805220830",
+   "sha1": "95d4bfb5da0738a38aa5d08c5c7b824f2e8be314"
+  },
+  {
+   "ts": "20021208105315",
+   "url": "http://www.vicecityradio.com:80/vol07rightside-f.html",
+   "mime": "text/html",
+   "len": 763,
+   "cap": "20040413010141",
+   "sha1": "d36489a9f84850ccc6990747146debf1fdf6f271"
+  },
+  {
+   "ts": "20050224091657",
+   "url": "http://www.vicecityradio.com:80/vol07rightside-f.swf",
+   "mime": "application/x-shockwave-flash",
+   "len": 52555,
+   "cap": "20050224091657",
+   "sha1": "d9762243d35b1a4d6c45f67b6602adc54774eca0"
+  },
+  {
+   "ts": "20060316001512",
+   "url": "http://www.vicecityradio.com/vol07rightside-nf.html",
+   "mime": "text/html",
+   "len": 452,
+   "cap": "20060316001512",
+   "sha1": "d20a27d5f7b4b7b023b716784e9785266113e67f"
+  },
+  {
+   "ts": "20021208121155",
+   "url": "http://www.vicecityradio.com:80/vol07rightside.html",
+   "mime": "text/html",
+   "len": 1176,
+   "cap": "20040110104200",
+   "sha1": "47ea6e745b3930b710e449e432762ee7a13fe8f6"
+  },
+  {
+   "ts": "20060316002056",
+   "url": "http://www.vicecityradio.com/vol07topnav-f.html",
+   "mime": "text/html",
+   "len": 767,
+   "cap": "20060316002056",
+   "sha1": "2d9352e8edc731db1efc8cd3c4ca435ef8415ba1"
+  },
+  {
+   "ts": "20060316002047",
+   "url": "http://www.vicecityradio.com/vol07topnav-nf.html",
+   "mime": "text/html",
+   "len": 712,
+   "cap": "20060316002047",
+   "sha1": "9ddf6ce7c736227a9b5576e343af947108359ed0"
+  },
+  {
+   "ts": "20021208125111",
+   "url": "http://www.vicecityradio.com:80/vol07topnav.html",
+   "mime": "text/html",
+   "len": 1173,
+   "cap": "20040210080252",
+   "sha1": "b224a701835632c2b61563711fb03c7750185807"
+  },
+  {
+   "ts": "20030717120616",
+   "url": "http://www.vicecityradio.com:80/vol1-connected.html",
+   "mime": "text/html",
+   "len": 1572,
+   "cap": "20030717120616",
+   "sha1": "2c0ead80a83963432101fd78bae7edd59487e108"
+  },
+  {
+   "ts": "20021208082147",
+   "url": "http://www.vicecityradio.com:80/vol1-info.html",
+   "mime": "text/html",
+   "len": 1232,
+   "cap": "20040208054012",
+   "sha1": "9d1e2d2b59709e73349887cc1e36ddfc7c813c49"
+  },
+  {
+   "ts": "20031128073759",
+   "url": "http://www.vicecityradio.com:80/vol1-playlist.html",
+   "mime": "text/html",
+   "len": 1498,
+   "cap": "20040222030908",
+   "sha1": "e316770c335ca28b332e57a1890161438de99e5e"
+  },
+  {
+   "ts": "20030608084755",
+   "url": "http://www.vicecityradio.com:80/vol2-connected.html",
+   "mime": "text/html",
+   "len": 1577,
+   "cap": "20030608084755",
+   "sha1": "e43e657e67f247ed57c23fd6c9fff75a3702178d"
+  },
+  {
+   "ts": "20021201104244",
+   "url": "http://www.vicecityradio.com:80/vol2-info.html",
+   "mime": "text/html",
+   "len": 1358,
+   "cap": "20040428112113",
+   "sha1": "726eeb22c503227e8f3435a44d5a308b3fdfbf49"
+  },
+  {
+   "ts": "20041122015408",
+   "url": "http://www.vicecityradio.com:80/vol2-playlist.html",
+   "mime": "text/html",
+   "len": 2019,
+   "cap": "20041122015408",
+   "sha1": "2c75ded7ba207ee3f5890a3fe5faa3a31bd39e79"
+  },
+  {
+   "ts": "20060316002333",
+   "url": "http://www.vicecityradio.com/vol3-connected.html",
+   "mime": "text/html",
+   "len": 2079,
+   "cap": "20060316002333",
+   "sha1": "76c7756f128ce37411fd2abb4c4bbc4f556d8f59"
+  },
+  {
+   "ts": "20021208124030",
+   "url": "http://www.vicecityradio.com:80/vol3-info.html",
+   "mime": "text/html",
+   "len": 1398,
+   "cap": "20031217171324",
+   "sha1": "062f8f9224695a1fa7a42860dc67c65ca170389b"
+  },
+  {
+   "ts": "20030919013039",
+   "url": "http://www.vicecityradio.com:80/vol3-playlist.html",
+   "mime": "text/html",
+   "len": 1583,
+   "cap": "20030919013039",
+   "sha1": "69598fe792c3ebd6889e89e1d2ea672166767cd7"
+  },
+  {
+   "ts": "20030608085025",
+   "url": "http://www.vicecityradio.com:80/vol4-connected.html",
+   "mime": "text/html",
+   "len": 1581,
+   "cap": "20030608085025",
+   "sha1": "6d790eb472e003e47e79ba3922df686370f22308"
+  },
+  {
+   "ts": "20021207151306",
+   "url": "http://www.vicecityradio.com:80/vol4-info.html",
+   "mime": "text/html",
+   "len": 1152,
+   "cap": "20040217020623",
+   "sha1": "7b3f900a6faca23fb4f9e17defb37505c4272196"
+  },
+  {
+   "ts": "20050328051002",
+   "url": "http://www.vicecityradio.com:80/vol4-playlist.html",
+   "mime": "text/html",
+   "len": 1833,
+   "cap": "20050328051002",
+   "sha1": "b96aa8c2a3a1195bb6c0c8013d08046a6ea623e8"
+  },
+  {
+   "ts": "20021231091533",
+   "url": "http://www.vicecityradio.com:80/vol5-connected.html",
+   "mime": "text/html",
+   "len": 1588,
+   "cap": "20021231091533",
+   "sha1": "d33c00887bfb05f2c9bf4b337c52240667619755"
+  },
+  {
+   "ts": "20021201115210",
+   "url": "http://www.vicecityradio.com:80/vol5-info.html",
+   "mime": "text/html",
+   "len": 1023,
+   "cap": "20040214221919",
+   "sha1": "d21bccf004baab22526bbc54550c83afaba43ec7"
+  },
+  {
+   "ts": "20060316001838",
+   "url": "http://www.vicecityradio.com/vol5-playlist.html",
+   "mime": "text/html",
+   "len": 1937,
+   "cap": "20060316001838",
+   "sha1": "ef471913ac45dc80f20e46c3d77b88fb443b888b"
+  },
+  {
+   "ts": "20030715233341",
+   "url": "http://www.vicecityradio.com:80/vol6-connected.html",
+   "mime": "text/html",
+   "len": 1578,
+   "cap": "20030715233341",
+   "sha1": "d1310cfee3a4a2807fa0b6a0d67e15eb7f23cb26"
+  },
+  {
+   "ts": "20021208123158",
+   "url": "http://www.vicecityradio.com:80/vol6-info.html",
+   "mime": "text/html",
+   "len": 1014,
+   "cap": "20040226071621",
+   "sha1": "d472ffe45f3e52f31b80f1bbcf93beac29a780a2"
+  },
+  {
+   "ts": "20030623234526",
+   "url": "http://www.vicecityradio.com:80/vol6-playlist.html",
+   "mime": "text/html",
+   "len": 1430,
+   "cap": "20030623234526",
+   "sha1": "c65b744b1c962d4fb6bb4ca4e3239290c84f81a2"
+  },
+  {
+   "ts": "20060316002547",
+   "url": "http://www.vicecityradio.com/vol7-connected.html",
+   "mime": "text/html",
+   "len": 2090,
+   "cap": "20060316002547",
+   "sha1": "9e41119e51f7f2e36f2b0226bb8bdc1c59b62459"
+  },
+  {
+   "ts": "20021208133041",
+   "url": "http://www.vicecityradio.com:80/vol7-info.html",
+   "mime": "text/html",
+   "len": 1074,
+   "cap": "20040210080934",
+   "sha1": "f77592276cc1b0840943525a3780db73a3a81ac5"
+  },
+  {
+   "ts": "20060316002605",
+   "url": "http://www.vicecityradio.com/vol7-playlist.html",
+   "mime": "text/html",
+   "len": 1840,
+   "cap": "20060316002605",
+   "sha1": "a612ede6c57704782f9f91390094867ec506220d"
+  },
+  {
+   "ts": "20130321202526",
+   "url": "http://www.vicecityradio.com/sonymusiclogo.png",
+   "mime": "image/png",
+   "len": 83139,
+   "cap": "20130321202526",
+   "sha1": "2f22093c92f3febab89ba73280e46eefd692a6f1"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.sonymusic.com/images/animated_logo.gif",
+   "mime": "application/octet-stream",
+   "len": 0,
+   "ext": true,
+   "cap": "20021119134854",
+   "sha1": "8959e51bfc9e61dbb3afb0cedb920a27d7857211"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.sonymusic.com/images/netscape_now_anim.gif",
+   "mime": "application/octet-stream",
+   "len": 0,
+   "ext": true,
+   "cap": "20021119135157",
+   "sha1": "6f9f08685242d347d37989d76be7d81d41424ce3"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.sonymusic.com/labels/epic/connected_gfx/get_shockwave_88_31.gif",
+   "mime": "application/octet-stream",
+   "len": 0,
+   "ext": true,
+   "cap": "20050123222250",
+   "sha1": "f5e8a4a47f4f3b3a4cac0a417097e5ea71a5ed74"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://home.netscape.com/comprod/mirror/images/now30_button.gif",
+   "mime": "application/octet-stream",
+   "len": 0,
+   "ext": true,
+   "cap": "20010603190658",
+   "sha1": "8b30a55851803abfb00647cee193735384101bd5"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.sonymusic.com/ssi/js/detectvar.js",
+   "mime": "application/javascript",
+   "len": 0,
+   "ext": true,
+   "cap": "20021111125113",
+   "sha1": "99827a1dd3740b9a35e441e63e2a9b233873c00d"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.sonymusic.com/ssi/js/writevb.js",
+   "mime": "application/javascript",
+   "len": 0,
+   "ext": true,
+   "cap": "20021108133607",
+   "sha1": "1a1303826a514aa9df713465aef04a6a24fb7c66"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.sonymusic.com/ssi/js/main.js",
+   "mime": "application/javascript",
+   "len": 0,
+   "ext": true,
+   "cap": "20021108133236",
+   "sha1": "c973b90be2df7bb2027ddfcee56e464baa484946"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.shakira.com/images/flags/france.gif",
+   "mime": "application/octet-stream",
+   "len": 0,
+   "ext": true,
+   "cap": "20040220090822",
+   "sha1": "bf565f54b931cd5663ad286b367ac0c7f0e0acc4"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.shakira.com/images/flags/germany.gif",
+   "mime": "application/octet-stream",
+   "len": 0,
+   "ext": true,
+   "cap": "20020921143952",
+   "sha1": "3ec123a01c012262745fa24e9c6a22b3c4437f51"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.shakira.com/images/flags/holland.gif",
+   "mime": "application/octet-stream",
+   "len": 0,
+   "ext": true,
+   "cap": "20030204043439",
+   "sha1": "df7696012bb2ab4b86069942c4593d2b3af173b8"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.shakira.com/images/flags/italy.gif",
+   "mime": "application/octet-stream",
+   "len": 0,
+   "ext": true,
+   "cap": "20041015113823",
+   "sha1": "3663564437c0a619cb3f8ed1a024169462cbaef7"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.shakira.com/images/flags/uk.gif",
+   "mime": "application/octet-stream",
+   "len": 0,
+   "ext": true,
+   "cap": "20030204050931",
+   "sha1": "6a774a0f43651f2e9d12d3cac6420ddc330892a0"
+  },
+  {
+   "ts": "20040225151352",
+   "url": "http://www.sonymusic.com/labels/epic/connected_gfx/getquicktime.gif",
+   "mime": "application/octet-stream",
+   "len": 0,
+   "ext": true,
+   "cap": "20050205222001",
+   "sha1": "daf50350a84ea65784ca02169354b010fa808558"
+  }
+ ],
+ "pruned": [
+  {
+   "ts": "20081011142054",
+   "url": "http://www.vicecityradio.com/ad_bottom.html",
+   "mime": "text/html",
+   "len": 859
+  },
+  {
+   "ts": "20081011142241",
+   "url": "http://www.vicecityradio.com/ad_side.html",
+   "mime": "text/html",
+   "len": 833
+  },
+  {
+   "ts": "20081011142018",
+   "url": "http://www.vicecityradio.com/ad_top.html",
+   "mime": "text/html",
+   "len": 859
+  }
+ ]
+}

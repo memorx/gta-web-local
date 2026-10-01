@@ -1,0 +1,75 @@
+/* GTA Web Local: styles of the blocks filled by fill.js.
+   They inherit the font and colours of the page; they only shape what the game
+   drew with its own engine. */
+.scriptobj { display: inline; }
+.scriptobj.lw-filled { display: block; }
+span.scriptobj[data-name="userName"], span.scriptobj[data-name="totalEmails"],
+span.scriptobj[data-name="profileUser"], span.scriptobj[data-name="profileAge"],
+span.scriptobj[data-name="status"], span.scriptobj[data-name="reporter"],
+span.scriptobj[data-name="weatherText"], span.scriptobj[data-name="headline"],
+span.scriptobj[data-name="sec_headline"], span.scriptobj[data-name="summary"],
+span.scriptobj[data-name="top_info"], span.scriptobj[data-name="home_news_info"],
+span.scriptobj[data-name="navTopTitle"], span.scriptobj[data-name="navBottomTitle"] { display: inline; }
+.scriptobj p { margin: 0 0 .7em; }
+.scriptobj img { border: 0; max-width: 100%; height: auto; }
+.lw-ad img { display: block; }
+.lw-photo { display: block; margin: 0 0 6px; }
+.lw-summary { font-style: italic; }
+.lw-hl { font-weight: bold; }
+.lw-more { font-weight: bold; margin-left: 4px; }
+
+/* news: quick links list */
+.lw-quick { list-style: none; margin: 0; padding: 4px 6px; }
+.lw-quick li { margin: 0 0 6px; line-height: 1.25; }
+.lw-quick li.lw-cur a { font-weight: bold; text-decoration: none; }
+.lw-qnav { display: flex; justify-content: space-between; padding: 0 6px 6px; font-size: 10px; }
+
+/* eyefind: LuckyFind results */
+.lw-sr { padding: 8px 4px; }
+.lw-sr-t { font-size: 13px; font-weight: bold; color: #1a4d8f; }
+.lw-sr-d { color: #222; margin: 2px 0; }
+.lw-sr-u { color: #2a7a2a; font-size: 10px; }
+.lw-err { font-size: 16px; font-weight: bold; color: #b00; padding: 24px 0; text-align: center; }
+
+/* love-meet */
+.lw-card { display: flex; flex-direction: column; align-items: center; text-align: center; text-decoration: none; color: #333; padding: 6px 4px; }
+.lw-card img { width: 160px; border: 3px solid #fff; box-shadow: 0 0 0 1px #c9c; margin-bottom: 6px; }
+.lw-card-user { font-weight: bold; font-size: 13px; color: #b0306e; }
+.lw-card-meta { font-size: 10px; color: #666; margin: 2px 0 4px; }
+.lw-card-quote { font-size: 10px; font-style: italic; line-height: 1.25; }
+.lw-card:hover .lw-card-user { text-decoration: underline; }
+td:has(> .scriptobj > .lw-card), th:has(> .scriptobj > .lw-card) { vertical-align: top; }
+.lw-pager { text-align: center; padding: 10px; font-weight: bold; }
+.lw-btn { font: inherit; font-weight: bold; padding: 4px 12px; cursor: pointer; background: #fff; border: 1px solid #888; }
+.lw-note { font-weight: bold; }
+
+/* mail */
+.lw-mrow { display: flex; gap: 10px; padding: 5px 8px; border-bottom: 1px solid #ccd; text-decoration: none; color: #223; background: #fff; }
+.lw-mrow.lw-unread { font-weight: bold; }
+.lw-mrow.lw-cur { background: #dfe8f6; }
+.lw-mfrom { width: 150px; flex: none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.lw-msubj { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.lw-mail { background: #fff; color: #223; padding: 10px 12px; max-height: 360px; overflow: auto; text-align: left; }
+.lw-mhead { border-bottom: 1px solid #ccd; padding-bottom: 6px; margin-bottom: 8px; }
+.lw-mbody { line-height: 1.35; }
+.lw-reply { margin-top: 8px; }
+.lw-reply summary { cursor: pointer; font-weight: bold; color: #1a4d8f; }
+.lw-mhello { color: #667; text-align: center; padding: 30px 10px; }
+.lw-inbox { padding: 6px 0; }
+.lw-inbox .lw-mhead { padding: 0 10px 6px; margin: 0; }
+.lw-mdot { width: 10px; flex: none; color: #e8a000; }
+.lw-mback { display: inline-block; margin-bottom: 8px; font-weight: bold; }
+.lw-hide { display: none !important; }
+
+/* blogs and Celebinator */
+.lw-post { padding: 6px 0 14px; border-bottom: 1px dotted rgba(128,128,128,.5); margin-bottom: 10px; line-height: 1.35; }
+.lw-post h3 { margin: 0 0 6px; }
+.lw-blognav a { margin: 0 6px; font-weight: bold; }
+.lw-ta { width: 95%; font: inherit; }
+
+/* VIP ringtones */
+.lw-ring { display: block; padding: 4px 6px; font-weight: bold; }
+.lw-nolink { cursor: default; opacity: .6; }
+
+/* internet cafe desktop */
+.lw-icon { display: inline-block; text-align: center; color: #fff; text-decoration: none; font-weight: bold; text-shadow: 0 1px 2px #000; }
